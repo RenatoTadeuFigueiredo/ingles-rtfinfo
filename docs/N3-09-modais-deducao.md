@@ -21,8 +21,8 @@ Você não sabe o fato, mas tem evidências. O modal que você escolhe mostra su
 | ~95% que NÃO | **can't** | That **can't be** right. | Isso **não pode estar** certo. |
 
 - *The lights are on — they **must be** home.* — As luzes estão acesas — eles devem estar em casa.
-- *I'm not sure... it **could be** a possum on the roof.* — Não tenho certeza... pode ser um gambá no telhado. (clássico de Brisbane!)
-- *He **can't be** in Sydney — I saw him this morning.* — Ele não pode estar em Sydney — eu o vi hoje de manhã.
+- *I'm not sure... it **could be** a possum on the roof.* — Não tenho certeza... pode ser um gambá no telhado.
+- *He **can't be** in Paris — I saw him this morning.* — Ele não pode estar em Paris — eu o vi hoje de manhã.
 
 > O par lógico é **must ↔ can't**. Se a dedução positiva é *must be*, a negativa é *can't be* — **não** é *mustn't be* (veja a armadilha nº 1).
 
@@ -31,7 +31,7 @@ Você não sabe o fato, mas tem evidências. O modal que você escolhe mostra su
 ```
 SUJEITO + MODAL + VERBO (sem to)
 
-She  must   be    Australian.   →  Ela deve ser australiana.
+She  must   be    Canadian.     →  Ela deve ser canadense.
 It   can't  be    easy.         →  Não deve ser fácil.
 They might  know  the answer.   →  Eles talvez saibam a resposta.
 ```
@@ -72,8 +72,8 @@ O contexto diz qual é qual:
 
 | Sentido | Exemplo | Tradução |
 |---------|---------|----------|
-| Obrigação (N2-06) | You **must wear** a seatbelt in Queensland. | Você **tem que** usar cinto em Queensland. |
-| Dedução (este tema) | You **must be** Giovanna — nice to meet you! | Você **deve ser** a Giovanna — prazer! |
+| Obrigação (N2-06) | You **must wear** a seatbelt on the highway. | Você **tem que** usar cinto na estrada. |
+| Dedução (este tema) | You **must be** Sofia — nice to meet you! | Você **deve ser** a Sofia — prazer! |
 
 No passado, a ambiguidade desaparece: **must have + particípio** é SEMPRE dedução. Obrigação no passado é *had to* (*I had to work* — tive que trabalhar).
 
@@ -124,7 +124,7 @@ Duas diferenças que importam:
 1. Complete: *The lights are off — they ______ (be) home.* (quase certeza que não)
 2. Certo ou errado: *"She mustn't be Brazilian — she doesn't speak Portuguese."*
 3. Traduza: "Ele deve ter esquecido o celular em casa."
-4. Complete: *I'm not sure where Renato is... he ______ (work) right now.* (talvez, ação em andamento)
+4. Complete: *I'm not sure where Lucas is... he ______ (work) right now.* (talvez, ação em andamento)
 5. Must, might ou can't? *You've been awake since 4 a.m. — you ______ be exhausted!*
 
 <details>

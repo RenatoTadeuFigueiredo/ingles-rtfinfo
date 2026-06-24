@@ -17,10 +17,10 @@ A prova é presencial (ou por vídeo), cara a cara com um examinador, e **gravad
 | Parte | Duração | O que acontece | O que o examinador quer ver |
 |-------|---------|----------------|------------------------------|
 | **Part 1** — entrevista | 4–5 min | Perguntas sobre VOCÊ: casa, trabalho/estudo, hobbies, comida, rotina | Respostas naturais e **estendidas** sobre temas do dia a dia |
-| **Part 2** — monólogo (cue card) | 3–4 min | Você recebe um cartão com um tema, tem **1 min para preparar** e fala **sozinha por 1–2 min** | Falar **sem parar** por 2 minutos, organizando as ideias |
+| **Part 2** — monólogo (cue card) | 3–4 min | Você recebe um cartão com um tema, tem **1 min para preparar** e fala **sozinho/a por 1–2 min** | Falar **sem parar** por 2 minutos, organizando as ideias |
 | **Part 3** — discussão | 4–5 min | Perguntas **abstratas** ligadas ao tema da Part 2 (sociedade, tendências, comparações) | Opinião + justificativa + exemplo, em registro mais formal |
 
-> 🎯 **IELTS — sua meta:** para a banda **5.5–6.0**, você NÃO precisa de inglês perfeito. O descritor da banda 6 diz: "disposta a falar longamente, mesmo perdendo coerência às vezes; erros ocorrem, mas raramente impedem a comunicação". Falar **muito com alguns erros** vale mais que falar pouco e perfeito.
+> 🎯 **IELTS — sua meta:** para a banda **5.5–6.0**, você NÃO precisa de inglês perfeito. O descritor da banda 6 diz: "disposto/a a falar longamente, mesmo perdendo coerência às vezes; erros ocorrem, mas raramente impedem a comunicação". Falar **muito com alguns erros** vale mais que falar pouco e perfeito.
 
 ### Os 4 critérios de nota (25% cada)
 
@@ -40,8 +40,8 @@ Perguntas simples e pessoais. O erro fatal é responder com uma palavra. A fórm
 | Pergunta do examinador | ❌ Resposta curta | ✅ Resposta A.R.E. |
 |------------------------|-------------------|---------------------|
 | *Do you like cooking?* | *Yes.* | *Yes, I do — mainly **because** it helps me relax. **For example**, last weekend I made a Brazilian dish called moqueca.* — Sim — principalmente porque me ajuda a relaxar. Por exemplo, fim de semana passado fiz um prato brasileiro chamado moqueca. |
-| *Where do you live?* | *In Brisbane.* | *I live in Brisbane, in a suburb close to the river. **What I like most about it is** how quiet it is.* — Moro em Brisbane, num bairro perto do rio. O que eu mais gosto é como ele é tranquilo. |
-| *Do you work or study?* | *I study.* | *I'm currently doing a master's degree, **which means** most of my week is taken up by lectures and assignments.* — Estou fazendo mestrado, o que significa que a maior parte da semana é tomada por aulas e trabalhos. |
+| *Where do you live?* | *In the city centre.* | *I live downtown, in a neighbourhood close to the river. **What I like most about it is** how vibrant it is.* — Moro no centro, num bairro perto do rio. O que eu mais gosto é como ele é animado. |
+| *Do you work or study?* | *I study.* | *I'm currently studying at university, **which means** most of my week is taken up by lectures and assignments.* — Estou estudando na faculdade, o que significa que a maior parte da semana é tomada por aulas e trabalhos. |
 
 Regra prática: **2 a 4 frases por resposta**. Menos que isso é pouco; discurso de 1 minuto na Part 1 é demais (guarde fôlego para a Part 2).
 
@@ -63,7 +63,7 @@ and explain why you would like to live there.
 - Use os bullets do cartão como esqueleto — eles JÁ são a estrutura da resposta.
 
 **Os 2 minutos falando** — técnica **passado → presente → futuro** para esticar qualquer tema:
-- Passado: *I first heard about Brisbane when...* — Ouvi falar de Brisbane pela primeira vez quando...
+- Passado: *I first heard about this city when...* — Ouvi falar desta cidade pela primeira vez quando...
 - Presente: *These days, what attracts me most is...* — Hoje em dia, o que mais me atrai é...
 - Futuro: *In the future, I hope to...* — No futuro, espero...
 
@@ -85,9 +85,9 @@ Aqui a pergunta deixa de ser sobre você e vira sobre **o mundo** — e o regist
 
 > *Do you think cities will become more expensive in the future?*
 >
-> *I'd say they probably will (opinião), mainly because demand for housing keeps growing (razão). Brisbane is a good example — rents have risen sharply since the pandemic (exemplo). **Having said that**, remote work might ease the pressure on big cities (concessão).*
+> *I'd say they probably will (opinião), mainly because demand for housing keeps growing (razão). London is a good example — rents have risen sharply since the pandemic (exemplo). **Having said that**, remote work might ease the pressure on big cities (concessão).*
 >
-> — Eu diria que provavelmente sim, principalmente porque a demanda por moradia continua crescendo. Brisbane é um bom exemplo — os aluguéis subiram muito desde a pandemia. Dito isso, o trabalho remoto pode aliviar a pressão nas grandes cidades.
+> — Eu diria que provavelmente sim, principalmente porque a demanda por moradia continua crescendo. Londres é um bom exemplo — os aluguéis subiram muito desde a pandemia. Dito isso, o trabalho remoto pode aliviar a pressão nas grandes cidades.
 
 Banco de frases por função:
 
@@ -135,7 +135,7 @@ E se não entender a pergunta, **pode pedir para repetir sem perder ponto**:
 1. Quantas partes tem o Speaking, e quanto dura a prova inteira?
 2. Na Part 2: quanto tempo você tem para preparar e quanto tempo deve falar?
 3. Certo ou errado: "Decorar uma resposta completa para perguntas comuns da Part 1 é uma boa estratégia."
-4. O examinador pergunta *"Do you like living in Brisbane?"* — monte uma resposta A.R.E. em voz alta.
+4. O examinador pergunta *"Do you like living in your city?"* — monte uma resposta A.R.E. em voz alta.
 5. Pergunta de Part 3: *"Do you think people work too much nowadays?"* — qual é a fórmula de 4 passos para responder?
 
 <details>
@@ -144,7 +144,7 @@ E se não entender a pergunta, **pode pedir para repetir sem perder ponto**:
 1. **3 partes**, total de **11–14 minutos**: Part 1 (4–5 min, entrevista), Part 2 (3–4 min, monólogo), Part 3 (4–5 min, discussão).
 2. **1 minuto** para preparar (com papel e lápis) e **1–2 minutos** falando — mire nos 2 minutos completos.
 3. **Errado** — o examinador detecta texto decorado e muda a pergunta. Decore estruturas e conectores, não respostas.
-4. Exemplo: *"Yes, I really do — mainly **because** the weather is great and the city is calm. **For example**, we can walk along the river almost every evening."* (resposta + razão + exemplo)
+4. Exemplo: *"Yes, I really do — mainly **because** the city is vibrant and there's always something going on. **For example**, I love how easy it is to get around by public transport."* (resposta + razão + exemplo)
 5. **Opinião → razão → exemplo → concessão**: *"I'd say they do, mainly because... For example... Having said that, ..."*
 
 </details>

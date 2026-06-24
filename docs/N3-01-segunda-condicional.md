@@ -23,7 +23,7 @@ Se eu  tivesse  mais tempo,  eu viajaria       mais.
 |------------------------|---------------------------|
 | If I **won** the lottery, | I **would buy** a house. |
 | If she **spoke** English fluently, | she **would get** the job. |
-| If we **lived** in Brisbane, | we **would go** to the beach every week. |
+| If we **lived** near the beach, | we **would go** swimming every week. |
 
 As duas metades podem trocar de ordem (sem vírgula quando o *if* vem depois):
 - *I would travel more **if I had** more time.*
@@ -106,5 +106,5 @@ O resultado nem sempre é certeza — dá para modular:
 - [ ] Would **nunca** entra na parte do if
 - [ ] 1ª = provável (*will*) · 2ª = improvável/imaginário (*would*)
 - [ ] *If I were you...* = "eu no seu lugar" — fale 2 conselhos usando essa estrutura
-- [ ] Fale 3 frases imaginárias sobre a vida na Austrália (*If we lived in Brisbane, ...*)
+- [ ] Fale 3 frases imaginárias sobre situações irreais (*If I lived abroad, ...* / *If I had more free time, ...*)
 - [ ] Se confundiu com a 1ª condicional → revise [N2-05] antes de seguir

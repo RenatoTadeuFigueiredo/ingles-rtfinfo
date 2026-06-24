@@ -40,7 +40,7 @@ Colocar o *you* muda o tom: *"**You** close the window!"* soa **acusatório/brav
 
 **1. Instruções e direções (o uso nº 1 no dia a dia)**
 - *Turn left at the station.* — Vire à esquerda na estação.
-- *Take the train to South Bank.* — Pegue o trem para South Bank.
+- *Take the train to downtown.* — Pegue o trem para o centro.
 - *Mix the eggs and the flour.* — Misture os ovos e a farinha. (receitas)
 
 **2. Ordens e pedidos diretos**
@@ -48,13 +48,13 @@ Colocar o *you* muda o tom: *"**You** close the window!"* soa **acusatório/brav
 - *Wait a moment.* — Espere um momento.
 
 **3. Conselhos**
-- *Take an umbrella — it rains a lot in Brisbane in summer.* — Leve um guarda-chuva...
+- *Take an umbrella — it rains a lot in London in autumn.* — Leve um guarda-chuva...
 - *Drink lots of water.* — Beba bastante água.
 
 **4. Avisos e alertas**
 - *Watch out!* — Cuidado!
-- *Don't swim outside the flags.* — Não nade fora das bandeiras. (regra de ouro das praias australianas)
-- *Slip, Slop, Slap!* — slogan australiano de proteção solar: vista camiseta, passe protetor, ponha chapéu — três imperativos seguidos!
+- *Don't run near the pool.* — Não corra perto da piscina.
+- *Stop, Drop, Roll!* — slogan de segurança contra incêndio: pare, deite, role — três imperativos seguidos!
 
 **5. Convites e ofertas (sim, imperativo pode ser gentil!)**
 - *Come in!* — Entre!
@@ -62,7 +62,7 @@ Colocar o *you* muda o tom: *"**You** close the window!"* soa **acusatório/brav
 - *Help yourself.* — Sirva-se.
 
 **6. Placas e avisos escritos**
-- *Keep left.* — Mantenha-se à esquerda. (na Austrália se anda/dirige pela esquerda!)
+- *Keep right.* — Mantenha-se à direita.
 - *Do not enter.* — Não entre. (em placas, a forma completa **do not** é comum)
 - *Mind the gap.* — Cuidado com o vão. (clássico de estação de trem)
 
@@ -159,6 +159,6 @@ E para reforçar um convite com simpatia, existe o **Do** enfático: *Do come in
 - [ ] Recite a regra: **verbo na forma base, sem sujeito** · negativa = **Don't + verbo**
 - [ ] Adjetivo precisa de **be**: *Be careful* · *Don't be late*
 - [ ] **Let's + verbo base** = "vamos..." · negativa = *let's not*
-- [ ] Fale 3 direções em voz alta como se guiasse alguém em Brisbane (*Turn left..., Go straight..., Take the train to...*)
+- [ ] Fale 3 direções em voz alta como se guiasse alguém pela cidade (*Turn left..., Go straight..., Take the bus to...*)
 - [ ] Armadilha nº 1: **nada de "to" e nada de "you"** — *Sit down*, nunca *You to sit down*
 - [ ] *Please* no começo ou no fim já deixa o pedido educado

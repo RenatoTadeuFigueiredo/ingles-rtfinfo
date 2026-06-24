@@ -32,7 +32,7 @@ Cada tempo verbal "anda um passo para trás":
 
 | Fala original | Relato | Exemplo |
 |---------------|--------|---------|
-| Present simple | Past simple | *"I **live** in Brisbane"* → *She said she **lived** in Brisbane.* |
+| Present simple | Past simple | *"I **live** in London"* → *She said she **lived** in London.* |
 | Present continuous | Past continuous | *"I **am working**"* → *He said he **was working**.* |
 | Present perfect | Past perfect | *"I **have finished**"* → *She said she **had finished**.* |
 | Past simple | Past perfect | *"I **saw** him"* → *She said she **had seen** him.* |
@@ -51,8 +51,8 @@ Cada tempo verbal "anda um passo para trás":
 
 Se o que a pessoa disse **ainda é verdade** (fato geral, situação atual), o backshift é opcional:
 
-- *"Brisbane is sunny."* → *She said Brisbane **is** sunny.* ✅ (ainda é — pode manter)
-- *She said Brisbane **was** sunny.* ✅ (também correto, mais "neutro")
+- *"Paris is beautiful."* → *She said Paris **is** beautiful.* ✅ (ainda é — pode manter)
+- *She said Paris **was** beautiful.* ✅ (também correto, mais "neutro")
 
 E se o verbo de relato está no **presente** (*says*, não *said*), **não há backshift nenhum**:
 - *She **says** she **is** tired.* — Ela diz que está cansada. (relato "ao vivo": mensagens, manchetes)
@@ -84,7 +84,7 @@ Quem relata fala **de outro lugar, em outro momento** — então as referências
 | this / these | that / those |
 
 - *"I'll sign the lease **tomorrow**,"* (segunda-feira) → Na quarta: *He said he would sign the lease **the next day**.*
-- *"We love it **here**,"* (em Brisbane) → Por telefone para o Brasil: *They said they loved it **there**.*
+- *"We love it **here**,"* (na nova cidade) → Por telefone para o Brasil: *They said they loved it **there**.*
 
 > ⚠️ Só ajuste se o contexto mudou de verdade. Se você relata **no mesmo dia**, *today* pode continuar *today*.
 
@@ -99,7 +99,7 @@ Duas regras de ouro:
 - *"**What time does** the bus leave?"* → *He asked **what time the bus left**.*
 
 **Yes/no questions** — entra **if** ou **whether**:
-- *"**Do** you have a TFN?"* → *They asked **if I had** a TFN.*
+- *"**Do** you have a student ID?"* → *They asked **if I had** a student ID.*
 - *"**Are** you enjoying the course?"* → *She asked **whether I was enjoying** the course.*
 
 ### Ordens, pedidos e conselhos: told/asked + to

@@ -37,15 +37,15 @@ O past perfect só faz sentido quando existe **um ponto de referência no passad
  (mais antigo)  (referência no passado)
 ```
 
-- *When I arrived at the party, Giovanna **had** already **left**.* — Quando cheguei na festa, a Giovanna **já tinha ido embora**. (primeiro ela saiu, depois eu cheguei)
+- *When I arrived at the party, Ana **had** already **left**.* — Quando cheguei na festa, a Ana **já tinha ido embora**. (primeiro ela saiu, depois eu cheguei)
 - *The plane **had taken off** by the time we got to the airport.* — O avião **já tinha decolado** quando chegamos ao aeroporto.
 - *I couldn't pay because I **had forgotten** my wallet.* — Não consegui pagar porque **tinha esquecido** a carteira.
 
 | 1º aconteceu (past perfect) | 2º aconteceu (past simple) |
 |------------------------------|----------------------------|
-| She **had studied** English in Brazil | before she **moved** to Brisbane. |
+| She **had studied** English in Brazil | before she **moved** to London. |
 | We **had saved** for two years | when we finally **bought** the tickets. |
-| He **had never flown** | until he **took** that flight to Australia. |
+| He **had never flown** | until he **took** that first flight abroad. |
 
 ### Past perfect vs past simple: quando o had é obrigatório?
 
@@ -72,8 +72,8 @@ Os dois usam particípio, mas o ponto de vista é diferente:
 | **Present perfect** | I **have lost** my keys. | **AGORA** — estou sem as chaves neste momento. |
 | **Past perfect** | I **had lost** my keys. | **um momento no PASSADO** — estava sem elas naquela hora. |
 
-- *She **has lived** in Brisbane for two years.* — mora lá **até hoje**.
-- *She **had lived** in Brisbane for two years when she got the job.* — já morava lá havia 2 anos **quando conseguiu o emprego** (a história é contada do passado).
+- *She **has lived** in Paris for two years.* — mora lá **até hoje**.
+- *She **had lived** in Paris for two years when she got the job.* — já morava lá havia 2 anos **quando conseguiu o emprego** (a história é contada do passado).
 
 > Macete: present perfect olha do **agora** para trás; past perfect olha de **um momento do passado** para trás. Empurre o have para o passado → vira had.
 
@@ -82,8 +82,8 @@ Os dois usam particípio, mas o ponto de vista é diferente:
 As mesmas palavrinhas do present perfect funcionam aqui, mais algumas próprias:
 
 - **already / just / never / yet** — *She **had just landed** when she called me.* — Ela **tinha acabado de pousar** quando me ligou.
-- **by the time** (= quando finalmente) — ***By the time** we found a rental in Brisbane, we **had visited** ten apartments.* — Quando finalmente achamos um lugar para alugar, **tínhamos visitado** dez apartamentos.
-- **before / after / until / when** — *I **had never tried** Vegemite **before** I came to Australia.* — Eu **nunca tinha provado** Vegemite antes de vir para a Austrália.
+- **by the time** (= quando finalmente) — ***By the time** we found a rental in the new city, we **had visited** ten apartments.* — Quando finalmente achamos um lugar para alugar, **tínhamos visitado** dez apartamentos.
+- **before / after / until / when** — *I **had never tried** sushi **before** I moved to Tokyo.* — Eu **nunca tinha provado** sushi antes de me mudar para Tóquio.
 - **for / since** — *They **had known** each other **for** ten years when they got married.* — Eles **se conheciam** havia dez anos quando se casaram.
 
 ### Had been doing: o past perfect continuous
@@ -101,7 +101,7 @@ Ela  estava esperando  havia 1 hora  quando o ônibus chegou.
 |----------------------------------|----------------------------------------------|
 | I **had written** three emails. | I **had been writing** emails all morning. |
 | Tinha escrito 3 e-mails (conta o resultado). | Tinha passado a manhã escrevendo (foca a atividade). |
-| She **had studied** the visa rules. | She **had been studying** English for six months before the test. |
+| She **had studied** the grammar rules. | She **had been studying** English for six months before the test. |
 
 Também explica **causas visíveis no passado**:
 - *The ground was wet — it **had been raining**.* — O chão estava molhado: **tinha chovido** / estava chovendo antes.
@@ -140,7 +140,7 @@ Diferente do present perfect, o past perfect tem equivalente direto: **"tinha fe
 
 1. Complete: *By the time we got to the station, the train ______ (already / leave).*
 2. Certo ou errado: *"Last week I had visited my parents."* (uma ação só, semana passada)
-3. Traduza: "Eu nunca tinha visto um canguru antes de me mudar para a Austrália."
+3. Traduza: "Eu nunca tinha visto neve antes de me mudar para o Canadá."
 4. Qual a diferença? *(a) When I called, she made dinner.* / *(b) When I called, she had made dinner.*
 5. Complete com a forma contínua: *They were exhausted because they ______ (pack) boxes all day.*
 
@@ -149,7 +149,7 @@ Diferente do present perfect, o past perfect tem equivalente direto: **"tinha fe
 
 1. *...the train **had already left**.* (o trem saiu antes de chegarmos)
 2. Errado — ação única com tempo definido pede past simple: *Last week I **visited** my parents.*
-3. *I **had never seen** a kangaroo before I moved to Australia.*
+3. *I **had never seen** snow before I moved to Canada.*
 4. (a) ela fez o jantar **depois** que liguei; (b) o jantar **já estava feito** quando liguei — o *had* coloca a ação antes.
 5. *...they **had been packing** boxes all day.* (duração/atividade até aquele momento do passado)
 

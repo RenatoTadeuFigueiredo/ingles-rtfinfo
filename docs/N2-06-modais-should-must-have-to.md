@@ -36,7 +36,7 @@ She  should  to study...      ❌ (sem to, nunca)
 
 | Inglês | Português |
 |--------|-----------|
-| You **should open** a bank account before you arrive in Brisbane. | Você deveria abrir uma conta bancária antes de chegar em Brisbane. |
+| You **should open** a bank account before you arrive in the city. | Você deveria abrir uma conta bancária antes de chegar na cidade. |
 | You **shouldn't carry** much cash here. | Você não deveria andar com muito dinheiro aqui. |
 | **Should** I take an umbrella? | Eu deveria levar um guarda-chuva? |
 
@@ -47,7 +47,7 @@ She  should  to study...      ❌ (sem to, nunca)
 **Must** = "devo/tenho que", quando a obrigação vem **de dentro** — do próprio falante, da sua convicção ou de uma regra que ele endossa:
 
 - *I **must call** my mum tonight.* — Tenho que ligar pra minha mãe hoje. (decisão minha)
-- *You **must see** the Story Bridge at night!* — Você TEM que ver a Story Bridge à noite! (recomendação forte)
+- *You **must see** the old town at night!* — Você TEM que ver o centro histórico à noite! (recomendação forte)
 - *Students **must attend** 80% of classes.* — Os alunos devem comparecer a 80% das aulas. (regra em aviso escrito/formal)
 
 **Must** também faz **dedução básica** — quando você conclui que algo é certamente verdade:
@@ -58,10 +58,10 @@ She  should  to study...      ❌ (sem to, nunca)
 
 ### Have to — obrigação externa (regra, lei, alguém manda)
 
-**Have to** = "tenho que", quando a obrigação vem **de fora** — lei, regra, chefe, visto:
+**Have to** = "tenho que", quando a obrigação vem **de fora** — lei, regra, chefe, horário:
 
-- *In Australia, you **have to drive** on the left.* — Na Austrália, você tem que dirigir pela esquerda. (lei)
-- *She **has to renew** her visa next year.* — Ela tem que renovar o visto ano que vem. (regra do governo)
+- *In the UK, you **have to drive** on the left.* — No Reino Unido, você tem que dirigir pela esquerda. (lei)
+- *She **has to renew** her driver's licence next year.* — Ela tem que renovar a carteira de motorista. (lei)
 - *I **have to be** at school at 8am.* — Tenho que estar na escola às 8h. (horário imposto)
 
 Na prática, na afirmativa **must** e **have to** são quase intercambiáveis — a diferença fina:
@@ -80,7 +80,7 @@ Na **negativa**, must e have to se separam completamente — e aqui mora o erro 
 | | Significado | Exemplo |
 |---|------------|---------|
 | **mustn't** | **PROIBIDO** — não faça! | *You **mustn't smoke** on the train.* — É proibido fumar no trem. |
-| **don't have to** | **NÃO PRECISA** — opcional | *You **don't have to tip** in Australia.* — Você não precisa dar gorjeta na Austrália. |
+| **don't have to** | **NÃO PRECISA** — opcional | *You **don't have to tip** in Japan.* — Você não precisa dar gorjeta no Japão. |
 
 A lógica do português engana: "não tem que" parece negação simétrica de "tem que", mas em inglês:
 - *You **mustn't** pay* = é proibido pagar 🚫
@@ -94,8 +94,8 @@ Trocar um pelo outro muda o sentido da frase inteira — teste-se nisso até vir
 
 | Inglês | Português |
 |--------|-----------|
-| It **might rain** this afternoon — Brisbane storms come fast. | Talvez chova hoje à tarde — as tempestades de Brisbane chegam rápido. |
-| We **might go** to the Gold Coast on Sunday. | Talvez a gente vá pra Gold Coast no domingo. |
+| It **might rain** this afternoon — the weather changes fast here. | Talvez chova hoje à tarde — o tempo muda rápido aqui. |
+| We **might go** to the beach on Sunday. | Talvez a gente vá pra praia no domingo. |
 | She **may not come** to the barbecue. | Pode ser que ela não venha pro churrasco. |
 
 Escala de certeza (do certo ao talvez):
@@ -122,20 +122,20 @@ will (100%)  >  must be (dedução ~95%)  >  might / may (~50% ou menos)
 
 ## Auto-teste
 
-1. Complete com should ou shouldn't: *You ______ (visit) South Bank — the pools are free!*
-2. Mustn't ou don't have to? *You ______ bring cash — the buses in Brisbane accept cards.*
+1. Complete com should ou shouldn't: *You ______ (visit) the city park — the pools are free!*
+2. Mustn't ou don't have to? *You ______ bring cash — the buses here accept cards.*
 3. Traduza: "Talvez a gente se mude pra mais perto da universidade."
 4. Certo ou errado: *"She must to renew her passport before the trip."*
-5. Complete (regra externa): *In Queensland, you ______ wear a helmet when you ride a bike.*
+5. Complete (regra externa): *In most countries, you ______ wear a helmet when you ride a bike.*
 
 <details>
 <summary><strong>Respostas</strong></summary>
 
-1. *You **should visit** South Bank — the pools are free!* (conselho positivo)
+1. *You **should visit** the city park — the pools are free!* (conselho positivo)
 2. ***don't have to*** — não precisa (é opcional). *Mustn't* diria que é proibido levar dinheiro!
 3. *We **might move** closer to the university.* (might + verbo sem to)
 4. Errado — modal sem to: *She **must renew** her passport before the trip.*
-5. *you **have to** wear a helmet* — obrigação externa (lei de Queensland). ***Must*** também é aceito (afirmativa formal/aviso escrito).
+5. *you **have to** wear a helmet* — obrigação externa (lei). ***Must*** também é aceito (afirmativa formal/aviso escrito).
 
 </details>
 
@@ -158,5 +158,5 @@ will (100%)  >  must be (dedução ~95%)  >  might / may (~50% ou menos)
 - [ ] A escada: **should** (conselho) → **have to/must** (obrigação) → **mustn't** (proibição) → **might** (talvez)
 - [ ] A pegadinha: **mustn't** = proibido 🚫 · **don't have to** = não precisa 🆓 — fale 1 exemplo de cada
 - [ ] **must** = obrigação de dentro · **have to** = regra de fora (e have to usa do/does/has)
-- [ ] Fale 3 frases sobre a vida em Brisbane: uma com *should*, uma com *have to*, uma com *might*
+- [ ] Fale 3 frases sobre sua rotina: uma com *should*, uma com *have to*, uma com *might*
 - [ ] Se travou na negativa/pergunta dos modais → revise [N0-13 Can/Can't] antes de seguir

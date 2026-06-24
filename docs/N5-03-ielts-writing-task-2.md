@@ -21,7 +21,7 @@ O Task 2 é um essay argumentativo de **250+ palavras em ~40 minutos**; no **opi
 | Tempo sugerido | 20 min | **40 min** |
 | Peso | 1/3 | **2/3** |
 
-Para a meta de **6.0 geral / 5.5 por banda**, a boa notícia: banda 6 no Writing **não exige inglês sofisticado** — exige responder a pergunta por inteiro, organizar bem os parágrafos e errar pouco no básico.
+Para quem tem a meta de **6.0 no IELTS**, a boa notícia: banda 6 no Writing **não exige inglês sofisticado** — exige responder a pergunta por inteiro, organizar bem os parágrafos e errar pouco no básico.
 
 ### Os tipos de pergunta (reconheça antes de escrever)
 
@@ -35,7 +35,7 @@ Para a meta de **6.0 geral / 5.5 por banda**, a boa notícia: banda 6 no Writing
 
 Este arquivo foca no **opinion essay** — o tipo mais comum. Ler a pergunta errado é o erro mais caro da prova: um essay lindo que não responde **o que foi perguntado** trava na banda 5 de Task Response.
 
-### Como você é avaliada: os 4 critérios (25% cada)
+### Como você é avaliado: os 4 critérios (25% cada)
 
 | Critério | O que mede | O que a banda 6 exige |
 |----------|------------|------------------------|
@@ -78,9 +78,9 @@ Cada parágrafo de corpo desenvolve **UMA ideia** em três passos:
 |-------|--------|----------|
 | Afirma (topic sentence) | The main benefit of part-time work is faster language development. | O principal benefício do trabalho de meio período é o desenvolvimento mais rápido do idioma. |
 | Explica | This is because employees must communicate with customers and colleagues in real situations, which classroom practice cannot fully replicate. | Isso porque funcionários precisam se comunicar com clientes e colegas em situações reais, o que a sala de aula não consegue replicar por completo. |
-| Exemplifica | For example, many international students in Brisbane improve dramatically after a few months working in cafés or retail. | Por exemplo, muitos estudantes internacionais em Brisbane melhoram drasticamente após alguns meses trabalhando em cafés ou no varejo. |
+| Exemplifica | For example, many international students in large cities improve dramatically after a few months working in cafés or retail. | Por exemplo, muitos estudantes internacionais em grandes cidades melhoram drasticamente após alguns meses trabalhando em cafés ou no varejo. |
 
-> Exemplos **não precisam ser reais nem ter estatísticas** — podem ser plausíveis e genéricos ("many students...", "in countries such as Australia..."). Inventar um número falso soa decorado; uma situação plausível soa natural.
+> Exemplos **não precisam ser reais nem ter estatísticas** — podem ser plausíveis e genéricos ("many students...", "in countries such as the UK or Canada..."). Inventar um número falso soa decorado; uma situação plausível soa natural.
 
 ### Frases-modelo (functional language)
 

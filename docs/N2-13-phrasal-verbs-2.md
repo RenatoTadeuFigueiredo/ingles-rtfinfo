@@ -6,13 +6,13 @@
 
 ## Em 1 frase
 
-Phrasal verbs II é o nível em que você para de só decorar verbos e aprende **as regras do jogo**: quais podem separar (*turn **it** off*), quais nunca separam (*look **after** the baby*), os de 3 palavras (*look forward **to***) — e mais um lote de ~25 verbos essenciais para a vida em Brisbane.
+Phrasal verbs II é o nível em que você para de só decorar verbos e aprende **as regras do jogo**: quais podem separar (*turn **it** off*), quais nunca separam (*look **after** the baby*), os de 3 palavras (*look forward **to***) — e mais um lote de ~25 verbos essenciais para o dia a dia em inglês.
 
 ## Explicação completa
 
 ### O que muda do nível I para cá
 
-No N1-15 você aprendeu que phrasal verb = **verbo + partícula** com sentido próprio (*get up* = levantar, *find out* = descobrir). O problema é que eles **não se comportam todos igual**: alguns aceitam o objeto no meio, outros não, alguns nem têm objeto. Errar isso gera frases que o australiano entende, mas soam quebradas. Este arquivo organiza os 4 tipos e a regra de ouro do pronome.
+No N1-15 você aprendeu que phrasal verb = **verbo + partícula** com sentido próprio (*get up* = levantar, *find out* = descobrir). O problema é que eles **não se comportam todos igual**: alguns aceitam o objeto no meio, outros não, alguns nem têm objeto. Errar isso gera frases que o falante nativo entende, mas soam quebradas. Este arquivo organiza os 4 tipos e a regra de ouro do pronome.
 
 ### Os 4 tipos de phrasal verb
 
@@ -48,8 +48,8 @@ Nos separáveis, com substantivo você escolhe; com **pronome (it, them, her...)
 | **turn down** | *She turned the job offer down.* | recusar / abaixar (volume) |
 | **work out** | *We need to work out the budget.* | resolver / calcular |
 | **look up** | *Look the word up in the dictionary.* | procurar (informação) |
-| **set up** | *I set up a bank account in Brisbane.* | montar / abrir / configurar |
-| **sort out** | *I have to sort out my visa documents.* | organizar / resolver (muito usado na Austrália!) |
+| **set up** | *I set up a bank account when I moved abroad.* | montar / abrir / configurar |
+| **sort out** | *I have to sort out my documents before the trip.* | organizar / resolver (muito usado no inglês falado!) |
 
 ### Inseparáveis essenciais (tipo 2) — objeto sempre depois
 
@@ -58,10 +58,10 @@ Nos separáveis, com substantivo você escolhe; com **pronome (it, them, her...)
 | **look after** | *She looks after her neighbour's dog.* | cuidar de |
 | **look for** | *We're looking for a 2-bedroom unit.* | procurar |
 | **look into** | *The agent will look into the problem.* | investigar |
-| **get on/off** | *Get on the train at Roma Street.* | embarcar / descer (transporte) |
+| **get on/off** | *Get on the train at Central Station.* | embarcar / descer (transporte) |
 | **get over** | *It took me a week to get over the flu.* | superar / recuperar-se de |
 | **go over** | *Let's go over the lease before signing.* | revisar |
-| **come across** | *I came across a great café in West End.* | encontrar por acaso |
+| **come across** | *I came across a great café downtown.* | encontrar por acaso |
 | **run into** | *I ran into a classmate at the shops.* | encontrar (alguém) por acaso |
 
 ❌ *look the baby after* não existe — inseparável é bloco colado: ✅ *look after the baby* / *look after **her***.
@@ -74,7 +74,7 @@ Nos separáveis, com substantivo você escolhe; com **pronome (it, them, her...)
 | **eat out** | *We eat out every Friday.* | comer fora |
 | **move in/out** | *We move in next week.* | mudar-se (para/de uma casa) |
 | **break down** | *The car broke down on the highway.* | quebrar (máquina/carro) |
-| **hang out** | *We hung out at South Bank all afternoon.* | passar tempo (com amigos) |
+| **hang out** | *We hung out at the park all afternoon.* | passar tempo (com amigos) |
 | **take off** | *The flight takes off at 6 am.* | decolar |
 
 ### De 3 palavras (tipo 4) — bloco fixo, e o que vem depois
@@ -83,7 +83,7 @@ São **verbo + 2 partículas**, nunca separam, e o objeto vem sempre no fim:
 
 | Phrasal verb | Exemplo | Tradução |
 |--------------|---------|----------|
-| **look forward to** | *I'm looking forward to **living** in Brisbane.* | aguardar ansiosa por |
+| **look forward to** | *I'm looking forward to **starting** the new job.* | aguardar ansiosa por |
 | **run out of** | *We've run out of milk.* | ficar sem / acabar |
 | **get on with** | *I get on with my flatmates.* | dar-se bem com |
 | **put up with** | *I can't put up with this noise.* | aguentar / tolerar |
@@ -117,7 +117,7 @@ O português quase sempre resolve com **um verbo só**; o inglês falado prefere
 | investigar | *investigate* | **look into** |
 | continuar | *continue* | **carry on / keep on** |
 
-No Speaking do IELTS e no dia a dia em Brisbane, phrasal verb é sinal de naturalidade. No Writing acadêmico, aí sim o verbo formal costuma cair melhor.
+No Speaking do IELTS e no dia a dia em inglês, phrasal verb é sinal de naturalidade. No Writing acadêmico, aí sim o verbo formal costuma cair melhor.
 
 ## Pegadinhas e erros comuns de brasileiros
 
@@ -130,7 +130,7 @@ No Speaking do IELTS e no dia a dia em Brisbane, phrasal verb é sinal de natura
 ## Auto-teste
 
 1. Reescreva com pronome: *Can you fill in the form?* → *Can you fill ______?*
-2. Certo ou errado: *"I'm looking forward to live in Brisbane."*
+2. Certo ou errado: *"I'm looking forward to live in London."*
 3. Traduza usando phrasal verb: "Ficamos sem café — você pode buscar um pouco no mercado?"
 4. Separável ou inseparável? Corrija se preciso: *"She looks her grandmother after on weekends."*
 5. Complete com o phrasal verb certo (put off / turn down / sort out): *They ______ the inspection ______ until next week, so we still have time to ______ the documents.*
@@ -139,7 +139,7 @@ No Speaking do IELTS e no dia a dia em Brisbane, phrasal verb é sinal de natura
 <summary><strong>Respostas</strong></summary>
 
 1. *Can you fill **it in**?* — pronome obrigatoriamente no meio.
-2. Errado — o *to* é preposição: *I'm looking forward to **living** in Brisbane.*
+2. Errado — o *to* é preposição: *I'm looking forward to **living** in London.*
 3. *We've **run out of** coffee — can you **pick** some **up** at the shops?*
 4. Inseparável — ✅ *She **looks after** her grandmother on weekends.*
 5. *They **put** the inspection **off** until next week, so we still have time to **sort out** the documents.* (*turn down* = recusar, não cabe aqui)
@@ -163,6 +163,6 @@ No Speaking do IELTS e no dia a dia em Brisbane, phrasal verb é sinal de natura
 - [ ] Recite os 4 tipos: **separável** · **inseparável** · **sem objeto** · **3 palavras**
 - [ ] Regra de ouro: pronome **sempre no meio** do separável (*turn it off*, nunca *turn off it*)
 - [ ] Inseparável e 3 palavras = bloco colado, objeto no fim (*look after her*, *get on with him*)
-- [ ] *Look forward to* + **-ing** — fale em voz alta: *I'm looking forward to moving to Brisbane.*
-- [ ] Fale 3 frases sobre a mudança: uma com *sort out*, uma com *move in*, uma com *run out of*
+- [ ] *Look forward to* + **-ing** — fale em voz alta: *I'm looking forward to moving abroad.*
+- [ ] Fale 3 frases sobre seu dia a dia: uma com *sort out*, uma com *move in*, uma com *run out of*
 - [ ] Armadilha nº 1: pegue 3 separáveis da tabela e troque o objeto por *it/them* em voz alta

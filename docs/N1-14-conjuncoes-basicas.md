@@ -17,8 +17,8 @@ Uma conjunção cola duas partes — palavras, pedaços de frase ou frases intei
 ```
 FRASE 1            + CONJUNÇÃO + FRASE 2
 
-I live in Brisbane   and        I study English.
-Eu moro em Brisbane  e          eu estudo inglês.
+I live in London     and        I study English.
+Eu moro em Londres   e          eu estudo inglês.
 ```
 
 Sem conjunções, você fala como robô: *I was tired. I went to bed.* Com elas, fala como gente: *I was tired, **so** I went to bed.*
@@ -29,7 +29,7 @@ Soma informações que vão na mesma direção:
 
 | Inglês | Português |
 |--------|-----------|
-| We live in Brisbane **and** we love it. | Moramos em Brisbane **e** adoramos. |
+| We live in New York **and** we love it. | Moramos em Nova York **e** adoramos. |
 | She speaks Portuguese **and** English. | Ela fala português **e** inglês. |
 | I got up, had breakfast **and** went to class. | Levantei, tomei café **e** fui para a aula. |
 
@@ -43,7 +43,7 @@ Liga duas ideias que se opõem ou surpreendem:
 |--------|-----------|
 | The rent is expensive, **but** the city is beautiful. | O aluguel é caro, **mas** a cidade é linda. |
 | I like coffee, **but** I don't like tea. | Gosto de café, **mas** não gosto de chá. |
-| It's winter in Brisbane, **but** it's still warm. | É inverno em Brisbane, **mas** ainda está quente. |
+| The hotel is far, **but** it's very nice. | O hotel é longe, **mas** é muito bonito. |
 
 🗣️ Pronúncia: **but** = /bʌt/ (vogal curta, como o "a" de "amor" bem rápido) — não "buti" nem "but" com U de "tudo".
 
@@ -53,7 +53,7 @@ Introduz **o motivo** — responde à pergunta *why?* (por quê?):
 
 | Inglês | Português |
 |--------|-----------|
-| I'm studying English **because** I want to live in Australia. | Estou estudando inglês **porque** quero morar na Austrália. |
+| I'm studying English **because** I want to get a better job. | Estou estudando inglês **porque** quero conseguir um emprego melhor. |
 | We stayed home **because** it was raining. | Ficamos em casa **porque** estava chovendo. |
 | **Why** are you tired? — **Because** I worked all night. | **Por que** você está cansada? — **Porque** trabalhei a noite toda. |
 
@@ -97,8 +97,8 @@ Macete: **because** = "porque" (olha para trás, o motivo) · **so** = "por isso
 
 O mesmo *so* aparece como intensificador (antes de adjetivo/advérbio), e aí não é conjunção:
 
-- *Brisbane is **so** hot in January!* — Brisbane é **tão** quente em janeiro!
-- *It was **so** hot, **so** we went to the pool.* — Era **tão** quente, **então** fomos à piscina. (os dois usos juntos!)
+- *New York is **so** cold in January!* — Nova York é **tão** fria em janeiro!
+- *It was **so** cold, **so** we stayed home.* — Era **tão** frio, **então** ficamos em casa. (os dois usos juntos!)
 
 Regra prática: *so* + adjetivo = "tão" · *so* + frase com sujeito e verbo = "então/por isso".
 
@@ -126,7 +126,7 @@ Regras simples que servem para o nível A2 (e já deixam o Writing organizado):
 
 1. Complete com and / but / because / so: *I wanted to go to the beach, ______ it was raining.*
 2. Complete: *I was hungry, ______ I made a sandwich.*
-3. Traduza: "Estudo inglês porque quero morar na Austrália."
+3. Traduza: "Estudo inglês porque quero conseguir um emprego melhor."
 4. Certo ou errado: *"Because the bus was late, so I missed the class."*
 5. because ou because of? *The flight was delayed ______ the storm.*
 
@@ -135,7 +135,7 @@ Regras simples que servem para o nível A2 (e já deixam o Writing organizado):
 
 1. *I wanted to go to the beach, **but** it was raining.* — contraste entre o desejo e a chuva.
 2. *I was hungry, **so** I made a sandwich.* — depois vem o resultado, então é *so*.
-3. *I study English **because** I want to live in Australia.*
+3. *I study English **because** I want to get a better job.*
 4. Errado — because e so não andam juntos: *The bus was late, **so** I missed the class.* ou *I missed the class **because** the bus was late.*
 5. **because of** — *the storm* é substantivo, não frase completa.
 
@@ -159,5 +159,5 @@ Regras simples que servem para o nível A2 (e já deixam o Writing organizado):
 - [ ] Armadilha nº 1: because e so **nunca** juntos na mesma frase — escolha um
 - [ ] **because** + frase completa · **because of** + substantivo
 - [ ] *so* + adjetivo = "tão" · *so* + sujeito e verbo = "então/por isso"
-- [ ] Fale 4 frases sobre sua vida em Brisbane em voz alta — uma com cada conjunção
+- [ ] Fale 4 frases sobre sua vida em voz alta — uma com cada conjunção
 - [ ] Vírgula antes de *but* e *so* quando ligam duas frases

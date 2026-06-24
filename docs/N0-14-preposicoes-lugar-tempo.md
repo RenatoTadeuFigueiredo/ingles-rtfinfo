@@ -17,7 +17,7 @@ IN  =  grande / dentro      (país, cidade, mês, ano)
 ON  =  médio / superfície    (rua, mesa, dia, data)
 AT  =  pequeno / ponto exato (endereço, lugar específico, hora)
 
-in Australia → in Brisbane → on Queen Street → at the bus stop
+in England → in London → on Oxford Street → at the bus stop
 in 2026      → in November → on Monday       → at 7 o'clock
 ```
 
@@ -35,14 +35,14 @@ Frases completas:
 
 | Inglês | Português |
 |--------|-----------|
-| Our flight to Brisbane is **in** November. | Nosso voo para Brisbane é **em** novembro. |
+| Our trip to London is **in** November. | Nossa viagem para Londres é **em** novembro. |
 | Classes start **on** Monday. | As aulas começam **na** segunda-feira. |
 | I wake up **at** 6 o'clock **in** the morning. | Eu acordo **às** 6 da manhã. |
 | We arrived **on** 10 November. | Chegamos **no dia** 10 de novembro. |
 
 > **Atenção às exceções de "parte do dia":** *in the morning / in the afternoon / in the evening*, mas **at night** (sem "the"). E quando o dia aparece junto, vence o **on**: *on Monday morning* (na segunda de manhã).
 
-> **Weekend:** na Austrália (e nos EUA) o comum é **on the weekend**; os britânicos dizem *at the weekend*. As duas formas existem — em Brisbane você vai ouvir *on*.
+> **Weekend:** nos EUA (e no inglês americano em geral) o comum é **on the weekend**; os britânicos dizem *at the weekend*. As duas formas existem e são aceitas.
 
 ### Tempo SEM preposição
 
@@ -57,17 +57,17 @@ Com **last, next, this, every, yesterday, tomorrow** e **ago**, NÃO entra prepo
 
 | Preposição | Usa com | Exemplos |
 |------------|---------|----------|
-| **in** | espaços fechados ou com limites: países, cidades, bairros, cômodos, carro | *in Australia* · *in Brisbane* · *in the kitchen* (na cozinha) · *in the car* (no carro) · *in bed* (na cama) |
-| **on** | superfícies, ruas, andares, transporte público, mídia | *on the table* (na mesa) · *on the wall* (na parede) · *on Queen Street* (na rua Queen) · *on the first floor* (no primeiro andar) · *on the bus/train/plane* (no ônibus/trem/avião) · *on TV* (na TV) · *on the internet* |
+| **in** | espaços fechados ou com limites: países, cidades, bairros, cômodos, carro | *in England* · *in London* · *in the kitchen* (na cozinha) · *in the car* (no carro) · *in bed* (na cama) |
+| **on** | superfícies, ruas, andares, transporte público, mídia | *on the table* (na mesa) · *on the wall* (na parede) · *on Oxford Street* (na rua Oxford) · *on the first floor* (no primeiro andar) · *on the bus/train/plane* (no ônibus/trem/avião) · *on TV* (na TV) · *on the internet* |
 | **at** | ponto específico, lugar visto como "parada"/evento | *at the bus stop* (no ponto de ônibus) · *at the airport* (no aeroporto) · *at home* (em casa) · *at work* (no trabalho) · *at school/university* (na escola/universidade) · *at a party* (numa festa) · *at the door* (na porta) |
 
 Frases completas:
 
 | Inglês | Português |
 |--------|-----------|
-| We live **in** Brisbane, **in** Australia. | Moramos **em** Brisbane, **na** Austrália. |
+| We live **in** London, **in** England. | Moramos **em** Londres, **na** Inglaterra. |
 | Your keys are **on** the table. | Suas chaves estão **na** mesa. |
-| I'm **at** the bus stop **on** Adelaide Street. | Estou **no** ponto de ônibus **na** rua Adelaide. |
+| I'm **at** the bus stop **on** Oxford Street. | Estou **no** ponto de ônibus **na** rua Oxford. |
 | She's **at** work now. | Ela está **no** trabalho agora. |
 
 ### IN vs AT no mesmo lugar: dentro vs ponto
@@ -103,7 +103,7 @@ Em português, **"em" (no/na) serve para tudo** — por isso o cérebro brasilei
 
 ```
 TEMPO:  in 2026  →  in November  →  on Monday  →  at 7 o'clock
-LUGAR:  in Australia  →  in Brisbane  →  on Queen Street  →  at number 50
+LUGAR:  in England  →  in London  →  on Oxford Street  →  at number 50
 FIXAS:  at night · at home · at work · on TV · in bed · on the bus · in the car
 ```
 
@@ -118,7 +118,7 @@ FIXAS:  at night · at home · at work · on TV · in bed · on the bus · in th
 
 ## Auto-teste
 
-1. Complete: *We arrive in Brisbane ______ 10 November ______ 6 o'clock ______ the morning.*
+1. Complete: *We arrive in London ______ 10 November ______ 6 o'clock ______ the morning.*
 2. Certo ou errado: *"I study English in the night, after work."*
 3. Traduza: "Ela está no trabalho, mas o marido dela está em casa."
 4. In ou on? *I forgot my phone ______ the bus.* / *I forgot my phone ______ the car.*
@@ -127,7 +127,7 @@ FIXAS:  at night · at home · at work · on TV · in bed · on the bus · in th
 <details>
 <summary><strong>Respostas</strong></summary>
 
-1. *We arrive in Brisbane **on** 10 November **at** 6 o'clock **in** the morning.* (data = on, hora = at, parte do dia = in)
+1. *We arrive in London **on** 10 November **at** 6 o'clock **in** the morning.* (data = on, hora = at, parte do dia = in)
 2. Errado — ✅ *I study English **at night**, after work.*
 3. *She's **at** work, but her husband is **at** home.*
 4. ***on** the bus* (transporte público) · ***in** the car* (carro)

@@ -15,12 +15,12 @@ Cleft sentence é a frase "fatiada" em duas partes para **jogar o holofote em um
 *Cleft* = fendido, dividido. Você pega uma frase simples e a reorganiza em duas metades para **enfatizar** um pedaço dela:
 
 ```
-Frase neutra:   Giovanna chose Brisbane.
-It-cleft:       It was Giovanna who chose Brisbane.   (ênfase em QUEM)
-Wh-cleft:       What Giovanna chose was Brisbane.     (ênfase no QUÊ)
+Frase neutra:   Ana moved to London.
+It-cleft:       It was Ana who moved to London.   (ênfase em QUEM)
+Wh-cleft:       What Ana chose was London.        (ênfase no QUÊ)
 ```
 
-Boa notícia para brasileiros: **o português faz exatamente isso** — "Foi a Giovanna que escolheu Brisbane", "O que ela escolheu foi Brisbane". A lógica você já tem; o trabalho é só dominar a forma em inglês e fugir de meia dúzia de armadilhas de tradução.
+Boa notícia para brasileiros: **o português faz exatamente isso** — "Foi a Ana que escolheu Londres", "O que ela escolheu foi Londres". A lógica você já tem; o trabalho é só dominar a forma em inglês e fugir de meia dúzia de armadilhas de tradução.
 
 Para que serve na prática:
 - **Corrigir ou contrastar**: *It wasn't the food that was expensive — it was the rent.*
@@ -32,22 +32,22 @@ Para que serve na prática:
 ```
 IT + IS/WAS + ELEMENTO ENFATIZADO + THAT/WHO + resto da frase
 
-It  was   Giovanna   who   found the apartment.
-Foi a     Giovanna   que   achou o apartamento.
+It  was   Lucas   who   found the apartment.
+Foi o     Lucas   que   achou o apartamento.
 ```
 
 Dá para enfatizar quase qualquer pedaço da frase original:
 
 | Ênfase em... | Exemplo | Tradução |
 |--------------|---------|----------|
-| **Pessoa (sujeito)** | **It was Giovanna who** booked the flights. | **Foi a Giovanna que** comprou as passagens. |
+| **Pessoa (sujeito)** | **It was Maria who** booked the flights. | **Foi a Maria que** comprou as passagens. |
 | **Coisa (objeto)** | **It was the humidity that** bothered me, not the heat. | **Foi a umidade que** me incomodou, não o calor. |
-| **Tempo** | **It was in November that** we moved to Brisbane. | **Foi em novembro que** nos mudamos para Brisbane. |
+| **Tempo** | **It was in November that** we moved to New York. | **Foi em novembro que** nos mudamos para Nova York. |
 | **Lugar** | **It was at the library that** I met her. | **Foi na biblioteca que** eu a conheci. |
 | **Negativa** | **It wasn't me who** left the door open. | **Não fui eu que** deixei a porta aberta. |
 
 Regras da forma:
-- **who** para pessoas, **that** para todo o resto — e *that* também funciona para pessoas (informal): *It was Giovanna that found it.*
+- **who** para pessoas, **that** para todo o resto — e *that* também funciona para pessoas (informal): *It was Lucas that found it.*
 - O verbo **be** fica em *is* ou *was* conforme o contexto, **sempre no singular**, mesmo com plural depois: *It **was** the bills that worried us.* (não ~~were~~)
 - Para perguntar: *Was it you who called?* — *Foi você que ligou?*
 
@@ -81,7 +81,7 @@ A informação nova vai para o **final** — que é onde o inglês falado natura
 | **The thing (that)... is** | **The thing that annoys me is** the bus timetable. | **O que me irrita é** o horário dos ônibus. |
 | **The reason (why)... is that** | **The reason why we moved was that** rent was cheaper. | **O motivo de termos mudado foi que** o aluguel era mais barato. |
 | **The person who / the one who** | She's **the one who** speaks English at home. | Ela **é quem** fala inglês em casa. |
-| **The place where / the day when** | Brisbane is **the place where** everything changed. | Brisbane é **o lugar onde** tudo mudou. |
+| **The place where / the day when** | Paris is **the place where** everything changed. | Paris é **o lugar onde** tudo mudou. |
 | **Cleft invertido** | A coffee is **what I need** right now. | Um café é **o que eu preciso** agora. |
 
 > *All I want...* tem sentido de "**só** isso, nada mais" — igual a *the only thing I want*. É a estrutura da música: *All I want for Christmas is you.*
@@ -103,7 +103,7 @@ A informação nova vai para o **final** — que é onde o inglês falado natura
 
 ## Auto-teste
 
-1. Reescreva com it-cleft, enfatizando "Giovanna": *Giovanna found the apartment.*
+1. Reescreva com it-cleft, enfatizando "Sofia": *Sofia found the apartment.*
 2. Complete: *______ I really miss ______ Brazilian food.* (wh-cleft)
 3. Certo ou errado: *"All what I need is a good night's sleep."*
 4. Traduza: "Foi a umidade que me incomodou, não o calor."
@@ -112,7 +112,7 @@ A informação nova vai para o **final** — que é onde o inglês falado natura
 <details>
 <summary><strong>Respostas</strong></summary>
 
-1. *It was Giovanna **who/that** found the apartment.*
+1. *It was Sofia **who/that** found the apartment.*
 2. ***What** I really miss **is** Brazilian food.*
 3. Errado — "all what" não existe: *All **(that)** I need is a good night's sleep.*
 4. *It was the humidity **that** bothered me, not the heat.* (não esqueça o *It*!)
@@ -137,6 +137,6 @@ A informação nova vai para o **final** — que é onde o inglês falado natura
 - [ ] Recite as duas fórmulas: **It + is/was + X + that/who...** e **What + frase + is/was + X**
 - [ ] Armadilha nº 1: a preposição do português NÃO entra — *What I need is ~~of~~ a coffee*
 - [ ] O *it* é obrigatório: nunca comece com *Was the...* — sempre ***It** was the...*
-- [ ] Fale 3 frases em voz alta com *What I... is...* sobre a vida em Brisbane (*What I miss most is...*)
+- [ ] Fale 3 frases em voz alta com *What I... is...* sobre o seu dia a dia (*What I miss most is...*)
 - [ ] Fale 2 frases de contraste: *It wasn't X that..., it was Y*
 - [ ] *All I want is...* = "tudo o que eu quero é..." (= a ÚNICA coisa)

@@ -34,7 +34,7 @@ Eu   morava (antigamente) no Brasil.
 - *We **used to watch** that show together.* — A gente assistia àquela série juntos.
 
 **2. Estados e situações do passado (que mudaram)**
-- *We **used to live** in Brazil.* — A gente morava no Brasil. (agora moramos em Brisbane)
+- *We **used to live** in Brazil.* — A gente morava no Brasil. (agora moramos em outro lugar)
 - *She **used to have** long hair.* — Ela tinha cabelo comprido.
 - *I **used to be** shy.* — Eu era tímida.
 
@@ -50,7 +50,7 @@ O passado simples conta **o que aconteceu**; *used to* acrescenta a ideia de **h
 | **Used to** | I **used to live** in Brazil. | Morava lá, **não moro mais** — contraste com hoje. |
 
 A regra prática: *used to* **não combina** com tempo definido nem número de vezes:
-- ❌ *I used to visit Sydney **three times**.* → ✅ *I **visited** Sydney three times.*
+- ❌ *I used to visit Paris **three times**.* → ✅ *I **visited** Paris three times.*
 - ❌ *She used to call me **yesterday**.* → ✅ *She **called** me yesterday.*
 
 Evento único = passado simples. Hábito/estado repetido sem data = *used to*.
@@ -87,13 +87,13 @@ Na dúvida, **use *used to*** — funciona para os dois casos.
 
 ### Cuidado: "used to" ≠ "be used to" ≠ "get used to"
 
-São três coisas diferentes — e as duas últimas vão ser suas melhores amigas na Austrália:
+São três coisas diferentes — e as duas últimas aparecem muito quando há mudanças de rotina:
 
 | Estrutura | Forma | Significado |
 |-----------|-------|-------------|
 | **used to** + verbo base | *I **used to drive** on the right.* | Hábito passado — eu dirigia do lado direito. |
 | **be used to** + -ing/substantivo | *I **am used to driving** on the left now.* | **Estar acostumado** — já é normal para mim. |
-| **get used to** + -ing/substantivo | *I'**m getting used to** the Brisbane heat.* | **Acostumar-se** — processo de adaptação. |
+| **get used to** + -ing/substantivo | *I'**m getting used to** the London cold.* | **Acostumar-se** — processo de adaptação. |
 
 Repare: depois de *be/get used to*, o verbo vai para **-ing** (ali o *to* é preposição, não infinitivo).
 
@@ -101,7 +101,7 @@ Repare: depois de *be/get used to*, o verbo vai para **-ing** (ali o *to* é pre
 
 1. **"Use to" para hábito atual** — ❌ *I use to wake up early.* → ✅ *I **usually wake up** early.* (presente = usually; *used to* só existe no passado)
 2. **Manter o -d com did** — ❌ *Did you used to live there?* → ✅ *Did you **use to** live there?* (did já marca o passado)
-3. **Tempo definido ou nº de vezes** — ❌ *I used to go to Sydney last year.* → ✅ *I **went** to Sydney last year.* (evento datado = past simple)
+3. **Tempo definido ou nº de vezes** — ❌ *I used to go to Paris last year.* → ✅ *I **went** to Paris last year.* (evento datado = past simple)
 4. **Confundir com "be used to"** — ❌ *I used to wake up early* (querendo dizer "estou acostumada") → ✅ *I **am used to** waking up early.*
 5. **Would com verbo de estado** — ❌ *We would live in a small flat.* → ✅ *We **used to live** in a small flat.* (estados só com *used to*)
 
@@ -110,8 +110,8 @@ Repare: depois de *be/get used to*, o verbo vai para **-ing** (ali o *to* é pre
 1. Complete: *I ______ (have) long hair when I was a teenager.*
 2. Certo ou errado: *"Did you used to play any sport in Brazil?"*
 3. Traduza: "Antigamente a gente não tinha carro."
-4. *Used to* ou past simple? "Visitei a Gold Coast duas vezes em 2025."
-5. Complete com used to / be used to / get used to: *We moved to Brisbane last month — I ______ still ______ (drive) on the left.*
+4. *Used to* ou past simple? "Visitei Nova York duas vezes em 2025."
+5. Complete com used to / be used to / get used to: *I started at a new school last month — I ______ still ______ (wake up) so early.*
 
 <details>
 <summary><strong>Respostas</strong></summary>
@@ -119,8 +119,8 @@ Repare: depois de *be/get used to*, o verbo vai para **-ing** (ali o *to* é pre
 1. *I **used to have** long hair when I was a teenager.* (estado que mudou)
 2. Errado — sem -d depois de did: *Did you **use to** play any sport in Brazil?*
 3. *We **didn't use to have** a car.* (negativa = didn't use to)
-4. **Past simple** — número de vezes + ano definido: *I **visited** the Gold Coast twice in 2025.*
-5. *I'**m** still **getting used to driving** on the left.* (processo de adaptação → get used to + -ing)
+4. **Past simple** — número de vezes + ano definido: *I **visited** New York twice in 2025.*
+5. *I'**m** still **getting used to waking up** so early.* (processo de adaptação → get used to + -ing)
 
 </details>
 
@@ -141,5 +141,5 @@ Repare: depois de *be/get used to*, o verbo vai para **-ing** (ali o *to* é pre
 - [ ] Os 2 usos: **hábito repetido que parou** · **estado que mudou**
 - [ ] A armadilha nº 1: hábito ATUAL não usa *use to* → é **usually + presente simples**
 - [ ] Tempo definido ou nº de vezes → vira **past simple**
-- [ ] Fale 3 frases comparando Brasil e Austrália: *I used to..., but now I...*
+- [ ] Fale 3 frases sobre mudanças na sua vida: *I used to..., but now I...*
 - [ ] O trio: *used to* (hábito passado) · *be used to* (estar acostumado) · *get used to* (acostumar-se) — os dois últimos pedem **-ing**

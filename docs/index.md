@@ -6,9 +6,9 @@ hide:
 
 <div class="hero" markdown>
 
-# Inglês para a Austrália
+# Inglês do Zero ao Avançado
 
-Do **zero ao IELTS** — 73 lições em português, cada uma autocontida, com mapa de dependências entre os temas.
+Do **básico ao C1** — 73 lições em português, cada uma autocontida, com mapa de dependências entre os temas (e preparação para o IELTS).
 
 [Começar do zero :material-arrow-right:](N0-01-alfabeto-sons-pronuncia.md){ .md-button .md-button--primary }
 [Ver o mapa completo](mapa.md){ .md-button }
@@ -75,5 +75,5 @@ Do **zero ao IELTS** — 73 lições em português, cada uma autocontida, com ma
 
 </div>
 
-!!! tip "Meta de inglês"
-    **IELTS 5.0** (piso do visto) → **6.0 geral / 5.5 por banda** (admissão na CQU). Os temas marcados com 🎯 no [mapa](mapa.md) pesam mais no IELTS.
+!!! tip "Vai prestar IELTS?"
+    A trilha vai até o **C1** e o nível **N5** traz preparação das 4 bandas (writing, speaking, listening, reading). Os temas marcados com 🎯 no [mapa](mapa.md) pesam mais no IELTS.

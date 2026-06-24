@@ -36,7 +36,7 @@ Os pronomes objeto (**me, you, him, her, it, us, them**) substituem quem **receb
 **2. Depois de preposição** (to, for, with, about, from, at...) — SEMPRE objeto, sem exceção:
 
 - *This coffee is **for me**.* — Esse café é para mim.
-- *Come **with us** to the Gold Coast!* — Vem com a gente para a Gold Coast!
+- *Come **with us** to the party!* — Vem com a gente para a festa!
 - *She talked **about him** all day.* — Ela falou dele o dia todo.
 - *Listen **to me**.* — Me escuta.
 
@@ -73,7 +73,7 @@ No português falado, usamos o pronome de sujeito como objeto o tempo todo: "vi 
 Em português, a gente larga o objeto fora da frase: "Comprou o livro? — Comprei ✗ ontem." Em inglês, verbos como *buy, like, love, see, know, want* **exigem** o objeto dito:
 
 - *Did you buy the book?* — ❌ *Yes, I bought yesterday.* → ✅ *Yes, I bought **it** yesterday.*
-- *Do you like Brisbane?* — ❌ *I love!* → ✅ *I love **it**!*
+- *Do you like the city?* — ❌ *I love!* → ✅ *I love **it**!*
 
 ### Dois objetos: give me the book / give the book to me
 
@@ -92,7 +92,7 @@ Verbos como *give, send, show, tell* aceitam duas montagens — as duas certas:
 Na fala, o pronome objeto aparece sozinho ou depois de *be* — e é assim que soa natural:
 
 - *— I'm hungry. — **Me too**.* — Estou com fome. — Eu também. (❌ ~~I too~~)
-- *Who is it? — **It's me**, Giovanna.* — Quem é? — Sou eu, Giovanna.
+- *Who is it? — **It's me**, Ana.* — Quem é? — Sou eu, Ana.
 - *— Who wants coffee? — **Me!*** — Quem quer café? — Eu!
 
 E em comparações informais com *than*, o objeto é o padrão da fala:
@@ -103,24 +103,24 @@ E em comparações informais com *than*, o objeto é o padrão da fala:
 
 Quando há duas pessoas, a regra é a mesma — sujeito antes do verbo, objeto depois do verbo/preposição:
 
-- ✅ *My husband **and I** moved to Brisbane.* — Meu marido e eu nos mudamos para Brisbane. (sujeito)
-- ✅ *They sent the visa to my husband **and me**.* — Mandaram o visto para meu marido e para mim. (depois de preposição)
-- 🗣️ Na fala informal, *Me and my husband live here* é comum entre nativos — mas no inglês cuidado (e na escrita), use *My husband and I* quando for sujeito.
+- ✅ *Sofia **and I** moved to the city.* — Sofia e eu nos mudamos para a cidade. (sujeito)
+- ✅ *They sent the invitation to Sofia **and me**.* — Mandaram o convite para Sofia e para mim. (depois de preposição)
+- 🗣️ Na fala informal, *Me and Sofia live here* é comum entre nativos — mas no inglês cuidado (e na escrita), use *Sofia and I* quando for sujeito.
 
-> Teste rápido: tire a outra pessoa da frase. *~~Me moved to Brisbane~~* soa errado → então é *...and **I***. *They sent the visa to ~~I~~* soa errado → então é *...and **me***.
+> Teste rápido: tire a outra pessoa da frase. *~~Me moved to the city~~* soa errado → então é *...and **I***. *They sent the invitation to ~~I~~* soa errado → então é *...and **me***.
 
 ## Pegadinhas e erros comuns de brasileiros
 
 1. **"Vi ele" traduzido ao pé da letra** — ❌ *I saw **he** yesterday.* → ✅ *I saw **him** yesterday.* (depois do verbo, sempre him/her/them)
 2. **Pronome antes do verbo, como no português** — ❌ *She **me** called.* → ✅ *She called **me**.* (a ordem "me ligou" não existe em inglês)
 3. **Sujeito depois de preposição** — ❌ *This is for **I**.* / ❌ *Come with **we**.* → ✅ *This is for **me**.* / *Come with **us**.*
-4. **Engolir o objeto** — ❌ *Do you like Brisbane? — Yes, I love!* → ✅ *...I love **it**!* (inglês exige o it/them dito)
+4. **Engolir o objeto** — ❌ *Do you like the city? — Yes, I love!* → ✅ *...I love **it**!* (inglês exige o it/them dito)
 5. **Trocar him/her (gênero)** — ❌ *My sister called and I talked to **him**.* → ✅ *...talked to **her**.* (him = ele · her = ela — trave isso, é o erro de fala mais comum)
 
 ## Auto-teste
 
 1. Complete: *I love my parents. I call ______ every Sunday.*
-2. Certo ou errado: *"I saw she at the supermarket in West End."*
+2. Certo ou errado: *"I saw she at the supermarket."*
 3. Traduza: "Me liga amanhã."
 4. Complete: *Where are the keys? I can't find ______.*
 5. Escolha: *They invited my wife and (I / me) to the barbecue.*
@@ -129,7 +129,7 @@ Quando há duas pessoas, a regra é a mesma — sujeito antes do verbo, objeto d
 <summary><strong>Respostas</strong></summary>
 
 1. *I call **them** every Sunday.* — them = eles (my parents).
-2. Errado — depois do verbo é objeto: *I saw **her** at the supermarket in West End.*
+2. Errado — depois do verbo é objeto: *I saw **her** at the supermarket.*
 3. ***Call me** tomorrow.* — pronome DEPOIS do verbo, nunca "me call".
 4. *I can't find **them**.* — keys é plural → them (não "it").
 5. ***me*** — *They invited my wife and **me**.* (teste: *They invited ~~I~~* soa errado.)
@@ -155,4 +155,4 @@ Quando há duas pessoas, a regra é a mesma — sujeito antes do verbo, objeto d
 - [ ] Armadilha nº 1: "vi **ele** / conheço **ela**" → *saw **him** / know **her*** (nunca he/she depois do verbo)
 - [ ] Fale 3 frases em voz alta sobre pessoas da sua vida: uma com *him*, uma com *her*, uma com *them*
 - [ ] Plural (coisas ou pessoas) = **them**: *the keys → find them · the neighbours → met them*
-- [ ] Responda em voz alta: *Do you like Brisbane?* → *I love **it**!* (não engula o it)
+- [ ] Responda em voz alta: *Do you like the city?* → *I love **it**!* (não engula o it)

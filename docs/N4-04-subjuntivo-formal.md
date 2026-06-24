@@ -53,7 +53,7 @@ O subjuntivo aparece depois de verbos que expressam **vontade de que algo aconte
 | **insist** | He insisted that everyone **attend** the meeting. | Ele insistiu que todos comparecessem à reunião. |
 | **request** | We request that you **confirm** your enrolment. | Solicitamos que você confirme sua matrícula. |
 | **propose** | She proposed that the class **start** at 8. | Ela propôs que a aula começasse às 8. |
-| **require** | The visa requires that the student **maintain** attendance. | O visto exige que o estudante mantenha frequência. |
+| **require** | The school requires that the student **maintain** attendance. | A escola exige que o estudante mantenha frequência. |
 | **ask** (formal) | They asked that he **not smoke** inside. | Pediram que ele não fumasse dentro. |
 | **advise / urge** | I urge that action **be taken** now. | Insto que medidas sejam tomadas agora. |
 
@@ -67,8 +67,8 @@ Estruturas com **It is + adjetivo + that...**:
 
 E os **substantivos** derivados dos verbos-gatilho (suggestion, recommendation, demand, requirement, proposal):
 
-- *The university's **requirement** is that each student **have** valid health insurance (OSHC).* — A exigência da universidade é que cada estudante tenha seguro de saúde válido.
-- *My **suggestion** is that we **move** to Brisbane in November.* — Minha sugestão é que a gente se mude para Brisbane em novembro.
+- *The university's **requirement** is that each student **have** valid health insurance.* — A exigência da universidade é que cada estudante tenha seguro de saúde válido.
+- *My **suggestion** is that we **move** to a bigger city next year.* — Minha sugestão é que a gente se mude para uma cidade maior no ano que vem.
 
 ### Negativa e passiva: sem do/does/don't
 
@@ -82,17 +82,17 @@ Na passiva, **be + particípio** (o *be* fica na forma base):
 - *We request that the deposit **be paid** within 7 days.* — Solicitamos que o depósito seja pago em até 7 dias.
 - *It is essential that the application **be submitted** before the deadline.* — É essencial que a inscrição seja enviada antes do prazo.
 
-### A alternativa britânica/australiana: should
+### A alternativa britânica: should
 
 No inglês britânico — e o australiano segue o britânico — é muito comum trocar o subjuntivo por **should + verbo**, com o mesmo sentido e um tom um pouco menos engessado:
 
-| Subjuntivo (mais formal/americano) | Should (britânico/australiano) |
-|------------------------------------|-------------------------------|
+| Subjuntivo (mais formal/americano) | Should (britânico/formal) |
+|------------------------------------|--------------------------|
 | I suggest that he **be** on time. | I suggest that he **should be** on time. |
 | They insisted that she **come**. | They insisted that she **should come**. |
 | It is important that it **be done**. | It is important that it **should be done**. |
 
-E na **fala informal**, muita gente simplesmente conjuga normal (*I suggest that he **is** on time*) — é aceito na conversa, mas na escrita formal (e-mails para a universidade, cartas) prefira o subjuntivo ou o *should*.
+E na **fala informal**, muita gente simplesmente conjuga normal (*I suggest that he **is** on time*) — é aceito na conversa, mas na escrita formal (e-mails, contratos, cartas) prefira o subjuntivo ou o *should*.
 
 ### Não confunda: insist com dois sentidos
 
@@ -110,7 +110,7 @@ O "subjuntivo do passado" é o **were** para todas as pessoas — você já viu 
 - *If I **were** you, I would take the offer.* — Eu no seu lugar, aceitaria a oferta.
 - *I wish it **were** easier.* — Queria que fosse mais fácil.
 - *She talks **as if she were** the boss.* — Ela fala como se fosse a chefe.
-- *He treats Brisbane **as though it were** his hometown.* — Ele trata Brisbane como se fosse a cidade natal dele.
+- *He treats London **as though it were** his hometown.* — Ele trata Londres como se fosse a cidade natal dele.
 
 ### Expressões fixas (fórmulas congeladas)
 
@@ -118,7 +118,7 @@ O subjuntivo sobrevive em expressões prontas do inglês formal — bom reconhec
 
 | Expressão | Significado |
 |-----------|-------------|
-| **God save the King.** | Deus salve o Rei. (hino britânico — e a Austrália é monarquia!) |
+| **God save the King.** | Deus salve o Rei. (hino britânico) |
 | **Long live...!** | Vida longa a...! |
 | **Be that as it may, ...** | Seja como for, ... |
 | **If need be, ...** | Se for preciso, ... |
@@ -128,10 +128,10 @@ O subjuntivo sobrevive em expressões prontas do inglês formal — bom reconhec
 
 ### Onde isso aparece na vida real
 
-O subjuntivo é coisa de **registro formal escrito**: e-mails para a universidade, contratos de aluguel, cartas oficiais, condições de visto. Você vai **ler** muito mais do que falar:
+O subjuntivo é coisa de **registro formal escrito**: e-mails institucionais, contratos, cartas oficiais, formulários. Você vai **ler** muito mais do que falar:
 
 - *The Department requires that the applicant **provide** evidence of funds.* — O Departamento exige que o candidato apresente comprovação de fundos.
-- *CQU recommends that students **arrive** two weeks before orientation.* — A CQU recomenda que os estudantes cheguem duas semanas antes da orientação.
+- *The university recommends that students **arrive** two weeks before orientation.* — A universidade recomenda que os estudantes cheguem duas semanas antes da orientação.
 
 ## Pegadinhas e erros comuns de brasileiros
 
@@ -147,7 +147,7 @@ O subjuntivo é coisa de **registro formal escrito**: e-mails para a universidad
 2. Certo ou errado: *"I suggest that she submits the form today."* (e-mail formal)
 3. Traduza (formal): "É essencial que o aluguel seja pago na sexta-feira."
 4. Reescreva com **should** (estilo britânico): *They insisted that he come to the meeting.*
-5. Subjuntivo ou indicativo? *The report suggests that rents in Brisbane ______ (be) rising fast.*
+5. Subjuntivo ou indicativo? *The report suggests that rents in London ______ (be) rising fast.*
 
 <details>
 <summary><strong>Respostas</strong></summary>
@@ -156,7 +156,7 @@ O subjuntivo é coisa de **registro formal escrito**: e-mails para a universidad
 2. Errado no registro formal — ✅ *I suggest that she **submit** the form today.* (ou *...should submit*)
 3. *It is essential that the rent **be paid** on Friday.*
 4. *They insisted that he **should come** to the meeting.*
-5. **Indicativo**: *...that rents in Brisbane **are** rising fast.* — aqui *suggest* = "indica um fato", não "sugere uma ação".
+5. **Indicativo**: *...that rents in London **are** rising fast.* — aqui *suggest* = "indica um fato", não "sugere uma ação".
 
 </details>
 
@@ -176,7 +176,7 @@ O subjuntivo é coisa de **registro formal escrito**: e-mails para a universidad
 
 - [ ] Recite a regra: gatilho (suggest/demand/insist/It is essential) → **that + sujeito + verbo BASE** (sem -s, sem is/was)
 - [ ] Negativa = **not + verbo base** (*that he not be late*) — nunca don't/doesn't
-- [ ] Alternativa australiana: **should + verbo** (*I suggest that he should be on time*)
+- [ ] Alternativa britânica/formal: **should + verbo** (*I suggest that he should be on time*)
 - [ ] Fale 3 frases em voz alta: uma com *I suggest that he...*, uma com *It is essential that...*, uma com passiva (*...that it be done*)
 - [ ] Armadilha nº 1: ❌ *I suggest him to go* → ✅ *I suggest that he go* / *I suggest going*
 - [ ] *insisted that he **was*** = afirmou fato · *insisted that he **be*** = exigiu ação

@@ -81,14 +81,14 @@ Exceções que quebram a lógica — decore como bloco: **make the bed** (arruma
 
 | Verbo | Collocations | Atenção |
 |-------|--------------|---------|
-| **have** | have breakfast/lunch/dinner · have a shower · have a look · have fun · have a rest | Na Austrália é **have a shower** (BrE/AusE); *take a shower* é AmE — os dois funcionam |
+| **have** | have breakfast/lunch/dinner · have a shower · have a look · have fun · have a rest | No inglês britânico é **have a shower** (BrE); *take a shower* é AmE — os dois funcionam |
 | **take** | take a photo · take a break · take an **exam/test** · take medicine · take your time | "**fazer** uma prova" = *take an exam* (nunca *make*) |
 | **get** | get a job · get married · get home · get better · get ready | "Chegar em casa" = *get home* (sem *to*) |
 | **give** | give a presentation · give advice · give someone a hand/a call | *advice* é incontável: *give some advice*, nunca ~~an advice~~ |
 | **pay** | pay attention · pay a visit · pay a compliment | "**Prestar** atenção" = *pay attention* — verbo diferente do português |
 | **catch** | catch the bus/train · catch a cold | "**Pegar** o ônibus" = *catch/take the bus*; "pegar um resfriado" = *catch a cold* |
 
-- *I **catch the train** to South Bank every morning.* — Pego o trem para South Bank toda manhã.
+- *I **catch the train** to downtown every morning.* — Pego o trem para o centro toda manhã.
 - *She **took the IELTS exam** last month and **made great progress**.* — Ela fez a prova do IELTS mês passado e progrediu muito.
 
 ### Adjetivo + substantivo: heavy rain, strong coffee
@@ -105,7 +105,7 @@ Aqui o português trai direto, porque "forte" e "rápido" não mapeiam um-para-u
 | **high** temperature/price | ~~tall temperature~~ | temperatura/preço alto |
 | a **heavy** smoker | ~~a strong smoker~~ | um fumante inveterado |
 
-- *Brisbane gets **heavy rain** and **strong winds** during summer storms.* — Brisbane tem chuva forte e ventos fortes nas tempestades de verão.
+- *London gets **heavy rain** and **strong winds** throughout the year.* — Londres tem chuva forte e ventos fortes durante o ano.
 
 ### Advérbio + adjetivo: os intensificadores certos
 
@@ -138,7 +138,7 @@ Chunks são frases inteiras memorizadas como **uma unidade** — você não mont
 | **Off the top of my head, ...** | De cabeça, assim de improviso... |
 | **I see what you mean.** | Entendo o que você quer dizer. |
 
-- *To be honest, the cost of living in Brisbane **depends on** where you live.* — Pra ser sincera, o custo de vida em Brisbane depende de onde você mora.
+- *To be honest, the cost of living in a big city **depends on** where you live.* — Pra ser honesto, o custo de vida numa cidade grande depende de onde você mora.
 
 > 🎯 **IELTS:** no **Writing**, alguns chunks acadêmicos valem ouro: *play an important role*, *have a positive/negative impact on*, *a significant increase in*, *raise awareness of*. No **Speaking**, os chunks de ganhar tempo (*that's a good question...*) evitam o silêncio que derruba a nota de Fluency.
 
@@ -160,7 +160,7 @@ A maioria dos erros de collocation vem de **traduzir o verbo do português palav
 1. **"Fazer" errado** — ❌ *I did a mistake.* → ✅ *I **made** a mistake.* (erro = resultado criado → make)
 2. **Lição de casa com make** — ❌ *make my homework* → ✅ ***do** my homework* (atividade/obrigação → do)
 3. **"Perder" traduzido como lose** — ❌ *I lost the bus.* → ✅ *I **missed** the bus.* (*lose* = perder objeto/jogo)
-4. **"Ganhar" traduzido como win** — ❌ *He wins AUD 30 per hour.* → ✅ *He **earns** AUD 30 per hour.*
+4. **"Ganhar" traduzido como win** — ❌ *He wins $30 per hour.* → ✅ *He **earns** $30 per hour.*
 5. **"Forte" sempre como strong** — ❌ *strong rain / strong traffic* → ✅ ***heavy** rain / **heavy** traffic* (mas ✅ *strong coffee, strong wind*)
 6. **Montar a frase palavra por palavra** — se você está traduzindo do português na cabeça, vai errar a collocation. Aprenda e **anote em blocos**: *make a decision*, não "make = fazer".
 
@@ -169,7 +169,7 @@ A maioria dos erros de collocation vem de **traduzir o verbo do português palav
 1. Complete com make ou do: *I need to ______ my homework before I ______ dinner.*
 2. Certo ou errado: *"She did a big mistake in her IELTS essay."*
 3. Traduza: "Perdi o ônibus porque a chuva estava muito forte."
-4. Escolha o intensificador: *It's ______ (highly / strongly) unlikely to snow in Brisbane.*
+4. Escolha o intensificador: *It's ______ (highly / strongly) unlikely to snow in Miami.*
 5. Complete o chunk: *______ be honest, I haven't ______ (make/do) much progress this week.*
 
 <details>
@@ -203,5 +203,5 @@ A maioria dos erros de collocation vem de **traduzir o verbo do português palav
 - [ ] Os pares de adjetivo: **heavy** rain · **strong** coffee · **fast** food · a **quick** shower
 - [ ] Armadilha nº 1: ❌ *did a mistake* → ✅ ***made** a mistake*
 - [ ] As 3 traduções traidoras: **miss** the bus · **earn** money · **take** an exam
-- [ ] Fale 3 frases sobre sua semana em Brisbane começando com chunks (*To be honest...*, *As far as I know...*, *The thing is...*)
+- [ ] Fale 3 frases sobre sua semana começando com chunks (*To be honest...*, *As far as I know...*, *The thing is...*)
 - [ ] Regra de estudo: nunca anote palavra solta — anote **a palavra + suas parceiras**

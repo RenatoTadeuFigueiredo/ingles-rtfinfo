@@ -23,7 +23,7 @@ I/You/He/She/It/We/They  will  help.
 | Afirmativa | Negativa | Pergunta |
 |------------|----------|----------|
 | I **will call** you tomorrow. (*I'll call*) | I **won't call** before 9. | **Will** you **call** me? |
-| She **will love** Brisbane. (*She'll love*) | She **won't be** late. | **Will** she **like** it? |
+| She **will love** Paris. (*She'll love*) | She **won't be** late. | **Will** she **like** it? |
 | It **will rain** later. (*It'll rain*) | It **won't rain** today. | **Will** it **rain**? |
 
 > Pergunta e negativa **não usam do/does** — o will faz o trabalho sozinho: *Will you help?* / *I won't go.*
@@ -31,8 +31,8 @@ I/You/He/She/It/We/They  will  help.
 ### Os 4 usos principais
 
 **1. Previsão / opinião sobre o futuro** (muitas vezes com *I think, probably, maybe*)
-- *I think it **will be** hot in Brisbane tomorrow.* — Acho que vai fazer calor em Brisbane amanhã.
-- *You **will love** the beaches in Australia.* — Você vai amar as praias na Austrália.
+- *I think it **will be** hot in New York tomorrow.* — Acho que vai fazer calor em Nova York amanhã.
+- *You **will love** the beaches there.* — Você vai amar as praias lá.
 
 **2. Decisão tomada na hora de falar** (espontânea, não planejada)
 - *It's cold... I**'ll close** the window.* — Tá frio... vou fechar a janela. (decidi agora)
@@ -65,7 +65,7 @@ Os dois falam do futuro, mas com atitudes diferentes:
 | | Exemplo | Quando usar |
 |---|---------|-------------|
 | **will** | *I**'ll have** a flat white.* | Decisão **na hora** de falar · previsão de opinião |
-| **going to** | *We**'re going to move** to Brisbane in November.* | Plano **já decidido antes** · previsão com evidência (*Look at those clouds — it's going to rain.*) |
+| **going to** | *We**'re going to move** to London in November.* | Plano **já decidido antes** · previsão com evidência (*Look at those clouds — it's going to rain.*) |
 
 No nível A2, o macete: **já tinha planejado? → going to. Decidiu agora / é só uma opinião? → will.** (A 1ª condicional, N2-05, vai usar exatamente esse *will*.)
 
@@ -78,7 +78,7 @@ No nível A2, o macete: **já tinha planejado? → going to. Decidiu agora / é 
 ### Shall: o primo formal
 
 Com **I** e **we**, o inglês britânico/australiano usa **shall** para **sugestões e ofertas** em forma de pergunta:
-- ***Shall we** go to South Bank this weekend?* — Vamos a South Bank no fim de semana?
+- ***Shall we** go to the park this weekend?* — Vamos ao parque no fim de semana?
 - ***Shall I** open the window?* — Quer que eu abra a janela?
 
 Fora dessas perguntas, *shall* é raro no dia a dia — com *will* você resolve quase tudo.
@@ -86,27 +86,27 @@ Fora dessas perguntas, *shall* é raro no dia a dia — com *will* você resolve
 ## Pegadinhas e erros comuns de brasileiros
 
 1. **"To" depois do will** — ❌ *I will to travel next year.* → ✅ *I **will travel** next year.* (will + verbo puro, sem to)
-2. **-s na 3ª pessoa** — ❌ *She will likes Brisbane.* → ✅ *She **will like** Brisbane.* (o verbo fica no infinitivo; will nunca vira *wills*)
+2. **-s na 3ª pessoa** — ❌ *She will likes Paris.* → ✅ *She **will like** Paris.* (o verbo fica no infinitivo; will nunca vira *wills*)
 3. **Presente para futuro, como em português** — ❌ *I call you tomorrow.* → ✅ *I**'ll call** you tomorrow.* ("te ligo amanhã" precisa de will em inglês)
 4. **Do/does na pergunta ou negativa** — ❌ *Do you will help me?* / *I don't will go.* → ✅ ***Will** you help me?* / *I **won't** go.*
-5. **Will para plano já decidido** — ❌ *I will move to Australia in November.* (se já está tudo planejado) → ✅ *I**'m going to move** to Australia in November.* (plano prévio = going to)
+5. **Will para plano já decidido** — ❌ *I will move to London in November.* (se já está tudo planejado) → ✅ *I**'m going to move** to London in November.* (plano prévio = going to)
 
 ## Auto-teste
 
 1. Complete: *I'm hungry. I ______ (make) a sandwich.*
-2. Certo ou errado: *"She will to study at CQU next year."*
+2. Certo ou errado: *"She will to study at the university next year."*
 3. Traduza: "Te ajudo com as malas." (oferta espontânea)
-4. Will ou going to? "Já compramos as passagens — ______ (we / fly) to Brisbane in November."
-5. Transforme em pergunta: *You will visit the Gold Coast.*
+4. Will ou going to? "Já compramos as passagens — ______ (we / fly) to London in November."
+5. Transforme em pergunta: *You will visit the mountains.*
 
 <details>
 <summary><strong>Respostas</strong></summary>
 
 1. *I**'ll make** a sandwich.* — decisão tomada na hora.
-2. Errado — will não leva to: *She **will study** at CQU next year.*
+2. Errado — will não leva to: *She **will study** at the university next year.*
 3. *I**'ll help** you with the bags.* — oferta na hora de falar = will (não *I help you*).
-4. ***We're going to fly** to Brisbane in November.* — plano já decidido antes = going to.
-5. ***Will** you **visit** the Gold Coast?* — inverte o will, sem do/does.
+4. ***We're going to fly** to London in November.* — plano já decidido antes = going to.
+5. ***Will** you **visit** the mountains?* — inverte o will, sem do/does.
 
 </details>
 
@@ -128,5 +128,5 @@ Fora dessas perguntas, *shall* é raro no dia a dia — com *will* você resolve
 - [ ] Os 4 usos: **previsão** · **decisão na hora** · **promessa** · **oferta/pedido**
 - [ ] Negativa = **won't** · pergunta = **inverte o will** — nunca do/does
 - [ ] Armadilha nº 1: ❌ *will to* → fale 3 frases com *I'll...* sem o "to"
-- [ ] Fale 3 frases sobre a vida em Brisbane: uma previsão (*I think it'll...*), uma promessa (*I'll...*), uma oferta (*I'll help...*)
+- [ ] Fale 3 frases sobre seus planos: uma previsão (*I think it'll...*), uma promessa (*I'll...*), uma oferta (*I'll help...*)
 - [ ] Plano já decidido = **going to** · decisão de agora = **will** — diga 1 exemplo de cada em voz alta

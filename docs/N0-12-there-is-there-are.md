@@ -19,8 +19,8 @@ THERE ARE + coisas no PLURAL
 There is   a park      near our house.
 Tem        um parque   perto da nossa casa.
 
-There are  many parks  in Brisbane.
-Tem        muitos parques  em Brisbane.
+There are  many parks  in the city.
+Tem        muitos parques  na cidade.
 ```
 
 | | Afirmativa | Tradução |
@@ -38,7 +38,7 @@ Em português a gente usa o verbo **ter** para existência: "**Tem** uma piscina
 | Português | ❌ Tradução literal | ✅ Inglês correto |
 |-----------|---------------------|-------------------|
 | Tem uma piscina no prédio. | ~~Have a pool in the building.~~ | **There is** a pool in the building. |
-| Tem muitos brasileiros em Brisbane. | ~~Has many Brazilians in Brisbane.~~ | **There are** many Brazilians in Brisbane. |
+| Tem muitos brasileiros em Londres. | ~~Has many Brazilians in London.~~ | **There are** many Brazilians in London. |
 | Não tem problema. | ~~No have problem.~~ | **There's no** problem. |
 
 Quando o dono aparece, aí sim é *have*: *The hotel **has** a pool.* (o hotel possui) vs *There **is** a pool at the hotel.* (existe uma piscina lá). As duas estão certas — o erro é começar a frase com *Have* ou *It has* querendo dizer "tem".
@@ -82,15 +82,15 @@ Inverte: **Is there...? / Are there...?** — e a resposta curta repete *there*:
 
 Padrão clássico do A1, que combina direto com este tema:
 
-- Afirmativa → **some**: *There are **some** good cafés in West End.* — Tem uns cafés bons em West End.
+- Afirmativa → **some**: *There are **some** good cafés in the neighbourhood.* — Tem uns cafés bons no bairro.
 - Negativa e pergunta → **any**: *There aren't **any** trains after midnight.* / *Are there **any** spiders in the house?*
 
 ### There is vs It is — existir vs apontar
 
 Outro contraste que confunde: **there is** apresenta algo novo (existe); **it is** fala de algo que **já foi mencionado**:
 
-- ***There's** a river in Brisbane. **It's** very wide.* — Tem um rio em Brisbane. Ele é bem largo.
-- ❌ *Is a river in Brisbane.* — em inglês a frase não pode ficar sem sujeito; o "there" ocupa esse lugar.
+- ***There's** a river in the city. **It's** very wide.* — Tem um rio na cidade. Ele é bem largo.
+- ❌ *Is a river in the city.* — em inglês a frase não pode ficar sem sujeito; o "there" ocupa esse lugar.
 
 ### There em outros tempos (visão geral)
 
@@ -114,8 +114,8 @@ O *there* acompanha o verbo *to be* em qualquer tempo — a lógica é a mesma:
 
 ## Auto-teste
 
-1. Complete: *______ a good Brazilian restaurant in Fortitude Valley.*
-2. Certo ou errado: *"Have many parks in Brisbane."*
+1. Complete: *______ a good restaurant near the park.*
+2. Certo ou errado: *"Have many parks in the city."*
 3. Traduza: "Não tem leite na geladeira."
 4. Complete a pergunta e a resposta curta: *______ any cheap rooms in this suburb? Yes, ______.*
 5. Is ou are: *There ______ a sofa and two chairs in the living room.*
@@ -123,8 +123,8 @@ O *there* acompanha o verbo *to be* em qualquer tempo — a lógica é a mesma:
 <details>
 <summary><strong>Respostas</strong></summary>
 
-1. ***There is** (There's) a good Brazilian restaurant in Fortitude Valley.*
-2. Errado — "tem" de existência não é *have*: ***There are** many parks in Brisbane.*
+1. ***There is** (There's) a good restaurant near the park.*
+2. Errado — "tem" de existência não é *have*: ***There are** many parks in the city.*
 3. *There **isn't any** milk in the fridge.* (ou *There's **no** milk in the fridge.*) — leite é incontável → is.
 4. ***Are there** any cheap rooms in this suburb? Yes, **there are**.* (sem contração na resposta curta)
 5. **is** — o primeiro item da lista (*a sofa*) está no singular: *There **is** a sofa and two chairs...*
@@ -149,5 +149,5 @@ O *there* acompanha o verbo *to be* em qualquer tempo — a lógica é a mesma:
 - [ ] A armadilha nº 1: "tem" de existência **nunca** é *have* — é **there is/are**
 - [ ] Negativa dos dois jeitos: *There isn't a... / There's no...* — fale uma frase com cada
 - [ ] Pergunta + resposta curta: *Is there...? Yes, there is.* (sem contrair o "yes, there's")
-- [ ] Descreva em voz alta 3 coisas que tem (e 1 que não tem) no seu bairro em Brisbane: *There's a..., There are some..., There isn't any...*
+- [ ] Descreva em voz alta 3 coisas que tem (e 1 que não tem) no seu bairro: *There's a..., There are some..., There isn't any...*
 - [ ] Travou no plural dos substantivos → revise [N0-06] antes de seguir

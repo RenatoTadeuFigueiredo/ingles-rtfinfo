@@ -6,7 +6,7 @@
 
 ## Em 1 frase
 
-A voz passiva (**be + particípio**) muda o foco da frase de quem faz para **o que é feito**: usa-se quando o agente é desconhecido, óbvio ou não importa — *English **is spoken** here* / *Brisbane **was founded** in 1825*.
+A voz passiva (**be + particípio**) muda o foco da frase de quem faz para **o que é feito**: usa-se quando o agente é desconhecido, óbvio ou não importa — *English **is spoken** here* / *Rome **was founded** in 753 BC*.
 
 ## Explicação completa
 
@@ -24,8 +24,8 @@ Quem carrega o tempo verbal é o **be** — o particípio nunca muda:
 | Tempo | Ativa | Passiva |
 |-------|-------|---------|
 | Presente | They **clean** the office every day. | The office **is cleaned** every day. |
-| Presente | They **speak** English in Australia. | English **is spoken** in Australia. |
-| Passado | They **built** the Story Bridge in 1940. | The Story Bridge **was built** in 1940. |
+| Presente | They **speak** English in Canada. | English **is spoken** in Canada. |
+| Passado | They **built** the bridge in 1940. | The bridge **was built** in 1940. |
 | Passado | Someone **stole** my bike. | My bike **was stolen**. |
 
 | Afirmativa | Negativa | Pergunta |
@@ -41,7 +41,7 @@ O verbo concorda com quem virou sujeito da passiva, não com quem fazia a ação
 
 - *The house **was** built last year.* — singular
 - *The houses **were** built last year.* — plural
-- *Cheese **is** made from milk.* / *These products **are** made in Australia.*
+- *Cheese **is** made from milk.* / *These products **are** made in Italy.*
 
 ### Quando usar a passiva (e por que ela existe)
 
@@ -56,7 +56,7 @@ A passiva serve para tirar o agente do palco. Use quando:
 
 **3. O foco da conversa é o objeto, não o agente**
 - *This building **was designed** in the 1980s.* — Este prédio foi projetado nos anos 80. (o assunto é o prédio)
-- *Avocados **are grown** in Queensland.* — Abacates são cultivados em Queensland.
+- *Tomatoes **are grown** in Spain.* — Tomates são cultivados na Espanha.
 
 **4. Tom formal/impessoal (avisos, notícias, textos acadêmicos)**
 - *English **is spoken** here.* — Fala-se inglês aqui.
@@ -81,7 +81,7 @@ PASSIVA:  This room  is cleaned              every day.
 
 Se quem fez a ação for informação importante, acrescente **by + agente** no final:
 
-- *This song **was written by** Paul Kelly.* — Esta música foi escrita por Paul Kelly.
+- *This song **was written by** John Lennon.* — Esta música foi escrita por John Lennon.
 - *The class **is taught by** a native speaker.* — A aula é dada por um falante nativo.
 
 🗣️ Na prática, a maioria das passivas **não** leva *by* — se o agente importa tanto assim, normalmente é mais natural usar a voz ativa.
@@ -119,8 +119,8 @@ A armadilha é o nosso **"se" impessoal** — "fala-se", "vende-se", "aluga-se".
 
 ## Auto-teste
 
-1. Complete: *Brisbane ______ (found) in 1825.*
-2. Passe para a passiva: *"They grow mangoes in Queensland."*
+1. Complete: *Rome ______ (found) in 753 BC.*
+2. Passe para a passiva: *"They grow coffee in Colombia."*
 3. Certo ou errado: *"My phone was stole at the beach."*
 4. Traduza: "Fala-se português e inglês na nossa casa."
 5. Certo ou errado: *"The accident was happened near the station."*
@@ -128,8 +128,8 @@ A armadilha é o nosso **"se" impessoal** — "fala-se", "vende-se", "aluga-se".
 <details>
 <summary><strong>Respostas</strong></summary>
 
-1. *Brisbane **was founded** in 1825.* (passado + sujeito singular)
-2. *Mangoes **are grown** in Queensland.* (objeto vira sujeito; be no plural)
+1. *Rome **was founded** in 753 BC.* (passado + sujeito singular)
+2. *Coffee **is grown** in Colombia.* (objeto vira sujeito; be no singular)
 3. Errado — particípio, não passado: *My phone **was stolen** at the beach.*
 4. *Portuguese and English **are spoken** in our house.* ("se" impessoal → passiva; sujeito plural → **are**)
 5. Errado — *happen* não tem objeto, logo não tem passiva: *The accident **happened** near the station.*
@@ -154,5 +154,5 @@ A armadilha é o nosso **"se" impessoal** — "fala-se", "vende-se", "aluga-se".
 - [ ] O be concorda com o **novo** sujeito (*the houses **were** built*)
 - [ ] Quando usar: agente **desconhecido**, **óbvio** ou **irrelevante** — o foco é o objeto
 - [ ] "Fala-se / vende-se" em português = **passiva** em inglês (*English is spoken*)
-- [ ] Fale 3 frases passivas sobre a Austrália: uma no presente (*...is/are made...*), duas no passado (*...was/were built...*)
+- [ ] Fale 3 frases passivas sobre um tema de sua escolha: uma no presente (*...is/are made...*), duas no passado (*...was/were built...*)
 - [ ] Armadilha nº 1: **nunca** esqueça o be — *The bridge ~~built~~* → *The bridge **was built***

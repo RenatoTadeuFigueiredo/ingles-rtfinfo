@@ -28,7 +28,7 @@ A escolha cruza duas perguntas: o substantivo é **contável ou incontável**? A
 |--------|-----------|
 | We bought **some** mangoes at the market. | Compramos **algumas** mangas na feira. |
 | I need **some** money for the bus. | Preciso de **um pouco de** dinheiro para o ônibus. |
-| There are **some** good cafés in Brisbane. | Tem **alguns** cafés bons em Brisbane. |
+| There are **some** good cafés downtown. | Tem **alguns** cafés bons no centro. |
 
 **Any** = o mesmo "algum", mas em **negativas e perguntas**:
 
@@ -48,7 +48,7 @@ Quando a pergunta é uma **oferta ou pedido** (você espera que a resposta seja 
 - *Would you like **some** coffee?* — Aceita um café?
 - *Can I have **some** water, please?* — Pode me dar uma água, por favor?
 
-Essas duas frases prontas você vai usar todo dia na Austrália — decore como bloco.
+Essas duas frases prontas você vai usar todo dia — decore como bloco.
 
 ### Any em afirmativa = "qualquer"
 
@@ -88,7 +88,7 @@ Much/many afirmativos aparecem em escrita formal e em combinações como *so man
 
 **A lot of** (informal: **lots of**) funciona com **tudo** — contável, incontável, afirmativa, negativa, pergunta:
 
-- *There are **a lot of** Brazilians in Brisbane.* — Tem **muitos** brasileiros em Brisbane.
+- *There are **a lot of** Brazilians in London.* — Tem **muitos** brasileiros em Londres.
 - *We spent **a lot of** money this week.* — Gastamos **muito** dinheiro esta semana.
 - ***Lots of** people cycle to work here.* — **Muita** gente vai de bicicleta para o trabalho aqui.
 
@@ -121,7 +121,7 @@ O português adora dupla negativa ("não tenho **nenhum** dinheiro"); o inglês 
 2. Certo ou errado: *"I have much work this week."*
 3. Traduza: "Quantas pessoas moram com você?"
 4. Complete: *Would you like ______ water?* (você está oferecendo)
-5. Complete com much, many ou a lot of: *We saw ______ kangaroos at the park, but we didn't have ______ time to take photos.*
+5. Complete com much, many ou a lot of: *We saw ______ birds at the park, but we didn't have ______ time to take photos.*
 
 <details>
 <summary><strong>Respostas</strong></summary>
@@ -130,7 +130,7 @@ O português adora dupla negativa ("não tenho **nenhum** dinheiro"); o inglês 
 2. Errado (soa estranho na fala) — afirmativa pede a lot of: *I have **a lot of** work this week.*
 3. ***How many** people live with you?* — people é contável → many.
 4. *Would you like **some** water?* — oferta usa some, mesmo em pergunta.
-5. *We saw **a lot of** kangaroos at the park, but we didn't have **much** time to take photos.* (afirmativa → a lot of; negativa + incontável → much)
+5. *We saw **a lot of** birds at the park, but we didn't have **much** time to take photos.* (afirmativa → a lot of; negativa + incontável → much)
 
 </details>
 
@@ -153,5 +153,5 @@ O português adora dupla negativa ("não tenho **nenhum** dinheiro"); o inglês 
 - [ ] Recite a outra: **many** = contável · **much** = incontável · **a lot of** = tudo (e é o padrão na afirmativa)
 - [ ] Exceção: oferta/pedido usa **some** — fale em voz alta *Would you like some...?* e *Can I have some...?* com 3 finais diferentes
 - [ ] Armadilha nº 1: ❌ *I don't have some money* → ✅ *any* — crie 2 frases negativas com any sobre a sua casa
-- [ ] Fale 3 frases sobre Brisbane: uma com *a lot of*, uma com *How many...?*, uma com *There isn't any...*
+- [ ] Fale 3 frases sobre a sua cidade: uma com *a lot of*, uma com *How many...?*, uma com *There isn't any...*
 - [ ] Se travou no contável vs incontável → revise [N1-08] antes de seguir

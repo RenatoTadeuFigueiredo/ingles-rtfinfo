@@ -6,7 +6,7 @@
 
 ## Em 1 frase
 
-Para dizer de quem é algo, o inglês usa os **adjetivos possessivos** (*my, your, his, her...*) antes do substantivo e o **'s** depois do nome do dono (*Giovanna's phone*) — e o possessivo concorda com o **dono**, não com a coisa.
+Para dizer de quem é algo, o inglês usa os **adjetivos possessivos** (*my, your, his, her...*) antes do substantivo e o **'s** depois do nome do dono (*Ana's phone*) — e o possessivo concorda com o **dono**, não com a coisa.
 
 ## Explicação completa
 
@@ -16,13 +16,13 @@ Cada pronome pessoal (N0-02) tem o seu possessivo correspondente. Eles **nunca m
 
 | Pronome | Possessivo | Exemplo | Tradução |
 |---------|------------|---------|----------|
-| I | **my** | **My** name is Giovanna. | **Meu** nome é Giovanna. |
+| I | **my** | **My** name is Ana. | **Meu** nome é Ana. |
 | you | **your** | Is this **your** passport? | Este é o **seu** passaporte? |
 | he | **his** | **His** course starts in July. | O curso **dele** começa em julho. |
-| she | **her** | **Her** visa is ready. | O visto **dela** está pronto. |
-| it | **its** | Brisbane is famous for **its** river. | Brisbane é famosa pelo **seu** rio. |
+| she | **her** | **Her** ticket is ready. | O bilhete **dela** está pronto. |
+| it | **its** | London is famous for **its** river. | London é famosa pelo **seu** rio. |
 | we | **our** | **Our** flat is near the station. | **Nosso** apartamento é perto da estação. |
-| they | **their** | **Their** teacher is Australian. | O professor **deles** é australiano. |
+| they | **their** | **Their** teacher is very good. | O professor **deles** é muito bom. |
 
 O possessivo vem **sempre antes do substantivo**, como um adjetivo: *my house*, *her bag*, *our city*.
 
@@ -52,17 +52,17 @@ Quando o dono tem nome (ou é uma pessoa/animal), o inglês cola **'s** no dono 
 ```
 DONO + 'S + COISA
 
-Giovanna's   phone     = o telefone DA Giovanna
-Renato's     laptop    = o notebook DO Renato
+Ana's        phone     = o telefone DA Ana
+Lucas's      laptop    = o notebook DO Lucas
 my sister's  house     = a casa da minha irmã
 ```
 
 | Inglês | Tradução |
 |--------|----------|
-| **Giovanna's** visa | o visto **da Giovanna** |
+| **Ana's** book | o livro **da Ana** |
 | the **teacher's** name | o nome **do professor** |
 | my **friend's** car | o carro **do meu amigo** |
-| **Australia's** capital | a capital **da Austrália** |
+| **France's** capital | a capital **da França** |
 
 > Macete: em português a ordem é "coisa + de + dono"; em inglês inverte — "dono + 's + coisa". *O livro da Maria* → *Maria**'s** book*.
 
@@ -79,7 +79,7 @@ my sister's  house     = a casa da minha irmã
 
 O **'s** é para pessoas, animais e grupos de pessoas (família, empresa, país). Para **coisas**, use **of**:
 
-- ✅ *Giovanna's bag* — a bolsa da Giovanna (pessoa → 's)
+- ✅ *Ana's bag* — a bolsa da Ana (pessoa → 's)
 - ✅ *the end **of** the movie* — o fim do filme (coisa → of)
 - ❌ *the movie's end* — soa estranho nesse nível; prefira *the end of the movie*
 
@@ -89,8 +89,8 @@ O apóstrofo + s aparece em três situações diferentes — e brasileiro mistur
 
 | Frase | O que é o "s" | Significado |
 |-------|---------------|-------------|
-| *Giovanna**'s** phone* | **posse** ('s) | o telefone da Giovanna |
-| *Giovanna**'s** Brazilian.* | contração de **is** | Giovanna **é** brasileira |
+| *Ana**'s** phone* | **posse** ('s) | o telefone da Ana |
+| *Ana**'s** Brazilian.* | contração de **is** | Ana **é** brasileira |
 | *two phone**s*** | **plural** (sem apóstrofo!) | dois telefones |
 
 > Plural **nunca** leva apóstrofo: ❌ *two phone's* → ✅ *two phones*.
@@ -114,25 +114,25 @@ E para perguntar "de quem é?", use **Whose**: *Whose bag is this? — It's **mi
 
 1. **His/her trocados (a armadilha do "seu/sua")** — ❌ *Maria loves his dog.* (se o cachorro é da Maria) → ✅ *Maria loves **her** dog.* (concorda com o DONO, não com a coisa)
 2. **Artigo + possessivo** — ❌ *The my house is small.* → ✅ ***My** house is small.* (nunca *the* antes de possessivo)
-3. **Ordem do 's invertida** — ❌ *the book of Giovanna* → ✅ ***Giovanna's** book* (pessoa → 's, e o dono vem primeiro)
-4. **Its vs it's** — ***its*** = posse (*Brisbane and **its** beaches*) · ***it's*** = *it is* (*It's hot today.*). O possessivo **não** tem apóstrofo.
+3. **Ordem do 's invertida** — ❌ *the book of Sofia* → ✅ ***Sofia's** book* (pessoa → 's, e o dono vem primeiro)
+4. **Its vs it's** — ***its*** = posse (*London and **its** parks*) · ***it's*** = *it is* (*It's hot today.*). O possessivo **não** tem apóstrofo.
 5. **Apóstrofo no plural** — ❌ *I have two brother's.* → ✅ *I have two **brothers**.* (plural não leva apóstrofo; *brother's* = "do irmão")
-6. **Your vs you're** — ***your*** = seu (*your visa*) · ***you're*** = *you are* (*You're late.*). Som igual, escrita diferente.
+6. **Your vs you're** — ***your*** = seu (*your ticket*) · ***you're*** = *you are* (*You're late.*). Som igual, escrita diferente.
 
 ## Auto-teste
 
-1. Complete: *Giovanna loves ______ (dele) new city, and Renato loves ______ (dela) cooking.*
+1. Complete: *Emma loves ______ (dele) new apartment, and Tom loves ______ (dela) cooking.*
 2. Certo ou errado: *"The my teacher is from Sydney."*
-3. Traduza: "O passaporte da Giovanna está na bolsa."
-4. Complete com **its** ou **it's**: *Brisbane is great — ______ river is beautiful and ______ sunny all year.*
+3. Traduza: "O passaporte da Ana está na bolsa."
+4. Complete com **its** ou **it's**: *London is great — ______ river is beautiful and ______ sunny all year.*
 5. Onde vai o apóstrofo? *"my parents house"* (casa dos meus pais — pai E mãe).
 
 <details>
 <summary><strong>Respostas</strong></summary>
 
-1. *Giovanna loves **his** new city, and Renato loves **her** cooking.* (dele = his · dela = her — concorda com o dono)
+1. *Emma loves **his** new apartment, and Tom loves **her** cooking.* (dele = his · dela = her — concorda com o dono)
 2. Errado — sem artigo antes de possessivo: ***My** teacher is from Sydney.*
-3. ***Giovanna's** passport is in the bag.* (dono primeiro + 's)
+3. ***Ana's** passport is in the bag.* (dono primeiro + 's)
 4. ***its** river* (posse, sem apóstrofo) · ***it's** sunny* (= it is)
 5. *my **parents'** house* — "parents" é plural terminado em -s, então só apóstrofo depois do s.
 
@@ -156,6 +156,6 @@ E para perguntar "de quem é?", use **Whose**: *Whose bag is this? — It's **mi
 - [ ] Recite os 7: **my · your · his · her · its · our · their**
 - [ ] A regra de ouro: concorda com o **dono** (his = dele, her = dela), não com a coisa
 - [ ] Nunca *the* antes de possessivo: *my house*, não ~~the my house~~
-- [ ] Pessoa → **'s** com dono primeiro: *Giovanna's book* (não ~~the book of Giovanna~~)
-- [ ] Fale 3 frases em voz alta sobre a sua vida: uma com *my*, uma com *our* (*our flat in Brisbane...*), uma com **'s** (*Renato's...*)
+- [ ] Pessoa → **'s** com dono primeiro: *Ana's book* (não ~~the book of Ana~~)
+- [ ] Fale 3 frases em voz alta sobre a sua vida: uma com *my*, uma com *our* (*our flat in the city...*), uma com **'s** (*Lucas's...*)
 - [ ] Armadilha nº 1: "o telefone **dela**" = **her** phone — se travou no his/her, revise a tabela do dono

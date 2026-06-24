@@ -15,8 +15,8 @@
 ```
 SUJEITO + VERBO  (3ª pessoa: + S)
 
-I/You/We/They  work   in Brisbane.
-He/She/It      workS  in Brisbane.
+I/You/We/They  work   downtown.
+He/She/It      workS  downtown.
 ```
 
 | Afirmativa | Negativa | Pergunta |
@@ -52,7 +52,7 @@ You/We/They    are  studying.
 | | Presente simples | Presente contínuo |
 |---|------------------|-------------------|
 | **Quando usar** | rotina, hábito, fato | agora, neste período |
-| **Exemplo** | I **live** in Brisbane. (moro — fato) | I **am living** with friends this month. (estou morando — temporário) |
+| **Exemplo** | I **live** in London. (moro — fato) | I **am living** with friends this month. (estou morando — temporário) |
 | **Exemplo** | She **works** at a café. (trabalha — emprego fixo) | She **is working** late today. (está trabalhando até tarde — só hoje) |
 | **Exemplo** | It **rains** a lot in summer. (chove — clima) | Look! It **is raining**. (está chovendo — agora) |
 
@@ -67,7 +67,7 @@ Mesma ação, dois significados:
 - *He **drinks** coffee in the morning.* — Ele toma café de manhã.
 
 **2. Fatos permanentes e verdades gerais**
-- *Brisbane **is** in Queensland.* — Brisbane fica em Queensland.
+- *Paris **is** in France.* — Paris fica na França.
 - *Water **boils** at 100°C.* — A água ferve a 100°C.
 
 **3. Horários fixos e programações (timetables)**
@@ -81,12 +81,12 @@ Mesma ação, dois significados:
 - *Listen! Someone **is singing**.* — Escuta! Alguém está cantando.
 
 **2. Situação temporária deste período (não necessariamente neste segundo)**
-- *I **am studying** English at a school in Brisbane.* — Estou estudando inglês numa escola em Brisbane. (este semestre)
+- *I **am studying** English at a school this semester.* — Estou estudando inglês numa escola este semestre. (este semestre)
 - *We **are looking** for an apartment.* — Estamos procurando apartamento. (estas semanas)
 
 **3. Planos já combinados para o futuro próximo**
 - *We **are meeting** friends on Saturday.* — Vamos encontrar amigos no sábado. (já está marcado)
-- *She **is flying** to Sydney next week.* — Ela viaja para Sydney semana que vem.
+- *She **is flying** to New York next week.* — Ela viaja para Nova York semana que vem.
 
 ### As palavras-sinal (advérbios que entregam o tempo certo)
 
@@ -111,7 +111,7 @@ Verbos de **estado** (sentimento, opinião, posse, sentido) quase nunca vão par
 | Posse | have (= possuir), own, belong | She **has** a car. |
 | Sentidos/aparência | see, hear, seem, look (= parecer) | It **seems** expensive. |
 
-- ❌ *I am liking Brisbane.* → ✅ *I **like** Brisbane.* — mesmo que seja "agora".
+- ❌ *I am liking this city.* → ✅ *I **like** this city.* — mesmo que seja "agora".
 - *Have* no sentido de **atividade** pode ir para o contínuo: *We **are having** lunch.* (= almoçando), mas posse não: *I **have** two brothers.*
 
 ### Contraste com o português: por que a gente erra
@@ -138,7 +138,7 @@ O português tem o mesmo par ("eu trabalho" / "estou trabalhando"), então a ló
 1. Complete: *She usually ______ (take) the bus, but today she ______ (walk) to school.*
 2. Certo ou errado: *"I am needing a new phone."*
 3. Traduza: "Ele não trabalha aos domingos."
-4. Simples ou contínuo? "Estamos procurando apartamento em Brisbane este mês."
+4. Simples ou contínuo? "Estamos procurando apartamento nesta cidade este mês."
 5. Complete a pergunta: *______ your sister ______ (speak) English?*
 
 <details>
@@ -147,7 +147,7 @@ O português tem o mesmo par ("eu trabalho" / "estou trabalhando"), então a ló
 1. *She usually **takes** the bus, but today she **is walking** to school.* (rotina = simples + -s; hoje = contínuo)
 2. Errado — *need* é verbo de estado: *I **need** a new phone.*
 3. *He **doesn't work** on Sundays.* (does + not, verbo sem -s)
-4. **Contínuo** — situação temporária deste período: *We **are looking** for an apartment in Brisbane this month.*
+4. **Contínuo** — situação temporária deste período: *We **are looking** for an apartment in the city this month.*
 5. ***Does** your sister **speak** English?* (does carrega a 3ª pessoa, verbo no normal)
 
 </details>

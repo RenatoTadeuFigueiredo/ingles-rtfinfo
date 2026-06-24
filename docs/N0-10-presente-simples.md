@@ -15,14 +15,14 @@ O presente simples fala de **rotinas, hábitos e fatos que são sempre verdade**
 ```
 SUJEITO + VERBO (forma básica)        → +S com he/she/it
 
-I/You/We/They  work   in Brisbane.
-He/She/It      works  in Brisbane.
+I/You/We/They  work   in London.
+He/She/It      works  in London.
 ```
 
 | Sujeito | Exemplo | Tradução |
 |---------|---------|----------|
 | I | I **study** English every day. | Eu estudo inglês todo dia. |
-| You | You **live** in Australia. | Você mora na Austrália. |
+| You | You **live** in Canada. | Você mora no Canadá. |
 | He/She | She **works** from home. | Ela trabalha de casa. |
 | It | It **rains** a lot in summer. | Chove muito no verão. |
 | We | We **speak** Portuguese at home. | Nós falamos português em casa. |
@@ -60,15 +60,15 @@ He/She/It      doesn't  eat meat.
 ```
 DO / DOES + SUJEITO + VERBO (forma básica)?
 
-Do    you  live  in Brisbane?
-Does  she  live  in Brisbane?
+Do    you  live  in London?
+Does  she  live  in London?
 ```
 
 | Pergunta | Resposta curta | Tradução |
 |----------|----------------|----------|
 | **Do** you **speak** English? | Yes, I **do**. / No, I **don't**. | Você fala inglês? |
 | **Does** he **work** here? | Yes, he **does**. / No, he **doesn't**. | Ele trabalha aqui? |
-| **Do** they **like** Brisbane? | Yes, they **do**. / No, they **don't**. | Eles gostam de Brisbane? |
+| **Do** they **like** New York? | Yes, they **do**. / No, they **don't**. | Eles gostam de Nova York? |
 
 > Não existe "do/does" em português — a gente pergunta só mudando a entonação ("Você fala inglês?"). Em inglês, **a pergunta precisa do auxiliar**. E na resposta curta, repete-se o auxiliar, não o verbo: *Yes, I do* (não ~~Yes, I speak~~).
 
@@ -79,7 +79,7 @@ Does  she  live  in Brisbane?
 | ✅ Com to be | ✅ Com outros verbos |
 |--------------|----------------------|
 | **Are** you tired? | **Do** you **work** a lot? |
-| She **isn't** Australian. | She **doesn't live** here. |
+| She **isn't** tired. | She **doesn't live** here. |
 
 ❌ *Do you are tired?* — erro clássico de misturar os dois sistemas.
 
@@ -91,10 +91,10 @@ Does  she  live  in Brisbane?
 
 **2. Fatos e verdades gerais**
 - *The sun **rises** in the east.* — O sol nasce no leste.
-- *Brisbane **is** in Queensland.* — Brisbane fica em Queensland.
+- *Paris **is** in France.* — Paris fica na França.
 
 **3. Estados permanentes (ou de longa duração)**
-- *She **lives** in Australia.* — Ela mora na Austrália.
+- *She **lives** in Canada.* — Ela mora no Canadá.
 - *He **works** as an architect.* — Ele trabalha como arquiteto.
 
 **4. Gostos, opiniões e sentimentos**
@@ -128,7 +128,7 @@ Os advérbios de frequência (detalhe completo em N1-11) são a companhia natura
 3. **Usar do/does com to be** — ❌ *Do you are happy?* → ✅ ***Are** you happy?* (to be não usa auxiliar)
 4. **Comer o sujeito** — ❌ *Works at a school.* → ✅ ***She** works at a school.* (em português "trabalha numa escola" funciona; em inglês a frase SEMPRE precisa de sujeito)
 5. **Usar presente simples para "agora"** — ❌ *I study now, call me later.* → ✅ *I **am studying** now...* (agora = presente contínuo, N1-01)
-6. **Perguntar sem auxiliar** — ❌ *You like Brisbane?* (só funciona na fala bem informal) → ✅ ***Do** you like Brisbane?*
+6. **Perguntar sem auxiliar** — ❌ *You like New York?* (só funciona na fala bem informal) → ✅ ***Do** you like New York?*
 
 ## Auto-teste
 
@@ -166,6 +166,6 @@ Os advérbios de frequência (detalhe completo em N1-11) são a companhia natura
 - [ ] Recite a regra: verbo na forma básica + **-s só com he/she/it**
 - [ ] Negativa = **don't/doesn't + verbo sem -s** · Pergunta = **Do/Does + sujeito + verbo**
 - [ ] To be **não** usa do/does — *Are you...?*, nunca *Do you are...?*
-- [ ] Fale 3 frases em voz alta sobre sua rotina em Brisbane (*I wake up at..., I study..., We go to...*)
+- [ ] Fale 3 frases em voz alta sobre a sua rotina (*I wake up at..., I study..., We go to...*)
 - [ ] Fale as mesmas 3 frases sobre outra pessoa (*She wakes up...*) — caprichando no **-s**
 - [ ] Armadilha nº 1: depois de **doesn't**, o -s some — *She doesn't work* ✅

@@ -27,7 +27,7 @@ Em português os dois viram infinitivo ("nadar") — por isso a escolha em ingl�
 
 | Inglês | Português |
 |--------|-----------|
-| I **enjoy living** in Brisbane. | Eu gosto de morar em Brisbane. |
+| I **enjoy living** in London. | Eu gosto de morar em Londres. |
 | She **finished writing** the essay. | Ela terminou de escrever a redação. |
 | **Avoid swimming** outside the flags. | Evite nadar fora das bandeiras. |
 | **Keep practising** every day. | Continue praticando todo dia. |
@@ -41,7 +41,7 @@ Em português os dois viram infinitivo ("nadar") — por isso a escolha em ingl�
 
 | Inglês | Português |
 |--------|-----------|
-| We **decided to move** to Australia. | Decidimos nos mudar para a Austrália. |
+| We **decided to move** abroad. | Decidimos nos mudar para o exterior. |
 | I **want to improve** my English. | Quero melhorar meu inglês. |
 | She **hopes to find** a job soon. | Ela espera achar um emprego logo. |
 | They **can't afford to rent** alone. | Eles não têm dinheiro para alugar sozinhos. |
@@ -57,7 +57,7 @@ Em português os dois viram infinitivo ("nadar") — por isso a escolha em ingl�
 - *It **started raining**.* = *It **started to rain**.* — Começou a chover.
 - *I **like cooking**.* ≈ *I **like to cook**.* — Gosto de cozinhar.
 
-⚠️ Com **would**, só infinitivo: *I **would like to visit** Sydney.* (❌ *would like visiting*)
+⚠️ Com **would**, só infinitivo: *I **would like to visit** Paris.* (❌ *would like visiting*)
 
 ### Grupo 4 — aceitam os dois, mas o sentido MUDA (o coração do tema)
 
@@ -65,14 +65,14 @@ Em português os dois viram infinitivo ("nadar") — por isso a escolha em ingl�
 |-------|--------|------|
 | **stop** | *He **stopped smoking**.* — Parou **de** fumar (largou o hábito). | *He **stopped to smoke**.* — Parou (o que fazia) **para** fumar. |
 | **remember** | *I **remember locking** the door.* — Lembro **de ter trancado** (memória do passado). | *I **remembered to lock** the door.* — Lembrei **de trancar** (não esqueci de fazer). |
-| **forget** | *I'll never **forget seeing** the Opera House.* — Nunca vou esquecer **de ter visto**. | *Don't **forget to bring** sunscreen.* — Não esqueça **de trazer**. |
+| **forget** | *I'll never **forget seeing** the Eiffel Tower.* — Nunca vou esquecer **de ter visto**. | *Don't **forget to bring** sunscreen.* — Não esqueça **de trazer**. |
 | **try** | ***Try restarting** the modem.* — **Experimente** reiniciar (teste como solução). | *I **tried to open** the door, but it was locked.* — **Tentei** abrir (me esforcei). |
 
 O macete que resolve os quatro: **-ing olha para trás** (ação que já existe/aconteceu) · **to olha para a frente** (ação ainda por fazer, propósito).
 
 O par mais cobrado é o **stop**:
 - *stop + -ing* = parar **DE** → *I stopped working at 6 pm.* — Parei de trabalhar às 18h.
-- *stop + to* = parar **PARA** → *I stopped to watch the sunset at South Bank.* — Parei para ver o pôr do sol.
+- *stop + to* = parar **PARA** → *I stopped to watch the sunset at the beach.* — Parei para ver o pôr do sol.
 
 ### Depois de preposição: SEMPRE -ing
 
@@ -100,19 +100,19 @@ Em português, quase tudo vira "**de + infinitivo**": parei **de fumar**, termin
 
 ## Auto-teste
 
-1. Complete: *I enjoy ______ (live) in Brisbane, but I miss ______ (see) my family.*
+1. Complete: *I enjoy ______ (live) in New York, but I miss ______ (see) my family.*
 2. Complete: *On the way to work, she stopped ______ (buy) a coffee.*
 3. Certo ou errado: *"Don't forget posting the letter."* (querendo dizer "não esqueça de postar")
-4. Traduza: "Estou pensando em estudar na Austrália."
+4. Traduza: "Estou pensando em estudar no exterior."
 5. Qual a diferença? *"Try turning off the wifi."* vs *"I tried to lift the box."*
 
 <details>
 <summary><strong>Respostas</strong></summary>
 
-1. *I enjoy **living** in Brisbane, but I miss **seeing** my family.* — os dois são do grupo do -ing.
+1. *I enjoy **living** in New York, but I miss **seeing** my family.* — os dois são do grupo do -ing.
 2. *...she stopped **to buy** a coffee.* — parou PARA comprar (propósito).
 3. Errado — ainda está por fazer (olha para a frente): *Don't forget **to post** the letter.*
-4. *I'm thinking **of/about studying** in Australia.* — depois de preposição, sempre -ing.
+4. *I'm thinking **of/about studying** abroad.* — depois de preposição, sempre -ing.
 5. *Try **turning off**...* = **experimente** (teste como solução). *I tried **to lift**...* = **tentei/me esforcei** (e provavelmente não consegui).
 
 </details>

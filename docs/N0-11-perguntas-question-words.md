@@ -36,8 +36,8 @@ PERGUNTA:   Are  you  from Brazil?
 Verbos comuns (*live, work, like, have...*) **não invertem**. Entra o auxiliar **do** (I/you/we/they) ou **does** (he/she/it) na frente — e o verbo principal fica na **forma base** (sem -s):
 
 ```
-AFIRMAÇÃO:  She   works  in Brisbane.
-PERGUNTA:   Does  she    work  in Brisbane?   (work SEM -s — o does já carregou o -s)
+AFIRMAÇÃO:  She   works  downtown.
+PERGUNTA:   Does  she    work  downtown?      (work SEM -s — o does já carregou o -s)
 ```
 
 | Pergunta | Tradução |
@@ -122,14 +122,14 @@ Pergunta yes/no pede resposta curta com o **mesmo auxiliar** da pergunta — res
 |----------|--------------|--------------|
 | Are you from Brazil? | Yes, I **am**. | No, I'**m not**. |
 | Is she a student? | Yes, she **is**. | No, she **isn't**. |
-| Do you like Brisbane? | Yes, I **do**. | No, I **don't**. |
+| Do you like coffee? | Yes, I **do**. | No, I **don't**. |
 | Does he work here? | Yes, he **does**. | No, he **doesn't**. |
 
 > Cuidado: a resposta de *Do you like...?* é *Yes, I **do*** — não ~~Yes, I like~~.
 
-### Kit de sobrevivência: perguntas prontas para Brisbane
+### Kit de sobrevivência: perguntas práticas do dia a dia
 
-Decore estas — são as que você vai usar na primeira semana:
+Decore estas — são as que você vai usar com mais frequência:
 
 | Pergunta | Tradução |
 |----------|----------|
@@ -139,7 +139,7 @@ Decore estas — são as que você vai usar na primeira semana:
 | What time does the bus come? | Que horas o ônibus chega? |
 | Where is the toilet? | Onde é o banheiro? |
 | How do I get to the station? | Como eu chego na estação? |
-| What does "arvo" mean? | O que significa "arvo"? (gíria australiana p/ "tarde") |
+| What does "mate" mean? | O que significa "mate"? |
 
 ## Pegadinhas e erros comuns de brasileiros
 
@@ -152,7 +152,7 @@ Decore estas — são as que você vai usar na primeira semana:
 
 ## Auto-teste
 
-1. Transforme em pergunta: *She lives in Brisbane.* → *Where ______?*
+1. Transforme em pergunta: *She lives in London.* → *Where ______?*
 2. Certo ou errado: *"What time the class starts?"*
 3. Traduza: "Quanto custa a passagem de ônibus?"
 4. Complete: *______ (Who / Who does) speaks Portuguese in your class?*
@@ -188,5 +188,5 @@ Decore estas — são as que você vai usar na primeira semana:
 - [ ] Armadilha nº 1: pergunta em inglês **nunca** é só entonação — tem do/does ou inversão
 - [ ] Depois de *does*, o verbo **perde o -s** (*Does she work...?*)
 - [ ] *Who* sujeito = sem do/does (*Who lives here?*)
-- [ ] Faça 5 perguntas em voz alta sobre Brisbane: uma com *where*, uma com *how much*, uma com *what time*, uma com *who*, uma com *do you*
+- [ ] Faça 5 perguntas em voz alta sobre o seu dia a dia: uma com *where*, uma com *how much*, uma com *what time*, uma com *who*, uma com *do you*
 - [ ] Responda 2 delas com short answer (*Yes, I do. / No, it isn't.*)

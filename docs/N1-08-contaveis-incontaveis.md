@@ -29,7 +29,7 @@ São as "coisas" que você conta uma a uma — objetos, pessoas, lugares:
 
 | Inglês | Tradução |
 |--------|----------|
-| *We need **a flat** in Brisbane.* | Precisamos de um apartamento em Brisbane. |
+| *We need **a flat** in London.* | Precisamos de um apartamento em Londres. |
 | *She has **three classes** today.* | Ela tem três aulas hoje. |
 | *There are **many beaches** near the city.* | Há muitas praias perto da cidade. |
 
@@ -43,7 +43,7 @@ Não têm plural, não aceitam *a/an*, e o verbo fica no **singular**:
 |--------|----------|
 | *The water **is** cold.* | A água está fria. |
 | *Money **doesn't** grow on trees.* | Dinheiro não dá em árvore. |
-| *The weather in Brisbane **is** great.* | O tempo em Brisbane é ótimo. |
+| *The weather in London **is** great.* | O tempo em Londres é ótimo. |
 
 Categorias típicas de incontáveis:
 
@@ -69,8 +69,8 @@ Aqui mora 80% dos erros de brasileiro. Em português contamos, em inglês **não
 | uma bagagem / malas | **luggage** (a mala individual é *a bag/suitcase*) |
 | um trabalho de casa | **homework** (nunca *homeworks*) |
 
-- *I need **some information** about the visa.* — Preciso de (umas) informações sobre o visto.
-- *She gave me **good advice** about renting in Brisbane.* — Ela me deu bons conselhos sobre alugar em Brisbane.
+- *I need **some information** about the course.* — Preciso de (umas) informações sobre o curso.
+- *She gave me **good advice** about renting in the city.* — Ela me deu bons conselhos sobre alugar na cidade.
 
 ### Como "contar" o incontável: a piece of, a cup of...
 
@@ -91,7 +91,7 @@ Algumas mudam de sentido conforme o uso:
 
 | Incontável (geral/massa) | Contável (unidade) |
 |--------------------------|--------------------|
-| *I love **coffee**.* (a bebida em geral) | *Can I have **a coffee**?* (= uma xícara — normal no café em Brisbane) |
+| *I love **coffee**.* (a bebida em geral) | *Can I have **a coffee**?* (= uma xícara — normal em qualquer café) |
 | *Her **hair** is long.* (cabelo todo) | *There's **a hair** in my soup!* (um fio) |
 | *I don't have **time**.* (tempo) | *We visited **three times**.* (vezes) |
 | ***Glass** is fragile.* (vidro) | *He drank **a glass** of juice.* (um copo) |
@@ -115,7 +115,7 @@ Saber se a palavra é contável ou não decide o quantificador (detalhe no **N1-
 1. Contável ou incontável: *money · job · traffic · beach · advice*?
 2. Certo ou errado: *"Can you give me some informations about the course?"*
 3. Traduza: "Comprei um pão e duas maçãs."
-4. Complete: *The news ______ (be) good — we found a flat in Brisbane!*
+4. Complete: *The news ______ (be) good — we found a flat downtown!*
 5. Como pedir "um café" e "um copo d'água" em inglês?
 
 <details>
@@ -147,5 +147,5 @@ Saber se a palavra é contável ou não decide o quantificador (detalhe no **N1-
 - [ ] Recite os 5 falsos contáveis campeões: **information, advice, furniture, news, bread** (todos SEM plural)
 - [ ] Armadilha nº 1: ❌ *informations* → ✅ *some information / a piece of information*
 - [ ] Fale 3 pedidos em voz alta com medida: *a cup of..., a glass of..., a piece of...*
-- [ ] Fale 2 frases sobre a mudança: uma com *luggage* e uma com *furniture* (verbo no singular!)
+- [ ] Fale 2 frases do dia a dia: uma com *luggage* e uma com *furniture* (verbo no singular!)
 - [ ] Se travou no plural dos contáveis → revise [N0-06] antes de seguir

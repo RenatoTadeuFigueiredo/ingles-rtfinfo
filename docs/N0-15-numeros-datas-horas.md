@@ -6,7 +6,7 @@
 
 ## Em 1 frase
 
-Números, datas e horas são o inglês de sobrevivência do dia a dia — preço, telefone, horário de ônibus, data de validade do visto — e as regras são simples, mas o inglês **inverte a vírgula e o ponto** dos números e usa **on/in/at** onde o português usa só "em".
+Números, datas e horas são o inglês de sobrevivência do dia a dia — preço, telefone, horário de ônibus, data de validade do passaporte — e as regras são simples, mas o inglês **inverte a vírgula e o ponto** dos números e usa **on/in/at** onde o português usa só "em".
 
 ## Explicação completa
 
@@ -70,12 +70,12 @@ Usados para **datas, andares e ordem**. Regra geral: número + **-th**. Exceçõ
 
 ### Datas: boa notícia para brasileiro
 
-A Austrália escreve a data **igual ao Brasil**: dia/mês/ano — **9/6/2026 = 9 de junho**. (É os EUA que invertem: lá 9/6 seria 6 de setembro.) Num formulário australiano, preencha como faria no Brasil.
+A maioria dos países de língua inglesa (Reino Unido, Irlanda, Canadá) escreve a data **igual ao Brasil**: dia/mês/ano — **9/6/2026 = 9 de junho**. (É os EUA que invertem: lá 9/6 seria 6 de setembro.) Num formulário, preencha como faria no Brasil.
 
 **Escrever:** *9 June 2026* ou *9th June 2026*
 **Falar:** *the ninth of June* ou *June the ninth* — sempre com ordinal!
 
-- *Our flight to Brisbane is **on the tenth of November**.* — Nosso voo para Brisbane é no dia 10 de novembro.
+- *Our flight to London is **on the tenth of November**.* — Nosso voo para Londres é no dia 10 de novembro.
 
 **Anos** se falam em pares de dois dígitos:
 
@@ -99,7 +99,7 @@ A Austrália escreve a data **igual ao Brasil**: dia/mês/ano — **9/6/2026 = 9
 | **in** | mês, ano, estação | **in** June · **in** 2026 · **in** winter | em junho · em 2026 · no inverno |
 | **at** | hora, feriado | **at** 7 o'clock · **at** Christmas · **at** the weekend | às 7 · no Natal · no fim de semana |
 
-> Macete do funil: **at** (hora, ponto exato) → **on** (dia) → **in** (mês/ano, período grande). Na Austrália é *at the weekend* (britânico); *on the weekend* é o jeito americano — ambos entendidos.
+> Macete do funil: **at** (hora, ponto exato) → **on** (dia) → **in** (mês/ano, período grande). Em inglês britânico é *at the weekend*; *on the weekend* é o jeito americano — ambos entendidos.
 
 ### Horas: as duas formas de falar
 
@@ -126,7 +126,7 @@ minutos TO   hora  →  do :31 ao :59 (faltando para a próxima)
 
 > **O inglês falado não usa relógio de 24h.** "O trem sai às 14h" vira *The train leaves at **2 p.m.*** — **a.m.** = madrugada/manhã (0h–12h), **p.m.** = tarde/noite (12h–0h). O formato 18:45 aparece escrito em horário de voo, mas se fala *six forty-five p.m.* ou *quarter to seven in the evening*.
 
-- *The bus to South Bank leaves **at quarter past eight**.* — O ônibus para South Bank sai às 8h15.
+- *The bus to the city center leaves **at quarter past eight**.* — O ônibus para o centro sai às 8h15.
 - *My class starts **at 9 a.m.** and finishes **at half past twelve**.* — Minha aula começa às 9h e termina ao meio-dia e meia.
 
 ### Telefone, idade e zero
@@ -153,7 +153,7 @@ minutos TO   hora  →  do :31 ao :59 (faltando para a próxima)
 1. Escreva por extenso: *$1,250.50* (como você falaria o preço).
 2. Certo ou errado: *"My birthday is on 15th may."*
 3. Traduza: "A aula começa às sete e meia da manhã."
-4. Complete com on/in/at: *We arrive ______ Brisbane ______ 10 November ______ 6 a.m.*
+4. Complete com on/in/at: *We arrive ______ London ______ 10 November ______ 6 a.m.*
 5. Como se fala o ano *2026*? E *2005*?
 
 <details>
@@ -162,7 +162,7 @@ minutos TO   hora  →  do :31 ao :59 (faltando para a próxima)
 1. *One thousand two hundred and fifty dollars (and) fifty cents* — ou, no dia a dia, *twelve fifty and fifty cents*. Atenção: vírgula no milhar, ponto no decimal.
 2. Errado — mês com maiúscula: *My birthday is on 15th **May**.* (a estrutura *on + data* está certa)
 3. *The class starts **at half past seven** in the morning.* (ou *at seven thirty a.m.*)
-4. *We arrive **in** Brisbane **on** 10 November **at** 6 a.m.* (in = cidade; on = data; at = hora)
+4. *We arrive **in** London **on** 10 November **at** 6 a.m.* (in = cidade; on = data; at = hora)
 5. *2026 = **twenty twenty-six** · 2005 = **two thousand and five** (ou twenty oh five).*
 
 </details>
@@ -186,6 +186,6 @@ minutos TO   hora  →  do :31 ao :59 (faltando para a próxima)
 - [ ] Recite o funil: **at** hora · **on** dia/data · **in** mês/ano
 - [ ] Vírgula e ponto **invertidos**: 1,000 = mil · 2.5 = dois e meio
 - [ ] Idade é com **be**: *I am 28* — nunca *I have 28 years*
-- [ ] Fale em voz alta: a data de hoje (*the ninth of June*), seu aniversário e o ano que você chega na Austrália
+- [ ] Fale em voz alta: a data de hoje (*the ninth of June*), seu aniversário e o ano de um evento importante para você
 - [ ] Fale 3 horários do seu dia: *half past..., quarter to..., ... o'clock*
 - [ ] Pronuncie em par: *thirteen/thirty, fourteen/forty, fifteen/fifty* — força no fim (13) vs no começo (30)

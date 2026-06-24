@@ -17,8 +17,8 @@ Este é o último tema de gramática da trilha. Ele junta três frentes que não
 | Frente | Pergunta que responde | Exemplo |
 |--------|----------------------|---------|
 | **Artigos avançados** | Quando NÃO usar *the*? | *Kangaroos are everywhere.* (sem the!) |
-| **Aspecto** | Simple ou continuous, perfect ou não? | *We live* vs *we're living* in Brisbane |
-| **Ênfase** | Como destacar uma parte da frase? | *I **do** like Brisbane.* |
+| **Aspecto** | Simple ou continuous, perfect ou não? | *We live* vs *we're living* in London |
+| **Ênfase** | Como destacar uma parte da frase? | *I **do** like London.* |
 
 ### Artigos avançados — a regra mestra
 
@@ -31,9 +31,9 @@ INGLÊS:     Kangaroos are dangerous.        (generalização SEM artigo)
 
 | Generalização (zero artigo) | Específico (the) |
 |------------------------------|------------------|
-| **Life** in Australia is expensive. — A vida na Austrália é cara. | **The life** we built here... — A vida que construímos aqui... |
+| **Life** in a big city is expensive. — A vida numa grande cidade é cara. | **The life** we built here... — A vida que construímos aqui... |
 | **Coffee** keeps me awake. — O café me mantém acordada. | **The coffee** at this café is great. — O café DESTE café é ótimo. |
-| **Brazilians** love beaches. — Os brasileiros amam praia. | **The Brazilians** I met in Brisbane... — Os brasileiros que eu conheci... |
+| **Brazilians** love beaches. — Os brasileiros amam praia. | **The Brazilians** I met in London... — Os brasileiros que eu conheci... |
 
 > **O pulo do gato:** plural ou incontável falando da categoria inteira = **sem artigo**. Apareceu uma restrição ("que eu conheci", "deste café") = volta o **the**. Brasileiro erra porque traduz o "os/as" do português.
 
@@ -47,7 +47,7 @@ Dois usos especiais de *the* que parecem violar a regra acima:
 - **The + adjetivo = o grupo de pessoas** (sempre plural no sentido):
   *The rich, the poor, the unemployed, the elderly.*
   *The government should help **the unemployed**.* — ...os desempregados.
-- **The + nacionalidade**: *The Australians love sport.* — Os australianos amam esporte.
+- **The + nacionalidade**: *The Japanese love sport.* — Os japoneses amam esporte.
 
 ### Instituições: school, hospital, prison, church, bed, work, uni
 
@@ -60,20 +60,20 @@ Quando o lugar é usado **para sua função**, vai **sem artigo**. Quando é só
 | I go **to bed** at 10. — Vou dormir às 10. | The cat is sleeping **on the bed**. — O gato está dormindo na cama (móvel). |
 | He's **at work** / **at uni**. — Ele está no trabalho / na facul. | — |
 
-> 🇦🇺 O inglês australiano segue o britânico: *in hospital* = internado (o americano diz *in the hospital*). E **at uni** é o jeito australiano padrão de dizer "na universidade" — *Renato's at uni today.*
+> O inglês britânico usa *in hospital* = internado (o americano diz *in the hospital*). **At uni** é o jeito informal britânico de dizer "na universidade" — *She's at uni today.*
 
 ### Nomes geográficos: com ou sem the?
 
 | SEM the | COM the |
 |---------|---------|
-| Países e cidades: *Australia, Brazil, Brisbane* | Países plurais/sigla: *the USA, the UK, the Philippines, the Netherlands* |
-| Ruas: *Queen Street, Adelaide Street* | Rios, mares, oceanos: *the Brisbane River, the Pacific* |
-| Lagos e montes isolados: *Lake Eyre, Mount Coot-tha* | Cadeias e desertos: *the Great Dividing Range, the Outback* |
-| Parques, aeroportos: *Roma Street Parkland, Brisbane Airport* | Pontos cardeais como região: *the north of Queensland* |
+| Países e cidades: *France, Brazil, Paris* | Países plurais/sigla: *the USA, the UK, the Philippines, the Netherlands* |
+| Ruas: *Main Street, Park Avenue* | Rios, mares, oceanos: *the Thames, the Pacific* |
+| Lagos e montes isolados: *Lake Titicaca, Mount Fuji* | Cadeias e desertos: *the Alps, the Sahara* |
+| Parques, aeroportos: *Central Park, JFK Airport* | Pontos cardeais como região: *the north of France* |
 | Refeições: *have breakfast/lunch/dinner* | Únicos no mundo: *the sun, the internet, the environment* |
-| Transporte com by: *by bus, by train, by car* | Hotéis, cinemas, museus: *the Queensland Museum* |
+| Transporte com by: *by bus, by train, by car* | Hotéis, cinemas, museus: *the British Museum* |
 
-> 🇦🇺 Exceção famosa que você vai usar: **the Gold Coast** e **the Sunshine Coast** levam *the* (são "costas", não cidades comuns): *We drove down to the Gold Coast.*
+> Exceções que confundem: **the Algarve**, **the Riviera** e **the Midwest** levam *the* (são regiões ou costas, não cidades): *They spent summer on the Riviera.*
 
 ### Aspecto — o tempo verbal como ponto de vista
 
@@ -81,7 +81,7 @@ Em C1, a escolha entre simple e continuous deixa de ser regra e vira **mensagem*
 
 | Simple (permanente, fato) | Continuous (temporário, em andamento) |
 |---------------------------|----------------------------------------|
-| We **live** in Brazil. — Moramos no Brasil (nossa casa é lá). | We**'re living** in Brisbane this year. — Estamos morando em Brisbane (por enquanto). |
+| We **live** in Brazil. — Moramos no Brasil (nossa casa é lá). | We**'re living** in London this year. — Estamos morando em Londres (por enquanto). |
 | She **works** at a café. — Ela trabalha num café (emprego dela). | She**'s working** at a café until uni starts. — Está trabalhando num café (situação provisória). |
 | He**'s** very polite. — Ele é educado (personalidade). | He**'s being** very polite today. — Ele está SE COMPORTANDO educado hoje (suspeito...). |
 
@@ -99,7 +99,7 @@ Você aprendeu que verbos de estado (*know, want, like, need*) não vão para -i
 | I **have** a car. — Tenho (posse). | I**'m having** lunch. — Estou almoçando (atividade). |
 | The mango **tastes** sweet. — Tem gosto doce. | She**'s tasting** the mango. — Está provando. |
 | You**'re** silly. — Você é boba. | You**'re being** silly. — Você está SE FAZENDO de boba agora. |
-| I **love** Brisbane. — Amo (estado). | I**'m loving** Brisbane! — Estou curtindo demais! (informal, entusiasmo do momento) |
+| I **love** Paris. — Amo (estado). | I**'m loving** Paris! — Estou curtindo demais! (informal, entusiasmo do momento) |
 
 > *Know, believe, understand, need, own* continuam travados: ❌ *I'm knowing* nunca existe.
 
@@ -124,20 +124,20 @@ O futuro também é nuance de aspecto — quanto mais "arranjado", mais presente
 | Will | Decisão na hora/previsão | *I**'ll take** this one.* — Vou levar esse. |
 | **Future continuous** | Pergunta educada, sem pressionar | ***Will you be using** the car tomorrow?* — Você vai estar usando o carro amanhã? |
 
-O *future continuous* educado é ouro na Austrália: pergunta sobre os planos da pessoa **sem soar que você está pedindo algo** — *Will you be coming to the barbie?* soa mais leve que *Are you coming?*
+O *future continuous* educado é muito útil: pergunta sobre os planos da pessoa **sem soar que você está pedindo algo** — *Will you be coming to the party?* soa mais leve que *Are you coming?*
 
 ### Ênfase — o kit completo
 
 Ferramentas para destacar informação (as duas primeiras você já viu; aqui é a caixa inteira):
 
 **1. Emphatic do/does/did** — adiciona *do* numa afirmativa para insistir ou contrastar:
-- *I **do** understand the visa rules — I just disagree.* — Eu ENTENDO as regras, só discordo.
+- *I **do** understand the rules — I just disagree.* — Eu ENTENDO as regras, só discordo.
 - *She **does** speak English, just slowly.* — Ela FALA inglês, sim, só que devagar.
 - *We **did** pay the rent!* — A gente PAGOU o aluguel! (verbo volta à forma base: ❌ *did paid*)
 - No imperativo, vira convite caloroso: ***Do** come in!* — Entre, por favor!
 
 **2. Cleft sentences** (detalhe em N4-03) — recorta a frase para destacar um pedaço:
-- *It was **Renato** who found the flat.* — Foi o Renato que achou o apê.
+- *It was **Lucas** who found the flat.* — Foi o Lucas que achou o apê.
 - ***What we need** is a cheaper suburb.* — O que a gente precisa é de um bairro mais barato.
 
 **3. Inversão** (detalhe em N4-02) — advérbio negativo na frente + ordem de pergunta:
@@ -159,7 +159,7 @@ Ferramentas para destacar informação (as duas primeiras você já viu; aqui é
 ## Pegadinhas e erros comuns de brasileiros
 
 1. **"Os" do português em generalização** — ❌ *The kangaroos are dangerous animals.* (falando da espécie) → ✅ ***Kangaroos** are dangerous animals.*
-2. **The em nome de país** — ❌ *the Australia, the Brazil* → ✅ *Australia, Brazil* (mas ✅ *the USA, the UK, the Philippines*).
+2. **The em nome de país** — ❌ *the France, the Brazil* → ✅ *France, Brazil* (mas ✅ *the USA, the UK, the Philippines*).
 3. **The em instituição-função** — ❌ *She's in the hospital* (querendo dizer "internada", no inglês AU/UK) → ✅ *She's **in hospital**.* / ❌ *I go to the bed early* → ✅ *I go **to bed** early.*
 4. **Estativo travado em -ing** — ❌ *I'm needing more time. / I'm knowing the answer.* → ✅ *I **need** more time. / I **know** the answer.* (a exceção é mudança de sentido: *I'm thinking about it* ✅)
 5. **Emphatic do com verbo flexionado** — ❌ *She does speaks English. / We did paid.* → ✅ *She does **speak**. / We did **pay**.* (depois de do/does/did, verbo na forma base)
@@ -168,20 +168,20 @@ Ferramentas para destacar informação (as duas primeiras você já viu; aqui é
 
 ## Auto-teste
 
-1. Complete com the ou — (nada): *___ life in ___ Brisbane is more relaxed than in ___ São Paulo, but ___ rent we pay is higher.*
-2. Certo ou errado: *"My mum is in the hospital since Monday"* (querendo dizer que está internada, inglês australiano)?
+1. Complete com the ou — (nada): *___ life in ___ London is more relaxed than in ___ São Paulo, but ___ rent we pay is higher.*
+2. Certo ou errado: *"My mum is in the hospital since Monday"* (querendo dizer que está internada, inglês britânico)?
 3. Qual a diferença de sentido: *"You're silly"* vs *"You're being silly"*?
-4. Reescreva com ênfase em quem achou: *"Giovanna found the cheap flight."* (use cleft com It)
-5. Complete: *"— I don't think she likes Brisbane. — She ______ (like) Brisbane! She just misses her family."* (use ênfase)
+4. Reescreva com ênfase em quem achou: *"Ana found the cheap flight."* (use cleft com It)
+5. Complete: *"— I don't think she likes Paris. — She ______ (like) Paris! She just misses her family."* (use ênfase)
 
 <details>
 <summary><strong>Respostas</strong></summary>
 
-1. ***—** life in **—** Brisbane is more relaxed than in **—** São Paulo, but **the** rent we pay is higher.* — generalização e nomes de cidade sem artigo; "rent que pagamos" é específico → the.
+1. ***—** life in **—** London is more relaxed than in **—** São Paulo, but **the** rent we pay is higher.* — generalização e nomes de cidade sem artigo; "rent que pagamos" é específico → the.
 2. Errado duas vezes — instituição-função sem the + present perfect com since: *My mum **has been in hospital** since Monday.*
 3. *You're silly* = você É boba (personalidade, permanente). *You're being silly* = você está SE COMPORTANDO de forma boba agora (temporário).
-4. ***It was Giovanna who found** the cheap flight.* — Foi a Giovanna que achou o voo barato.
-5. *She **does like** Brisbane!* — emphatic does + verbo na forma base (❌ does likes).
+4. ***It was Ana who found** the cheap flight.* — Foi a Ana que achou o voo barato.
+5. *She **does like** Paris!* — emphatic does + verbo na forma base (❌ does likes).
 
 </details>
 
@@ -202,7 +202,7 @@ Ferramentas para destacar informação (as duas primeiras você já viu; aqui é
 
 - [ ] Recite a regra mestra dos artigos: **generalização (plural/incontável) = SEM artigo; especificado = the**
 - [ ] Armadilha nº 1: não traduza o "os/as" do português — *Kangaroos are dangerous*, nunca ~~The kangaroos~~ para a espécie
-- [ ] Fale 3 generalizações sobre a Austrália sem artigo (*Houses in Brisbane..., Australians..., Coffee...*)
+- [ ] Fale 3 generalizações sem artigo (*Houses in big cities..., Students..., Coffee...*)
 - [ ] Instituições: *in hospital / at school / to bed / at uni* — recite os 4 sem the
 - [ ] Aspecto: *we live* (permanente) vs *we're living* (temporário) — crie 1 frase de cada sobre vocês
 - [ ] Estativos que mudam de sentido: fale o par *I think* (opinião) / *I'm thinking* (processo)

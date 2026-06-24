@@ -29,7 +29,7 @@ Duas regras resolvem 90% dos casos:
 
 | Frase | Tag | Tradução |
 |-------|-----|----------|
-| It **'s** hot in Brisbane, | **isn't it?** | Faz calor em Brisbane, né? |
+| It **'s** hot in London, | **isn't it?** | Faz calor em Londres, né? |
 | You **aren't** tired, | **are you?** | Você não está cansada, está? |
 | They **were** at the beach, | **weren't they?** | Eles estavam na praia, não estavam? |
 | He **can** swim, | **can't he?** | Ele sabe nadar, não sabe? |
@@ -44,7 +44,7 @@ Quando a frase está no presente ou passado simples **sem auxiliar aparecendo** 
 |-------|-----|----------|
 | You **like** the beach, | **don't you?** | Você gosta de praia, né? |
 | She **works** in the city, | **doesn't she?** | Ela trabalha no centro, não trabalha? |
-| They **moved** to Australia, | **didn't they?** | Eles se mudaram pra Austrália, né? |
+| They **moved** to New York, | **didn't they?** | Eles se mudaram pra Nova York, né? |
 | He **didn't pay**, | **did he?** | Ele não pagou, pagou? |
 
 > Este é O erro nº 1 do brasileiro: usar *isn't it?* para tudo. Em inglês o tag **muda conforme o verbo da frase** — não existe um "né?" universal.
@@ -53,7 +53,7 @@ Quando a frase está no presente ou passado simples **sem auxiliar aparecendo** 
 
 No tag, o sujeito vira pronome — nunca repita o nome:
 
-- *Giovanna speaks Portuguese, doesn't **she**?* (❌ ~~doesn't Giovanna?~~)
+- *Ana speaks Portuguese, doesn't **she**?* (❌ ~~doesn't Ana?~~)
 - ***This** is your bag, isn't **it**?* — this/that → **it**
 - ***Those** apartments are expensive, aren't **they**?* — these/those → **they**
 - ***There**'s a bus at 8, isn't **there**?* — there is/are mantém o **there**
@@ -76,7 +76,7 @@ O mesmo tag muda de função conforme a voz **sobe ou desce** no final:
 - **Voz subindo ↗** = pergunta real, você não sabe a resposta: *You're coming tomorrow, aren't you? ↗* — "Você vem amanhã, vem mesmo?"
 - **Voz descendo ↘** = você só quer concordância, é social: *Lovely day, isn't it? ↘* — "Dia lindo, né?"
 
-Na Austrália isso é ouro para small talk: *Hot today, isn't it?* na fila do café é convite para conversa, não pergunta de verdade. (E você vai ouvir muito o *...**, eh?*** informal dos australianos fazendo o mesmo papel.)
+Isso é ouro para o small talk do dia a dia: *Hot today, isn't it?* na fila do café é convite para conversa, não pergunta de verdade.
 
 ### Como responder a um question tag
 
@@ -142,5 +142,5 @@ O instinto de traduzir "né?" por *isn't it?* é a origem de quase todos os erro
 - [ ] Sem auxiliar visível (presente/passado simples) → tag com **do/does/did**
 - [ ] Exceções de bolso: *I am → **aren't I?*** · *Let's → **shall we?*** · imperativo → **will you?**
 - [ ] *never/nobody/nothing* já são negativos → tag **positiva** (*does he?*)
-- [ ] Fale 3 frases sobre Brisbane com tag em voz alta (*It's sunny today, isn't it? / You take the train, don't you?*)
+- [ ] Fale 3 frases do seu dia a dia com tag em voz alta (*It's sunny today, isn't it? / You take the train, don't you?*)
 - [ ] Armadilha nº 1: "né?" NÃO é sempre *isn't it?* — ouça o verbo da frase antes do tag

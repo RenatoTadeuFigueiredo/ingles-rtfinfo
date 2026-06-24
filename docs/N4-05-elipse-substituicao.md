@@ -16,8 +16,8 @@ Inglês odeia repetir: em vez de repetir a frase inteira, você **concorda** com
 SO      + AUXILIAR + SUJEITO  →  concorda com frase AFIRMATIVA ("eu também")
 NEITHER + AUXILIAR + SUJEITO  →  concorda com frase NEGATIVA  ("eu também não")
 
-"I love Brisbane."        — "So do I."       (Eu também.)
-"I don't eat Vegemite."   — "Neither do I."  (Eu também não.)
+"I love New York."        — "So do I."       (Eu também.)
+"I don't drink coffee."   — "Neither do I."  (Eu também não.)
 ```
 
 A regra de ouro: o auxiliar **espelha** o da frase original (mesmo tempo verbal). Se a frase original não tem auxiliar visível (presente/passado simples), entra **do/does/did**:
@@ -26,7 +26,7 @@ A regra de ouro: o auxiliar **espelha** o da frase original (mesmo tempo verbal)
 |----------------|----------|----------|
 | I **am** tired. | So **am** I. | Eu também (estou). |
 | I **work** from home. | So **do** I. | Eu também. |
-| She **moved** to Australia. | So **did** we. | Nós também. |
+| She **moved** abroad. | So **did** we. | Nós também. |
 | I **have been** to Sydney. | So **have** I. | Eu também. |
 | I **can** drive. | So **can** I. | Eu também. |
 | I **will** miss Brazil. | So **will** I. | Eu também. |
@@ -71,7 +71,7 @@ Português diz "acho que **sim**" / "acho que **não**". Inglês substitui a ora
 
 | Pergunta | "...que sim" | "...que não" |
 |----------|--------------|--------------|
-| Is the visa approved? | I **think so**. | I **don't think so**. |
+| Is the application approved? | I **think so**. | I **don't think so**. |
 | Will it rain at the barbecue? | I'**m afraid so**. | I **hope not**. |
 | Do we have to pay upfront? | I **suppose so**. / I **guess so**. | I'**m afraid not**. |
 | Is she coming? | I **believe so**. / I **expect so**. | I **don't believe so**. |
@@ -85,7 +85,7 @@ Dois padrões para o negativo — e cada verbo tem sua preferência:
 Depois de um auxiliar, o inglês **corta** o resto da frase já entendida (em vez de repetir o verbo, como o português costuma fazer):
 
 - *She can swim, but I **can't** (~~swim~~).* — Ela sabe nadar, mas eu não (sei).
-- *I haven't found a flat yet, but Renato **has** (~~found one~~).* — Eu ainda não achei, mas o Renato já.
+- *I haven't found a flat yet, but Tom **has** (~~found one~~).* — Eu ainda não achei, mas o Tom já.
 - *"Who wants coffee?"* — *"I **do**."* — "Quem quer café?" — "Eu (quero)."
 - *He says he'll call, but he never **does**.* — Ele diz que vai ligar, mas nunca liga.
 
@@ -131,7 +131,7 @@ Na fala, *do it / do that* são mais naturais: *"Can you book the flights?" — 
 2. Certo ou errado: *"A: I'm really tired. — B: So do I."*
 3. Traduza: "— Será que vai chover no churrasco? — Espero que não."
 4. Complete a elipse: *She speaks English well, but her brother ______.* (ele NÃO fala)
-5. Responda discordando: *"I can't stand the heat."* → você ADORA o calor de Brisbane.
+5. Responda discordando: *"I can't stand the heat."* → você ADORA o calor.
 
 <details>
 <summary><strong>Respostas</strong></summary>

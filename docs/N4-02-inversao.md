@@ -41,24 +41,24 @@ O verbo principal volta para a forma base — quem carrega o tempo é o *do/does
 
 **1. Frequência negativa: never, rarely, seldom, hardly ever**
 - *Never **have I been** so happy.* — Nunca estive tão feliz.
-- *Seldom **do we see** rain like this in Brisbane.* — Raramente vemos uma chuva assim em Brisbane.
+- *Seldom **do we see** rain like this in London.* — Raramente vemos uma chuva assim em Londres.
 
 **2. Not only... but (also)** — a mais útil para o IELTS:
-- *Not only **does Brisbane have** great weather, but it also has amazing beaches.* — Brisbane não só tem um clima ótimo, como também tem praias incríveis.
+- *Not only **does the city have** great weather, but it also has amazing beaches.* — A cidade não só tem um clima ótimo, como também tem praias incríveis.
 - *Not only **did we save** money, but we also made friends.* — Não só economizamos dinheiro, como também fizemos amigos.
 
 **3. No sooner... than / Hardly... when** — duas coisas em sequência imediata (aqui entra o **past perfect**, N3-05):
-- *No sooner **had we landed** in Australia **than** it started to rain.* — Mal pousamos na Austrália e começou a chover.
+- *No sooner **had we landed** in New York **than** it started to rain.* — Mal pousamos em Nova York e começou a chover.
 - *Hardly **had I opened** my laptop **when** the internet dropped.* — Mal abri o notebook e a internet caiu.
 - 📌 Memorize o par: **no sooner → than** · **hardly/scarcely → when**.
 
 **4. Not until / Only + tempo ou condição** — a inversão vai na **oração principal**, não na do until/when:
-- *Not until we arrived in Brisbane **did we realise** how hot it was.* — Só quando chegamos em Brisbane percebemos o calor que fazia.
-- *Only when the visa was granted **did we book** the flights.* — Só quando o visto saiu é que compramos as passagens.
+- *Not until we arrived in the city **did we realise** how hot it was.* — Só quando chegamos na cidade percebemos o calor que fazia.
+- *Only when the date was confirmed **did we book** the tickets.* — Só quando a data foi confirmada é que compramos as passagens.
 - *Only by practising every day **will you improve** your listening.* — Só praticando todo dia você vai melhorar o listening.
 
 **5. Under no circumstances / At no time / In no way / On no account** — proibição e negação enfáticas (formais):
-- *Under no circumstances **should you work** more hours than your visa allows.* — Sob nenhuma circunstância você deve trabalhar mais horas do que o visto permite.
+- *Under no circumstances **should you share** your password with anyone.* — Sob nenhuma circunstância você deve compartilhar sua senha com ninguém.
 - *At no time **did she mention** the price.* — Em momento nenhum ela mencionou o preço.
 
 **6. Little** — "mal sabia" (clássico de narrativa, ótimo no Speaking Part 2):
@@ -79,7 +79,7 @@ No estilo formal, dá para **apagar o if** e inverter:
 | If you should need help, call us. | **Should you need** help, call us. |
 
 - *Had we saved more, we would have left earlier.* — Tivéssemos economizado mais, teríamos partido antes.
-- *Should you have any questions, contact the university.* — Caso você tenha dúvidas, contate a universidade. (típico de e-mail formal — você VAI receber e-mails assim da Austrália)
+- *Should you have any questions, contact the university.* — Caso você tenha dúvidas, contate a universidade. (típico de e-mail formal)
 - Na negativa, **não** se contrai: ✅ *Had I **not** seen it...* · ❌ *Hadn't I seen it...*
 
 ### Contraste com o português
@@ -149,7 +149,7 @@ Ou seja: em português a ênfase vem da entonação; em inglês formal/escrito e
 - [ ] Recite a regra: **expressão negativa no início → auxiliar antes do sujeito** (ordem de pergunta)
 - [ ] Sem auxiliar na frase? Entra **do/does/did** e o verbo volta à forma base
 - [ ] Recite os pares: **no sooner → than** · **hardly → when** · **not only → but also**
-- [ ] Armadilha nº 1: ❌ *Never I have seen* → ✅ *Never **have I** seen* — fale 3 frases *Never have I...* sobre a Austrália em voz alta
-- [ ] Fale 2 frases *Not only... but also* sobre Brisbane (clima, praias, estudo)
+- [ ] Armadilha nº 1: ❌ *Never I have seen* → ✅ *Never **have I** seen* — fale 3 frases *Never have I...* sobre a sua vida em voz alta
+- [ ] Fale 2 frases *Not only... but also* sobre um tema qualquer (viagens, estudo, trabalho)
 - [ ] Condicional formal: *Had I known... / Should you need... / Were I you...* — uma de cada, em voz alta
 - [ ] No IELTS: **1–2 inversões por redação**, não mais

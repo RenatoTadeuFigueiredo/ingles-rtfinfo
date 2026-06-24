@@ -59,10 +59,10 @@ Cada parágrafo do corpo segue **P**oint → **E**xplain → **E**xample → **L
 |-------|-----------|---------|
 | **P**oint | Frase-tópico: a ideia do parágrafo | *Firstly, international students make a significant contribution to the local economy.* |
 | **E**xplain | Explica/justifica a ideia | *They pay tuition fees and spend money on rent, food and transport.* |
-| **E**xample | Dá um exemplo concreto | *In Brisbane, for instance, international education is one of the state's largest export industries.* |
+| **E**xample | Dá um exemplo concreto | *In London, for instance, international education is one of the city's largest industries.* |
 | **L**ink | Fecha conectando à tese | *This spending clearly benefits the host city far more than it costs.* |
 
-O parágrafo completo (tradução): *Em primeiro lugar, estudantes internacionais dão uma contribuição significativa à economia local. Eles pagam mensalidades e gastam com aluguel, comida e transporte. Em Brisbane, por exemplo, a educação internacional é uma das maiores indústrias de exportação do estado. Esse gasto claramente beneficia a cidade muito mais do que custa.*
+O parágrafo completo (tradução): *Em primeiro lugar, estudantes internacionais dão uma contribuição significativa à economia local. Eles pagam mensalidades e gastam com aluguel, comida e transporte. Em Londres, por exemplo, a educação internacional é uma das maiores indústrias da cidade. Esse gasto claramente beneficia a cidade muito mais do que custa.*
 
 > Regra de ouro: **1 ideia central por parágrafo**. Se uma segunda ideia aparecer, ou ela vira o Desenvolvimento 2, ou sai do texto.
 
@@ -139,7 +139,7 @@ Os conectores de N3-11 são o cimento entre as partes — organizados por funç�
 1. **Introdução** (paráfrase + tese) · **Desenvolvimento 1** e **Desenvolvimento 2** (1 ideia cada, em PEEL) · **Conclusão** (reafirma a tese, sem ideia nova).
 2. Ex.: *It is often argued that buses and trains should be provided at no cost to passengers.* — Costuma-se argumentar que ônibus e trens deveriam ser oferecidos sem custo aos passageiros.
 3. Errado — registro informal (*I think it's*, *big*, *a lot of*, *don't*). ✅ *This is a significant problem because many students cannot afford the fees.*
-4. Faltam **E**xample e **L**ink. Ex.: *...In Brisbane, for instance, fare cuts in 2024 increased public transport use. This shows that free fares would directly ease congestion.*
+4. Faltam **E**xample e **L**ink. Ex.: *...In New York, for instance, fare cuts in 2024 increased public transport use. This shows that free fares would directly ease congestion.*
 5. Ex.: *In conclusion, free public transport would ease congestion and support lower-income residents, and governments should therefore fund it.* — Em conclusão, o transporte público gratuito aliviaria o trânsito e apoiaria moradores de baixa renda, e os governos deveriam, portanto, financiá-lo.
 
 </details>

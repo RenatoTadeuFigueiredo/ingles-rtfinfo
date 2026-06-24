@@ -28,8 +28,8 @@ O **comparativo** (*cheaper / more expensive* + **than**) compara duas coisas; o
 | beautiful (bonito) | **more** beautiful | the **most** beautiful |
 
 Em frases:
-- *Brisbane is **cheaper than** Sydney.* — Brisbane é mais barata que Sydney.
-- *Sydney is **the most expensive** city in Australia.* — Sydney é a cidade mais cara da Austrália.
+- *London is **cheaper than** New York.* — Londres é mais barata que Nova York.
+- *New York is **the most expensive** city in the country.* — Nova York é a cidade mais cara do país.
 
 > Repare o contraste com o português: nós usamos sempre a mesma fórmula ("mais barato", "mais caro"). O inglês tem **duas fórmulas** — e misturar as duas é o erro nº 1 do brasileiro (❌ *more cheap*).
 
@@ -51,14 +51,14 @@ Em frases:
 | little (pouco) | **less** | **the least** |
 | much/many (muito) | **more** | **the most** |
 
-- *The weather in Brisbane is **better** than in Melbourne.* — O clima em Brisbane é melhor que em Melbourne.
+- *The weather in Lisbon is **better** than in London.* — O clima em Lisboa é melhor que em Londres.
 - *That was **the worst** flight of my life.* — Foi o pior voo da minha vida.
 
 ### Comparativo sempre com THAN
 
 O "do que" do português é **than** — nunca *that* nem *then*:
 
-- *Rent in Brisbane is higher **than** in my city in Brazil.* — O aluguel em Brisbane é mais alto **do que** na minha cidade no Brasil.
+- *Rent in London is higher **than** in my hometown.* — O aluguel em Londres é mais alto **do que** na minha cidade.
 - *My English is better **than** it was last year.* — Meu inglês está melhor do que estava ano passado.
 
 Depois de *than*, na fala usa-se o pronome objeto: *She is taller **than me**.* (formal: *than I am*).
@@ -67,20 +67,20 @@ Depois de *than*, na fala usa-se o pronome objeto: *She is taller **than me**.* 
 
 O superlativo **sempre** leva *the* — e a preposição do grupo pega o brasileiro:
 
-- **in** + lugar/grupo: *the tallest building **in** Australia* (❌ ~~of Australia~~ — mesmo que em português seja "**da** Austrália")
+- **in** + lugar/grupo: *the tallest building **in** the world* (❌ ~~of the world~~ — mesmo que em português seja "**do** mundo")
 - **of** + período/conjunto: *the best day **of** my life* · *the hottest month **of** the year*
 
 | Inglês | Português |
 |--------|-----------|
-| the best beach **in** Queensland | a melhor praia **de** Queensland |
-| the cheapest suburb **in** Brisbane | o bairro mais barato **de** Brisbane |
+| the best beach **in** the region | a melhor praia **da** região |
+| the cheapest suburb **in** the city | o bairro mais barato **da** cidade |
 | the happiest day **of** the year | o dia mais feliz **do** ano |
 
 ### Igualdade: (not) as ... as
 
 Para dizer "tão ... quanto", a fórmula é **as + adjetivo (forma normal!) + as**:
 
-- *Brisbane is not **as big as** Sydney.* — Brisbane não é tão grande quanto Sydney.
+- *Paris is not **as big as** London.* — Paris não é tão grande quanto Londres.
 - *The bus is **as fast as** the train here.* — O ônibus é tão rápido quanto o trem aqui.
 
 > O adjetivo fica na forma básica — nada de -er nem more dentro do *as...as*.
@@ -91,26 +91,26 @@ Para dizer "tão ... quanto", a fórmula é **as + adjetivo (forma normal!) + as
 - *a bit / a little more expensive* — um pouco mais caro
 - *far better* — bem melhor
 
-*Groceries are **much more expensive** in Australia **than** in Brazil.* — As compras de mercado são muito mais caras na Austrália do que no Brasil.
+*Groceries are **much more expensive** in London **than** in my hometown.* — As compras de mercado são muito mais caras em Londres do que na minha cidade.
 
 ### 🎯 Como cai no IELTS
 
 - **Writing Task 1 (Academic)** é praticamente um exercício de comparação: descrever gráficos exige *higher than, the highest, twice as much as, far more popular than*. Errar comparativo aqui derruba a nota de gramática.
-- **Speaking Parts 1 e 3**: perguntas clássicas pedem comparação — *"Is your hometown better for young people or old people?"*, vida no Brasil vs Austrália, passado vs presente.
-- Para a meta 5.5–6.0, usar **as...as** e os irregulares (*better/worse*) corretamente já demonstra variedade gramatical.
+- **Speaking Parts 1 e 3**: perguntas clássicas pedem comparação — *"Is your hometown better for young people or old people?"*, sua cidade vs outra cidade, passado vs presente.
+- Para atingir a meta de 6.0 no IELTS, usar **as...as** e os irregulares (*better/worse*) corretamente já demonstra variedade gramatical.
 
 ## Pegadinhas e erros comuns de brasileiros
 
 1. **Comparativo duplo** — ❌ *more better / more easier* → ✅ ***better / easier*** (ou é more, ou é -er; nunca os dois)
 2. **More com adjetivo curto** — ❌ *more cheap, more big* → ✅ ***cheaper, bigger*** (tradução literal de "mais barato")
 3. **Then/that no lugar de than** — ❌ *cheaper then/that Sydney* → ✅ *cheaper **than** Sydney*
-4. **"Of" no superlativo de lugar** — ❌ *the best city of Australia* → ✅ *the best city **in** Australia* (lugar = in; período = of)
+4. **"Of" no superlativo de lugar** — ❌ *the best city of the country* → ✅ *the best city **in** the country* (lugar = in; período = of)
 5. **Esquecer o the** — ❌ *She is best student in the class.* → ✅ *She is **the** best student in the class.*
 6. **Não dobrar a consoante** — ❌ *biger, hoter* → ✅ ***bigger, hotter*** (consoante-vogal-consoante dobra)
 
 ## Auto-teste
 
-1. Complete: *Brisbane is ______ (cheap) than Sydney, but Sydney is ______ (big).*
+1. Complete: *London is ______ (cheap) than Tokyo, but Tokyo is ______ (big).*
 2. Certo ou errado: *"This is the most easy unit of the course."*
 3. Traduza: "Este é o melhor café da cidade."
 4. Complete: *The flat is not ______ expensive ______ I thought.* ("não é tão caro quanto eu pensava")
@@ -119,7 +119,7 @@ Para dizer "tão ... quanto", a fórmula é **as + adjetivo (forma normal!) + as
 <details>
 <summary><strong>Respostas</strong></summary>
 
-1. *Brisbane is **cheaper** than Sydney, but Sydney is **bigger**.* (big dobra o g)
+1. *London is **cheaper** than Tokyo, but Tokyo is **bigger**.* (big dobra o g)
 2. Errado duas vezes — easy termina em -y e o grupo é "the course": *This is **the easiest** unit **of** the course.*
 3. *This is **the best** café/coffee **in** the city.* (the obrigatório; lugar = in)
 4. *The flat is not **as** expensive **as** I thought.* (adjetivo na forma básica)
@@ -144,6 +144,6 @@ Para dizer "tão ... quanto", a fórmula é **as + adjetivo (forma normal!) + as
 - [ ] Recite a regra: curto = **-er / the -est** · longo = **more / the most** · -y vira **-ier**
 - [ ] A armadilha nº 1: **nunca** more + better/cheaper — ou é more, ou é -er
 - [ ] Recite os irregulares: **good–better–best · bad–worse–worst · far–further–furthest**
-- [ ] "Do que" = **than** (nunca then/that) · superlativo de lugar = **in** (*the best beach in Queensland*)
-- [ ] Fale 3 comparações em voz alta: Brisbane vs sua cidade no Brasil (*cheaper than, not as big as, the best...*)
+- [ ] "Do que" = **than** (nunca then/that) · superlativo de lugar = **in** (*the best beach in the region*)
+- [ ] Fale 3 comparações em voz alta: sua cidade vs outra cidade (*cheaper than, not as big as, the best...*)
 - [ ] Se travou na posição do adjetivo → revise [N0-07] antes de seguir

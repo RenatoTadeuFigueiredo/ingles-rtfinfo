@@ -72,16 +72,16 @@ A mesma ideia pode ser dita em vários "tons". Nenhum é mais correto que o outr
 |---------------------------|--------------------|
 | *I think the plan failed.* | *It could be argued that the plan failed.* — Pode-se argumentar que o plano falhou. |
 | *You can see the results below.* | *The results can be seen below.* — Os resultados podem ser vistos abaixo. |
-| *People say Brisbane is growing fast.* | *It is said that Brisbane is growing rapidly.* — Diz-se que Brisbane está crescendo rapidamente. |
+| *People say London is growing fast.* | *It is said that London is growing rapidly.* — Diz-se que Londres está crescendo rapidamente. |
 
-**5. Gírias, reduções e expressões só de fala** — *gonna, wanna, kinda, gotta*, e as gírias australianas (*arvo* = tarde, *brekkie* = café da manhã, *no worries* = de nada/relaxa, *mate* = amigo) **nunca** entram na escrita formal:
+**5. Gírias, reduções e expressões só de fala** — *gonna, wanna, kinda, gotta*, e gírias como *mate* (amigo), *cool* (legal), *wicked* (incrível), *hang out* (sair com alguém) **nunca** entram na escrita formal:
 
-- 🗣️ *I'm **gonna** catch up with my **mates** this **arvo**, **no worries**.* — Vou encontrar meus amigos hoje à tarde, tranquilo.
+- 🗣️ *I'm **gonna** hang out with my **mates** tonight, **no worries**.* — Vou sair com meus amigos hoje à noite, tranquilo.
 - ✍️ *I intend to meet my friends this afternoon.* — Pretendo encontrar meus amigos hoje à tarde.
 
 ### O pulo do gato: a escala é contínua, não binária
 
-Entre o "Hey mate" e o "To whom it may concern" existe o registro **neutro/semi-formal** — o mais útil no dia a dia em Brisbane (e-mail para a imobiliária, fala com professor, atendimento). Nele você usa contrações e phrasal verbs comuns, mas evita gíria:
+Entre o "Hey mate" e o "To whom it may concern" existe o registro **neutro/semi-formal** — o mais útil no dia a dia (e-mail para o locador, fala com professor, atendimento ao cliente). Nele você usa contrações e phrasal verbs comuns, mas evita gíria:
 
 - *Hi Sarah, thanks for your email. Could we move the inspection to Friday?* — Oi Sarah, obrigada pelo e-mail. Poderíamos mudar a vistoria para sexta?
 
@@ -114,14 +114,14 @@ No português, a formalidade vem principalmente de **pronomes e tratamento** (vo
 1. **Contrações no essay** — ❌ *Governments shouldn't invest...* → ✅ *Governments **should not** invest...* (no Writing Task 2, zero contrações)
 2. **Vocabulário de conversa na escrita formal** — ❌ *Kids learn a lot of stuff online.* → ✅ ***Children** learn **a great deal** online.*
 3. **Formal demais no Speaking** — ❌ *I commenced my professional activities in 2018.* (soa robótico) → ✅ *I **started working** in 2018.* (natural = nota maior)
-4. **Misturar registros na mesma carta** — ❌ *Dear Sir or Madam, ... Cheers, Giovanna* → ✅ *Dear Sir or Madam, ... **Yours faithfully**, Giovanna*
+4. **Misturar registros na mesma carta** — ❌ *Dear Sir or Madam, ... Cheers, Ana* → ✅ *Dear Sir or Madam, ... **Yours faithfully**, Ana*
 5. **"Gonna/wanna" na escrita** — ❌ *People are gonna need new skills.* → ✅ *People **are going to** need new skills.* (gonna/wanna são só pronúncia de fala informal — nunca se escrevem em texto formal)
 
 ## Auto-teste
 
 1. Reescreva em registro formal: *"We need to find out why prices went up."*
 2. Certo ou errado para um essay do IELTS: *"The government shouldn't spend a lot of cash on stuff like this."*
-3. Você vai escrever para a imobiliária em Brisbane pedindo um reparo (você sabe que a agente se chama Ms Carter). Qual abertura e fechamento?
+3. Você vai escrever para a imobiliária pedindo um reparo (você sabe que a agente se chama Ms Carter). Qual abertura e fechamento?
 4. Dê a versão formal: *put off* · *carry out* · *get rid of*.
 5. No Speaking Part 1, qual resposta soa melhor: *(a) "I am employed in the architectural sector"* ou *(b) "I work as an architect — I've been doing it for about eight years"*? Por quê?
 
@@ -156,5 +156,5 @@ No português, a formalidade vem principalmente de **pronomes e tratamento** (vo
 - [ ] Regra IELTS: **Writing Task 2 = formal, zero contrações** · **Speaking = natural-informal**
 - [ ] Armadilha nº 1: contração no essay — escreva *do not, cannot, will not* por extenso
 - [ ] Pares de carta: *Dear Sir or Madam → Yours faithfully* · *Dear Ms X → Yours sincerely*
-- [ ] Crie 2 frases sobre Brisbane: uma de e-mail formal para a universidade, uma de mensagem para uma amiga
+- [ ] Crie 2 frases sobre um tema qualquer: uma de e-mail formal para a universidade, uma de mensagem para uma amiga
 - [ ] Se travou nos conectores formais (*however, furthermore*) → revise [N3-11] antes de seguir

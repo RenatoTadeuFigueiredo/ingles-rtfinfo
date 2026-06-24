@@ -20,9 +20,9 @@ No IELTS Reading você **nunca lê o texto palavra por palavra**: usa **skimming
 | **Dificuldade** | Cresce: texto 1 é o mais fácil, texto 3 o mais difícil |
 | **Pontuação** | 1 ponto por questão, **sem desconto por erro** — nunca deixe em branco |
 
-> 🎯 **IELTS — meta da Giovanna:** para banda **6.0** no Academic Reading você precisa de **aproximadamente 23/40** acertos; para **5.5**, cerca de 19–22 (valores aproximados, variam um pouco por prova). Ou seja: dá para errar quase metade — a estratégia é garantir os textos 1 e 2 e não se afogar no texto 3.
+> 🎯 **IELTS — sua meta:** para banda **6.0** no Academic Reading você precisa de **aproximadamente 23/40** acertos; para **5.5**, cerca de 19–22 (valores aproximados, variam um pouco por prova). Ou seja: dá para errar quase metade — a estratégia é garantir os textos 1 e 2 e não se afogar no texto 3.
 
-> Para entrada na universidade (CQU) vale o **Academic**. O General Training tem textos mais fáceis (anúncios, cartas), mas exige mais acertos para a mesma banda — não é o seu caso.
+> Para admissão em universidades, vale o **Academic**. O General Training tem textos mais fáceis (anúncios, cartas), mas exige mais acertos para a mesma banda — verifique o que seu curso exige.
 
 ### Skimming: ler por cima para entender o todo
 
@@ -37,17 +37,17 @@ Skimming é passar o olho **rápido** (2–3 minutos por texto) para montar um *
 
 O que **ignorar**: exemplos, números, nomes, detalhes, palavras que você não conhece.
 
-- *After skimming, I know paragraph C is about housing costs in Brisbane.* — Depois do skimming, sei que o parágrafo C é sobre custos de moradia em Brisbane.
+- *After skimming, I know paragraph C is about housing costs in the city.* — Depois do skimming, sei que o parágrafo C é sobre custos de moradia na cidade.
 
 ### Scanning: caçar uma informação específica
 
 Scanning é o oposto: você **não lê** — deixa o olho **varrer** a página atrás de um alvo, como procurar um nome numa lista de chamada. Alvos fáceis de achar:
 
 - **Números e datas** — *1940, 25%, $550 per week*
-- **Maiúsculas** — *Brisbane, Queensland, Dr Chen, CQUniversity*
+- **Maiúsculas** — *London, New York, Dr Chen, Oxford University*
 - **Palavras-chave da questão** (ou os sinônimos delas — veja abaixo)
 
-- *The question asks "When was the Story Bridge completed?" — I scan for a year, find "1940", and read just that sentence.* — A questão pergunta quando a Story Bridge foi concluída — varro atrás de um ano, acho "1940" e leio só aquela frase.
+- *The question asks "When was the Golden Gate Bridge completed?" — I scan for a year, find "1937", and read just that sentence.* — A questão pergunta quando a Golden Gate Bridge foi concluída — varro atrás de um ano, acho "1937" e leio só aquela frase.
 
 ### O método: a ordem certa de ataque
 
@@ -96,13 +96,13 @@ O IELTS **quase nunca repete** as palavras da questão no texto — ele testa se
 | **FALSE** | O texto **contradiz** a afirmação |
 | **NOT GIVEN** | O texto **não fala** sobre isso — nem confirma nem nega |
 
-Texto: *"The Story Bridge in Brisbane was completed in 1940."* — A Story Bridge em Brisbane foi concluída em 1940.
+Texto: *"The Golden Gate Bridge in San Francisco was completed in 1937."* — A Golden Gate Bridge em San Francisco foi concluída em 1937.
 
 | Afirmação | Resposta | Por quê |
 |-----------|----------|---------|
-| *The Story Bridge was finished before 1945.* | TRUE | 1940 é antes de 1945 — confirma |
-| *The Story Bridge was completed in the 1950s.* | FALSE | Contradiz: foi em 1940 |
-| *The Story Bridge took five years to build.* | NOT GIVEN | O texto não diz quanto tempo levou |
+| *The Golden Gate Bridge was finished before 1940.* | TRUE | 1937 é antes de 1940 — confirma |
+| *The Golden Gate Bridge was completed in the 1950s.* | FALSE | Contradiz: foi em 1937 |
+| *The Golden Gate Bridge took five years to build.* | NOT GIVEN | O texto não diz quanto tempo levou |
 
 O macete: **FALSE exige contradição explícita**. Se você precisou usar conhecimento próprio ou "achismo" para julgar, é NOT GIVEN. Não use o que você sabe do mundo — só o que está no texto.
 
@@ -136,14 +136,14 @@ A escola brasileira ensina a ler **linearmente, palavra por palavra, traduzindo 
 1. **Ler o texto inteiro antes das questões** — ❌ 15 min lendo tudo com calma → ✅ **skim de 2–3 min**, questões, e leitura atenta só no trecho da resposta.
 2. **Procurar a palavra exata da questão** — ❌ caçar *"cheap"* no texto → ✅ caçar os **sinônimos** (*affordable, inexpensive, low-cost*).
 3. **Confundir FALSE com NOT GIVEN** — ❌ "o texto não fala disso, então é False" → ✅ sem contradição explícita = **NOT GIVEN**.
-4. **Ignorar o limite de palavras** — ❌ escrever *"the Brisbane River ferry"* quando pede *NO MORE THAN TWO WORDS* → ✅ *"river ferry"* (corte artigos e palavras desnecessárias).
+4. **Ignorar o limite de palavras** — ❌ escrever *"the Hudson River ferry"* quando pede *NO MORE THAN TWO WORDS* → ✅ *"river ferry"* (corte artigos e palavras desnecessárias).
 5. **Usar conhecimento próprio no True/False/Not Given** — ❌ "eu sei que isso é verdade na vida real" → ✅ julgue **só pelo texto**.
 6. **Deixar questão em branco** — ❌ pular e esquecer → ✅ não há desconto por erro: **sempre chute** o que sobrar.
 
 ## Auto-teste
 
 1. Matching headings: qual técnica usar primeiro — skimming ou scanning? Por quê?
-2. O texto diz *"Brisbane's population grew steadily after 2010."* A afirmação é *"Brisbane's population growth slowed after 2010."* — TRUE, FALSE ou NOT GIVEN?
+2. O texto diz *"London's population grew steadily after 2010."* A afirmação é *"London's population growth slowed after 2010."* — TRUE, FALSE ou NOT GIVEN?
 3. O texto diz a mesma frase acima. A afirmação é *"Most new residents came from overseas."* — TRUE, FALSE ou NOT GIVEN?
 4. A instrução diz *NO MORE THAN TWO WORDS* e a informação no texto é *"a free shuttle bus"*. O que você escreve?
 5. Faltam 5 minutos, sobram 6 questões do texto 3 sem resposta. Qual é a jogada certa?
@@ -177,6 +177,6 @@ A escola brasileira ensina a ler **linearmente, palavra por palavra, traduzindo 
 - [ ] Recite a estrutura: **3 textos · 40 questões · 60 min · SEM tempo extra de transferência**
 - [ ] Armadilha nº 1: **FALSE = contradiz · NOT GIVEN = não fala** — explique a diferença em voz alta com um exemplo
 - [ ] Recite a ordem de ataque: skim → questões → scan → leitura atenta só no trecho
-- [ ] Drill: pegue uma notícia (ABC News Brisbane) e faça **skim de 2 min** — depois diga em voz alta a ideia de cada parágrafo
+- [ ] Drill: pegue uma notícia (BBC News ou ABC News) e faça **skim de 2 min** — depois diga em voz alta a ideia de cada parágrafo
 - [ ] Drill: na mesma notícia, ache **3 números ou nomes em 60 segundos** (scanning)
 - [ ] Nunca deixe em branco — não há desconto por erro

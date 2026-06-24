@@ -19,8 +19,8 @@ Essas sete palavrinhas são os "satélites" do present perfect: **for/since** ma
 | **already** | já (antes do esperado) | entre have e particípio | *We've **already** booked the flights.* — Já reservamos os voos. |
 | **yet** | ainda não / já...? | no FIM da frase | *I haven't packed **yet**.* — Ainda não fiz as malas. |
 | **just** | acabou de | entre have e particípio | *He's **just** arrived.* — Ele acabou de chegar. |
-| **ever** | alguma vez (na vida) | entre have e particípio | *Have you **ever** seen a koala?* — Você já viu um coala? |
-| **never** | nunca | entre have e particípio | *I've **never** tried Vegemite.* — Nunca provei Vegemite. |
+| **ever** | alguma vez (na vida) | entre have e particípio | *Have you **ever** seen the Northern Lights?* — Você já viu a aurora boreal? |
+| **never** | nunca | entre have e particípio | *I've **never** tried sushi.* — Nunca provei sushi. |
 
 ### For vs since: duração vs ponto de partida
 
@@ -31,10 +31,10 @@ A dupla mais importante. Os dois respondem **How long...?** (há quanto tempo?),
 | for **two years** | since **2024** |
 | for **six months** | since **January** |
 | for **a long time** | since **Christmas** |
-| for **three days** | since **we arrived in Brisbane** |
+| for **three days** | since **we moved to the city** |
 
-- *We've been in Australia **for** eight months.* — Estamos na Austrália há 8 meses.
-- *We've been in Australia **since** November.* — Estamos na Austrália desde novembro.
+- *We've been in London **for** eight months.* — Estamos em Londres há 8 meses.
+- *We've been in London **since** November.* — Estamos em Londres desde novembro.
 
 > Macete de tradução: **"há" / "faz" = for** · **"desde" = since**. Se você consegue perguntar "quanto tempo?" sobre a expressão, é *for*; se a expressão é uma data ou evento no calendário, é *since*.
 
@@ -42,7 +42,7 @@ A dupla mais importante. Os dois respondem **How long...?** (há quanto tempo?),
 - *I've made a lot of friends **since I started** the English course.* — Fiz muitos amigos desde que comecei o curso.
 
 **A pergunta-chave**: *How long...?* + present perfect:
-- ***How long have** you **lived** in Brisbane?* — *I've lived here **for** a year / **since** last June.*
+- ***How long have** you **lived** in this city?* — *I've lived here **for** a year / **since** last June.*
 
 ### Already: "já" — antes do que se esperava
 
@@ -64,22 +64,22 @@ Usado em **negativas e perguntas**, e a posição é fixa: **fim da frase**.
 
 > **Already vs yet em perguntas**: *Have you eaten **yet**?* é a pergunta neutra ("já comeu?"). *Have you **already** eaten?* carrega surpresa ("já comeu?? tão cedo?").
 
-> Bônus: **still + negativa** = "ainda não" com tom de impaciência: *I **still** haven't received the visa.* — Eu AINDA não recebi o visto. (*still* vem antes de *haven't*.)
+> Bônus: **still + negativa** = "ainda não" com tom de impaciência: *I **still** haven't received the package.* — Eu AINDA não recebi o pacote. (*still* vem antes de *haven't*.)
 
 ### Just: "acabou de"
 
 Ação muito recente. Posição: **entre have e o particípio**.
 
-- *We've **just** landed in Brisbane.* — Acabamos de aterrissar em Brisbane.
+- *We've **just** landed in New York.* — Acabamos de aterrissar em Nova York.
 - *I've **just** spoken to the landlord.* — Acabei de falar com o locador.
 
-> No inglês americano informal você vai ouvir *I just saw her* (passado simples). Na Austrália (e no IELTS), o padrão é o present perfect: *I've just seen her.*
+> No inglês americano informal você vai ouvir *I just saw her* (passado simples). No inglês britânico (e no IELTS), o padrão é o present perfect: *I've just seen her.*
 
 ### Ever e never: experiência de vida
 
 **Ever** = "alguma vez na vida". Vive em **perguntas** (e depois de superlativos). **Never** = "nunca", a versão negativa. Ambos ficam **entre have e o particípio**.
 
-- ***Have** you **ever driven** on the left?* — Você já dirigiu na mão inglesa?
+- ***Have** you **ever visited** a foreign country?* — Você já visitou um país estrangeiro?
 - *I've **never** seen snow.* — Nunca vi neve.
 - *This is the best coffee I've **ever had**.* — É o melhor café que já tomei na vida. (superlativo + ever: estrutura nota alta no Speaking)
 
@@ -103,25 +103,25 @@ O português usa "já" e "ainda" para tudo — o inglês separa por tipo de fras
 1. **Presente em vez de present perfect com for/since** — ❌ *I live here since 2025.* → ✅ *I **have lived** here since 2025.* ("Moro aqui desde..." é presente no PT, mas present perfect no EN.)
 2. **Since com duração** — ❌ *since two years* → ✅ ***for** two years* (duração = for; *since* só com data/evento de início).
 3. **Yet fora do lugar ou em afirmativa** — ❌ *I yet didn't finish.* / ❌ *I have yet finished.* → ✅ *I haven't finished **yet**.* (yet = fim da frase, só negativa/pergunta).
-4. **Dupla negativa com never** — ❌ *I haven't never been to Sydney.* → ✅ *I **have never** been to Sydney.*
+4. **Dupla negativa com never** — ❌ *I haven't never been to Paris.* → ✅ *I **have never** been to Paris.*
 5. **Traduzir todo "já" como already** — ❌ *Did you already found a job?* → ✅ *Have you found a job **yet**?* (pergunta neutra = yet + present perfect).
 6. **Just no fim da frase** — ❌ *She has arrived just.* → ✅ *She has **just** arrived.* (just gruda no have).
 
 ## Auto-teste
 
 1. Complete com for ou since: *We've had this car ______ 2023, so we've had it ______ about three years.*
-2. Certo ou errado: *"I didn't receive my visa yet."* (para o IELTS)
-3. Traduza: "Você já provou comida australiana?" (pergunta de experiência de vida)
-4. Coloque na ordem certa: *arrived / just / has / she / in Brisbane*.
+2. Certo ou errado: *"I didn't receive my results yet."* (para o IELTS)
+3. Traduza: "Você já provou comida japonesa?" (pergunta de experiência de vida)
+4. Coloque na ordem certa: *arrived / just / has / she / in Paris*.
 5. Complete: *— Have you enrolled at the gym ______? — No, I haven't. I've ______ moved here, give me a week!*
 
 <details>
 <summary><strong>Respostas</strong></summary>
 
 1. *We've had this car **since** 2023, so we've had it **for** about three years.* (since + data, for + duração)
-2. Errado (para o padrão IELTS/australiano) — negativa com *yet* pede present perfect: *I **haven't received** my visa **yet**.*
-3. ***Have** you **ever tried** Australian food?* (experiência de vida = ever + present perfect)
-4. *She **has just arrived** in Brisbane.* (just entre have e particípio)
+2. Errado (para o padrão IELTS/britânico) — negativa com *yet* pede present perfect: *I **haven't received** my results **yet**.*
+3. ***Have** you **ever tried** Japanese food?* (experiência de vida = ever + present perfect)
+4. *She **has just arrived** in Paris.* (just entre have e particípio)
 5. *Have you enrolled at the gym **yet**? — No, I haven't. I've **just** moved here...* (pergunta neutra = yet; "acabei de" = just)
 
 </details>

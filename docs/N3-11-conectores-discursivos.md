@@ -28,7 +28,7 @@ Todas expressam **contraste** ("X, mas mesmo assim Y"). O que muda é a estrutur
 
 | ✅ Certo | Tradução |
 |----------|----------|
-| *Brisbane is expensive. **However,** the quality of life is great.* | Brisbane é cara. Porém, a qualidade de vida é ótima. |
+| *London is expensive. **However,** the quality of life is great.* | Londres é cara. Porém, a qualidade de vida é ótima. |
 | *I studied a lot**; however,** the test was hard.* | Estudei muito; porém, a prova foi difícil. |
 
 Posições possíveis (todas isoladas por vírgulas):
@@ -51,11 +51,11 @@ As três variações:
 |-------|----------------|---------|
 | **although** | neutro, seguro em qualquer contexto | *Although I was tired, I kept studying.* — Embora estivesse cansada, continuei estudando. |
 | **even though** | contraste mais forte ("mesmo que/mesmo sabendo") | *Even though I had studied, I failed.* — Mesmo tendo estudado, reprovei. |
-| **though** | informal; pode ir no FIM da frase (fala) | *It's hot in Brisbane. I like it, **though**.* — É quente em Brisbane. Mas eu gosto. |
+| **though** | informal; pode ir no FIM da frase (fala) | *It's hot in summer. I like it, **though**.* — É quente no verão. Mas eu gosto. |
 
 Quando a oração com *although* vem primeiro, use vírgula no meio; quando vem depois, a vírgula é dispensável:
-- ***Although** it rained, we went to South Bank.*
-- *We went to South Bank **although** it rained.*
+- ***Although** it rained, we went to the park.*
+- *We went to the park **although** it rained.*
 
 > Diferente do português, *although* **não pede subjuntivo nem forma especial** — o verbo fica normal: "embora ele **seja**" = *although he **is***.
 
@@ -105,7 +105,7 @@ A frase "Estava chovendo, mas fomos à praia" em todos os registros:
 
 ## Auto-teste
 
-1. Complete com *despite* ou *although*: *______ the heat, we walked to South Bank.*
+1. Complete com *despite* ou *although*: *______ the heat, we walked to the beach.*
 2. Certo ou errado: *"Despite of being tired, she finished the essay."*
 3. Junte as frases usando **although**: *"It was expensive." + "We rented the apartment."*
 4. Corrija a pontuação: *"the flight was long however we arrived on time"*
@@ -114,7 +114,7 @@ A frase "Estava chovendo, mas fomos à praia" em todos os registros:
 <details>
 <summary><strong>Respostas</strong></summary>
 
-1. ***Despite** the heat, we walked to South Bank.* (depois vem substantivo → despite)
+1. ***Despite** the heat, we walked to the beach.* (depois vem substantivo → despite)
 2. Errado — despite não leva of: *✅ **Despite** being tired...* ou *✅ **In spite of** being tired...*
 3. ***Although** it was expensive, we rented the apartment.* (ou *We rented the apartment although it was expensive.*)
 4. *The flight was long**. However,** we arrived on time.* (ou *...long**; however,** we...*)
@@ -142,4 +142,4 @@ A frase "Estava chovendo, mas fomos à praia" em todos os registros:
 - [ ] Armadilha nº 1: ❌ *despite of* / ❌ *Although..., but...* — um conector de contraste por frase
 - [ ] *However* = ponto antes, vírgula depois — escreva 1 frase no ar com essa pontuação
 - [ ] Fale a mesma ideia de 3 jeitos: *Although it's expensive... / Despite the price... / It's expensive. However,...*
-- [ ] Fale 2 contrastes sobre Brisbane em voz alta (*Despite the heat, ... / Although rent is high, ...*)
+- [ ] Fale 2 contrastes sobre a sua cidade em voz alta (*Despite the heat, ... / Although rent is high, ...*)

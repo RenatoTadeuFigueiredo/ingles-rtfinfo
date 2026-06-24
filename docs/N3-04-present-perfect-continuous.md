@@ -22,7 +22,7 @@ He/She/It      has   been  studying.
 | Afirmativa | Negativa | Pergunta |
 |------------|----------|----------|
 | I **have been working** all day. | I **haven't been sleeping** well. | **Have** you **been waiting** long? |
-| She **has been living** in Brisbane since March. | She **hasn't been feeling** well. | **How long has** she **been living** there? |
+| She **has been living** in London since March. | She **hasn't been feeling** well. | **How long has** she **been living** there? |
 
 > São **três peças fixas**: have/has (conjuga) + **been** (nunca muda) + verbo-ing. Se faltar o *been*, a frase quebra.
 
@@ -30,7 +30,7 @@ He/She/It      has   been  studying.
 
 **1. Começou no passado e continua agora (com for/since) — foco na duração**
 - *I **have been studying** English **for** six months.* — Estou estudando inglês há seis meses (e continuo).
-- *We **have been planning** the move to Australia **since** last year.* — Estamos planejando a mudança para a Austrália desde o ano passado.
+- *We **have been planning** the trip **since** last year.* — Estamos planejando a viagem desde o ano passado.
 
 **2. Acabou de parar, mas deixou rastro visível agora**
 - *Why are you wet? — I **have been running**.* — Por que você está molhada? — Eu estava correndo (acabei de parar).
@@ -54,10 +54,10 @@ Os dois conectam passado e presente — a diferença é **onde está o foco**:
 Regras práticas:
 - Pergunta **How long...?** (há quanto tempo) → contínuo: *How long **have** you **been waiting**?*
 - Pergunta **How much/How many...?** (quanto/quantos) → simples: *How many emails **have** you **written**?*
-- Ação **terminada com número/resultado** → simples: *She **has visited** Sydney twice.*
+- Ação **terminada com número/resultado** → simples: *She **has visited** Paris twice.*
 
 Com **live** e **work**, os dois servem (diferença mínima):
-- *We **have lived** / **have been living** in Brisbane for two years.* — Moramos em Brisbane há dois anos.
+- *We **have lived** / **have been living** in New York for two years.* — Moramos em Nova York há dois anos.
 
 ### Verbos de estado: nunca no contínuo
 
@@ -90,7 +90,7 @@ O português resolve tudo com **presente + "há/desde"** — o inglês exige o p
 
 1. Complete: *She ______ (work) at the hospital since January.*
 2. Certo ou errado: *"I have been owning this car for five years."*
-3. Traduza: "Estamos procurando apartamento em Brisbane há um mês."
+3. Traduza: "Estamos procurando apartamento no centro há um mês."
 4. Simples ou contínuo? *"I ______ (read) two books this week."* (livros terminados)
 5. Complete a pergunta: *How long ______ you ______ (learn) English?*
 
@@ -99,7 +99,7 @@ O português resolve tudo com **presente + "há/desde"** — o inglês exige o p
 
 1. *She **has been working** at the hospital since January.*
 2. Errado — *own* é verbo de estado: *I **have owned** this car for five years.*
-3. *We **have been looking for** an apartment in Brisbane **for** a month.*
+3. *We **have been looking for** an apartment downtown **for** a month.*
 4. **Simples** (quantidade concluída): *I **have read** two books this week.*
 5. *How long **have** you **been learning** English?*
 

@@ -29,8 +29,8 @@ A forma é quase igual, mas a **atitude do falante** muda completamente:
 
 | Frase | Significado |
 |-------|-------------|
-| We have **a few** friends in Brisbane. | Temos **alguns** amigos em Brisbane. (positivo — que bom, já conhecemos gente!) |
-| We have **few** friends in Brisbane. | Temos **poucos** amigos em Brisbane. (negativo — quase ninguém, que pena) |
+| We have **a few** friends in London. | Temos **alguns** amigos em Londres. (positivo — que bom, já conhecemos gente!) |
+| We have **few** friends in London. | Temos **poucos** amigos em Londres. (negativo — quase ninguém, que pena) |
 
 Mais exemplos:
 
@@ -62,7 +62,7 @@ Na fala do dia a dia, o inglês prefere evitar *few/little* sozinhos (soam forma
 
 E uma expressão útil que engana: **quite a few** = **bastante** (muitos!), não "poucos":
 
-- *We've visited **quite a few** suburbs already.* — Já visitamos **um bom número** de bairros.
+- *We've visited **quite a few** cities already.* — Já visitamos **um bom número** de cidades.
 
 ### Enough: suficiente — e a posição é a pegadinha
 
@@ -107,8 +107,8 @@ Em português, "muito" serve para tudo. Em inglês, não:
 
 | | Significado | Exemplo |
 |---|-------------|---------|
-| **very** | intensidade (neutro ou positivo) | *Brisbane is **very** hot.* — Brisbane é **muito** quente. (constatação) |
-| **too** | excesso (problema!) | *Brisbane is **too** hot.* — Brisbane é quente **demais**. (não dá, é insuportável) |
+| **very** | intensidade (neutro ou positivo) | *The summer is **very** hot.* — O verão é **muito** quente. (constatação) |
+| **too** | excesso (problema!) | *The summer is **too** hot.* — O verão é quente **demais**. (não dá, é insuportável) |
 
 Se você diz *"Your house is **too** beautiful!"*, o nativo entende que a beleza da casa é um **problema**. O elogio é *"Your house is **very/so** beautiful!"*.
 
@@ -178,5 +178,5 @@ Dá para juntar **too** com **few/little** para dizer "pouco demais":
 - [ ] O "a" muda o tom: **a few/a little = alguns (ok)** · **few/little = quase nada (ruim)**
 - [ ] Posição do enough: **enough + substantivo** mas **adjetivo + enough**
 - [ ] **Too = excesso (problema)** · **very = intensidade (neutro)** — nunca elogie com too
-- [ ] Fale 4 frases sobre a vida em Brisbane: uma com *a few*, uma com *enough*, uma com *too many*, uma com *not enough*
+- [ ] Fale 4 frases sobre sua rotina: uma com *a few*, uma com *enough*, uma com *too many*, uma com *not enough*
 - [ ] Armadilha nº 1: ❌ *enough big* → ✅ ***big enough*** — repita 3 vezes em voz alta com adjetivos diferentes

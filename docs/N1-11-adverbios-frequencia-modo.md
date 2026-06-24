@@ -170,7 +170,7 @@ Em português a dupla negação é normal ("eu **não** como carne **nunca**") �
 
 - [ ] Recite a regra de ouro: **antes do verbo normal, depois do be**
 - [ ] Recite a escala: **always → usually → often → sometimes → rarely → never**
-- [ ] Fale 3 frases sobre sua rotina em Brisbane (*I always..., I usually..., I never...*)
+- [ ] Fale 3 frases sobre sua rotina (*I always..., I usually..., I never...*)
 - [ ] Fale 2 frases com o be (*I am always..., She is never...*)
 - [ ] Modo: adjetivo + **-ly** · irregulares: **well, fast, hard, late**
 - [ ] Armadilha nº 1: ❌ *I go always...* → ✅ *I **always go**...* — repita 3 vezes em voz alta

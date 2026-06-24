@@ -29,11 +29,11 @@ He/She/It      has   finished.
 ### Os 3 usos principais
 
 **1. Experiência de vida (sem dizer quando)**
-- *I **have been** to Australia.* — Já estive na Austrália. (em algum momento da vida, não importa quando)
+- *I **have been** to Japan.* — Já estive no Japão. (em algum momento da vida, não importa quando)
 - *She **has never eaten** sushi.* — Ela nunca comeu sushi.
 
 **2. Ação que começou no passado e continua até agora**
-- *We **have lived** in Brisbane **for** two years.* — Moramos em Brisbane há 2 anos (e ainda moramos).
+- *We **have lived** in London **for** two years.* — Moramos em Londres há 2 anos (e ainda moramos).
 - *I **have known** him **since** 2020.* — Conheço ele desde 2020.
 
 **3. Ação recente com efeito visível agora**
@@ -67,14 +67,14 @@ Não existe equivalente exato em português. Dependendo do uso, vira coisas dife
 
 1. **Usar com tempo definido** — ❌ *I have seen her yesterday.* → ✅ *I saw her yesterday.*
 2. **"Moro aqui há 5 anos" com presente** — ❌ *I live here for 5 years.* → ✅ *I **have lived** here for 5 years.*
-3. **Confundir been/gone** — *She **has gone** to Sydney* (foi e ESTÁ lá) vs *She **has been** to Sydney* (foi e já voltou).
+3. **Confundir been/gone** — *She **has gone** to Paris* (foi e ESTÁ lá) vs *She **has been** to Paris* (foi e já voltou).
 4. **Esquecer o "has" na 3ª pessoa** — ❌ *He have finished.* → ✅ *He **has** finished.*
 5. **For vs since** — **for** + duração (*for two years*), **since** + ponto de início (*since 2024*).
 
 ## Auto-teste
 
-1. Complete: *I ______ (never / try) Vegemite.*
-2. Certo ou errado: *"We have moved to Brisbane in November."*
+1. Complete: *I ______ (never / try) sushi.*
+2. Certo ou errado: *"We have moved to New York in November."*
 3. Traduza: "Estudo inglês há seis meses."
 4. *She has ______ to the bank* — been ou gone, se ela ainda não voltou?
 5. Complete com for ou since: *I haven't seen him ______ Christmas.*
@@ -82,8 +82,8 @@ Não existe equivalente exato em português. Dependendo do uso, vira coisas dife
 <details>
 <summary><strong>Respostas</strong></summary>
 
-1. *I **have never tried** Vegemite.*
-2. Errado — tem tempo definido (*in November*) → *We **moved** to Brisbane in November.*
+1. *I **have never tried** sushi.*
+2. Errado — tem tempo definido (*in November*) → *We **moved** to New York in November.*
 3. *I **have studied** English **for** six months.* (ou *have been studying*, N3-04)
 4. **gone** — foi e está lá. *Been* = foi e voltou.
 5. **since** — Christmas é ponto de início, não duração.

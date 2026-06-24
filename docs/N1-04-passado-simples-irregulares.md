@@ -28,21 +28,21 @@ Memorize estes primeiro — eles cobrem a maior parte das conversas do dia a dia
 
 | Verbo | Passado | Exemplo | Tradução |
 |-------|---------|---------|----------|
-| go | **went** | We **went** to the Gold Coast. | Fomos à Gold Coast. |
+| go | **went** | We **went** to the beach. | Fomos à praia. |
 | have | **had** | I **had** breakfast at 7. | Tomei café da manhã às 7. |
 | do | **did** | She **did** her homework. | Ela fez a lição. |
 | say | **said** | He **said** "no worries". | Ele disse "no worries". |
 | get | **got** | I **got** a new phone. | Comprei/consegui um celular novo. |
 | make | **made** | We **made** dinner together. | Fizemos o jantar juntos. |
-| see | **saw** | I **saw** a kangaroo! | Eu vi um canguru! |
-| come | **came** | They **came** to Brisbane in 2026. | Eles vieram para Brisbane em 2026. |
+| see | **saw** | I **saw** a rainbow! | Eu vi um arco-íris! |
+| come | **came** | They **came** to London in 2026. | Eles vieram para Londres em 2026. |
 | take | **took** | I **took** the train to the city. | Peguei o trem para o centro. |
 | know | **knew** | I **knew** the answer. | Eu sabia a resposta. |
 | think | **thought** | I **thought** it was easy. | Achei que era fácil. |
 | give | **gave** | She **gave** me a map. | Ela me deu um mapa. |
 | find | **found** | We **found** a nice café. | Achamos um café legal. |
 | tell | **told** | He **told** me the address. | Ele me disse o endereço. |
-| buy | **bought** | I **bought** a Go Card. | Comprei um Go Card. |
+| buy | **bought** | I **bought** a bus pass. | Comprei um passe de ônibus. |
 | eat | **ate** | We **ate** fish and chips. | Comemos fish and chips. |
 | drink | **drank** | I **drank** a flat white. | Tomei um flat white. |
 | speak | **spoke** | She **spoke** with the teacher. | Ela falou com a professora. |
@@ -80,7 +80,7 @@ Quando **did/didn't** entra na frase, o verbo principal **volta para a forma bas
 
 Pergunta com *did* se responde com *did* — sem repetir o verbo:
 
-- *Did you like Brisbane?* → ***Yes, I did.*** / ***No, I didn't.***
+- *Did you like London?* → ***Yes, I did.*** / ***No, I didn't.***
 - *Did she call you?* → ***Yes, she did.*** / ***No, she didn't.***
 
 ### Perguntas com wh- (where, what, when...)
@@ -132,19 +132,19 @@ A palavra-pergunta vem antes do did, e o resto não muda:
 
 ## Auto-teste
 
-1. Complete: *I ______ (go) to Southbank yesterday and ______ (take) some photos.*
-2. Certo ou errado: *"Did you bought a Go Card at the station?"*
-3. Traduza: "Ela não viu o canguru no parque."
-4. Transforme em pergunta: *They came to Australia last year.* → *When ______?*
+1. Complete: *I ______ (go) to the city center yesterday and ______ (take) some photos.*
+2. Certo ou errado: *"Did you bought a bus pass at the station?"*
+3. Traduza: "Ela não viu o veado no parque."
+4. Transforme em pergunta: *They came to Europe last year.* → *When ______?*
 5. Complete: *______ you tired after class? — Yes, I ______.*
 
 <details>
 <summary><strong>Respostas</strong></summary>
 
-1. *I **went** to Southbank yesterday and **took** some photos.*
-2. Errado — passado duplo: *Did you **buy** a Go Card at the station?*
-3. *She **didn't see** the kangaroo in the park.*
-4. *When **did they come** to Australia?*
+1. *I **went** to the city center yesterday and **took** some photos.*
+2. Errado — passado duplo: *Did you **buy** a bus pass at the station?*
+3. *She **didn't see** the deer in the park.*
+4. *When **did they come** to Europe?*
 5. ***Were** you tired after class? — Yes, I **was**.* (to be não usa did)
 
 </details>

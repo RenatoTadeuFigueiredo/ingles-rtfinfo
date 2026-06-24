@@ -15,16 +15,16 @@ Relative clauses juntam duas frases em uma, usando **who** (pessoas), **which** 
 ```
 SUBSTANTIVO + WHO/WHICH/THAT + resto da frase
 
-The student  who   passed the IELTS   got the visa.
-O estudante  que   passou no IELTS    conseguiu o visto.
+The student  who   passed the IELTS   got the scholarship.
+O estudante  que   passou no IELTS    conseguiu a bolsa.
 ```
 
 A relative clause vem **logo depois** do substantivo que ela descreve — ela "gruda" no substantivo e funciona como uma etiqueta de identificação.
 
 | Pronome | Usa para | Exemplo | Tradução |
 |---------|----------|---------|----------|
-| **who** | pessoas | The teacher **who** helps me is Australian. | A professora **que** me ajuda é australiana. |
-| **which** | coisas/animais | The course **which** I chose is in Brisbane. | O curso **que** eu escolhi é em Brisbane. |
+| **who** | pessoas | The teacher **who** helps me is from Italy. | A professora **que** me ajuda é da Itália. |
+| **which** | coisas/animais | The course **which** I chose is in London. | O curso **que** eu escolhi é em Londres. |
 | **that** | pessoas E coisas | The bus **that** goes to the city is late. | O ônibus **que** vai pro centro está atrasado. |
 
 > No dia a dia, **that** é o coringa: funciona para pessoas e coisas e é o mais comum na fala. *Who* e *which* soam um pouco mais formais — bons para o Writing.
@@ -34,10 +34,10 @@ A relative clause vem **logo depois** do substantivo que ela descreve — ela "g
 O trabalho da relative clause é evitar repetição. Veja a fusão:
 
 ```
-I have a friend.  +  She lives in Brisbane.
+I have a friend.  +  She lives in London.
         ↓ (she vira who)
-I have a friend who lives in Brisbane.
-Tenho uma amiga que mora em Brisbane.
+I have a friend who lives in London.
+Tenho uma amiga que mora em Londres.
 ```
 
 ```
@@ -55,11 +55,11 @@ Olhe o que vem **depois** do who/which/that:
 
 **1. Relative clause de SUJEITO** — depois do pronome vem um **verbo** (o pronome é o sujeito do verbo):
 - *The woman **who works** at the café is from Italy.* — A mulher que trabalha no café é da Itália.
-- *I caught the train **that goes** to Roma Street.* — Peguei o trem que vai pra Roma Street.
+- *I caught the train **that goes** to Central Station.* — Peguei o trem que vai pra Central Station.
 
 **2. Relative clause de OBJETO** — depois do pronome vem **outro sujeito + verbo** (o pronome é o objeto):
 - *The movie **(that) we watched** was great.* — O filme que a gente assistiu foi ótimo.
-- *The agent **(who) I emailed** replied today.* — A agente para quem mandei e-mail respondeu hoje.
+- *The professor **(who) I emailed** replied today.* — A professora para quem mandei e-mail respondeu hoje.
 
 | Tipo | Estrutura | Pode omitir o pronome? |
 |------|-----------|------------------------|
@@ -112,35 +112,35 @@ Dois reflexos do português para vigiar:
 
 ### O que fica para o N3-08 (só para você saber que existe)
 
-- **whose** (cujo): *the student whose visa was approved*
+- **whose** (cujo): *the student whose essay was accepted*
 - **where** (onde): *the city where we live*
-- **Non-defining clauses** (com vírgulas, informação extra): *Brisbane, which is in Queensland, is sunny.*
+- **Non-defining clauses** (com vírgulas, informação extra): *London, which is in England, is rainy.*
 
 Neste nível, domine as **defining clauses** (sem vírgula, que identificam o substantivo) com who/which/that — são 90% do uso real.
 
 ## Pegadinhas e erros comuns de brasileiros
 
 1. **Repetir o objeto depois da clause** — ❌ *The house that I rented **it** is small.* → ✅ *The house that I rented is small.* (o *that* JÁ é o objeto — não duplica)
-2. **Omitir o pronome-sujeito** — ❌ *I have a friend lives in Sydney.* → ✅ *I have a friend **who/that** lives in Sydney.* (sujeito nunca some)
+2. **Omitir o pronome-sujeito** — ❌ *I have a friend lives in Paris.* → ✅ *I have a friend **who/that** lives in Paris.* (sujeito nunca some)
 3. **Who para coisas / which para pessoas** — ❌ *The course who I chose...* → ✅ *The course **which/that** I chose...* (na dúvida, use *that*)
 4. **Usar "what" como "que"** — ❌ *Everything what you said is true.* → ✅ *Everything **(that)** you said is true.* (*what* não é pronome relativo aqui)
 5. **Preposição na frente, estilo português** — ❌ *The suburb in that we live...* → ✅ *The suburb **(that) we live in**...* (preposição vai para o final; "in that" não existe)
 
 ## Auto-teste
 
-1. Complete com who, which ou that: *The agent ______ handled our application was very helpful.*
+1. Complete com who, which ou that: *The teacher ______ explained the lesson was very helpful.*
 2. Certo ou errado: *"The apartment that we visited it yesterday was too expensive."*
-3. Traduza: "As pessoas que conheci em Brisbane são muito simpáticas." (versão natural, sem pronome)
-4. Em qual das duas o pronome pode ser omitido? (a) *The bus that goes to South Bank* · (b) *The bus that I take every day*
+3. Traduza: "As pessoas que conheci na viagem são muito simpáticas." (versão natural, sem pronome)
+4. Em qual das duas o pronome pode ser omitido? (a) *The bus that goes to the city centre* · (b) *The bus that I take every day*
 5. Junte em uma frase só: *That's the café. I work at the café.*
 
 <details>
 <summary><strong>Respostas</strong></summary>
 
-1. *The agent **who/that** handled our application was very helpful.* (pessoa + sujeito — não pode omitir)
+1. *The teacher **who/that** explained the lesson was very helpful.* (pessoa + sujeito — não pode omitir)
 2. Errado — objeto duplicado: *The apartment that we visited yesterday was too expensive.* (sem o *it*)
-3. *The people I met in Brisbane are very friendly.* (pronome-objeto omitido; com pronome também vale: *the people **who/that** I met...*)
-4. **(b)** — *The bus I take every day.* Em (a) o *that* é sujeito de *goes*, então não pode sumir.
+3. *The people I met on the trip are very friendly.* (pronome-objeto omitido; com pronome também vale: *the people **who/that** I met...*)
+4. **(b)** — *The bus I take every day.* Em (a) o *that* é sujeito de *goes* (vai para o city centre), então não pode sumir.
 5. *That's the café **(that) I work at**.* (preposição no final; o *that* é opcional porque é objeto)
 
 </details>
@@ -164,4 +164,4 @@ Neste nível, domine as **defining clauses** (sem vírgula, que identificam o su
 - [ ] Pronome-objeto pode sumir: fale *the house we rented*, *the people I met*, *the job I want* em voz alta
 - [ ] Armadilha nº 1: NUNCA repita o objeto — *the house that I rented* (sem ~~it~~ no final)
 - [ ] Preposição vai pro final: *the company I work for*, *the suburb we live in*
-- [ ] Crie 3 frases sobre Brisbane em voz alta: uma com *who* (sujeito), uma com *that* (objeto), uma omitindo o pronome
+- [ ] Crie 3 frases sobre sua rotina em voz alta: uma com *who* (sujeito), uma com *that* (objeto), uma omitindo o pronome

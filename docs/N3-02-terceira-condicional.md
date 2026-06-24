@@ -23,7 +23,7 @@ Se eu  tivesse estudado mais,   eu teria passado        no IELTS.
 |------------------------------------------|-----------------------------------------------|
 | If we **had applied** earlier, <br>*Se tivéssemos nos inscrito antes,* | we **would have received** the offer sooner. <br>*teríamos recebido a oferta mais cedo.* |
 | If she **had known** about the scholarship, <br>*Se ela tivesse sabido da bolsa,* | she **would have applied**. <br>*ela teria se inscrito.* |
-| If I **had taken** that flight, <br>*Se eu tivesse pegado aquele voo,* | I **would have arrived** in Brisbane on Sunday. <br>*eu teria chegado em Brisbane no domingo.* |
+| If I **had taken** that flight, <br>*Se eu tivesse pegado aquele voo,* | I **would have arrived** in London on Sunday. <br>*eu teria chegado em Londres no domingo.* |
 
 As duas metades podem trocar de ordem (sem vírgula quando o *if* vem depois):
 - *I would have passed **if I had studied** more.*
@@ -59,8 +59,8 @@ O esquema é o mesmo: "tivesse + particípio" → *had + particípio*; "teria + 
 
 Repare no estranho-mas-correto *had had*: o primeiro *had* é o auxiliar, o segundo é o particípio de *have*.
 
-- *If we **lived** in Brisbane, we **would go** to the beach.* (não moramos — ainda)
-- *If we **had moved** to Brisbane last year, we **would have saved** money on rent.* (não mudamos — passado encerrado)
+- *If we **lived** in Lisbon, we **would go** to the beach.* (não moramos — ainda)
+- *If we **had moved** to a smaller city last year, we **would have saved** money on rent.* (não mudamos — passado encerrado)
 
 ### Could have e might have no lugar de would have
 
@@ -101,7 +101,7 @@ Na fala real (e nos áudios do IELTS Listening), quase tudo se contrai:
 
 1. Complete: *If we ______ (book) the flight earlier, we ______ (pay) much less.*
 2. Certo ou errado: *"If I would have known about the meeting, I would have come."*
-3. Traduza: "Se ela tivesse praticado listening todo dia, ela teria entendido o sotaque australiano."
+3. Traduza: "Se ela tivesse praticado listening todo dia, ela teria entendido o sotaque britânico."
 4. 2ª ou 3ª condicional? "Se eu morasse perto da praia, eu surfaria todo dia." (situação atual)
 5. Complete com might: *If you ______ (apply) for that job, you ______ (get) it.*
 
@@ -110,7 +110,7 @@ Na fala real (e nos áudios do IELTS Listening), quase tudo se contrai:
 
 1. *If we **had booked** the flight earlier, we **would have paid** much less.*
 2. Errado — would have não entra no if: *If I **had known** about the meeting, I would have come.*
-3. *If she **had practised** listening every day, she **would have understood** the Australian accent.*
+3. *If she **had practised** listening every day, she **would have understood** the British accent.*
 4. **2ª condicional** — irreal no presente, não no passado: *If I **lived** near the beach, I **would surf** every day.*
 5. *If you **had applied** for that job, you **might have got** it.*
 

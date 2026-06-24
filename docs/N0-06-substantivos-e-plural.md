@@ -17,7 +17,7 @@ Substantivo (*noun*) é a palavra que nomeia: pessoa (*teacher*), lugar (*beach*
 | Tipo | O que é | Exemplos |
 |------|---------|----------|
 | **Comum** | nome genérico, letra minúscula | *a city, a river, a student* |
-| **Próprio** | nome específico, **sempre maiúscula** | *Brisbane, Australia, Giovanna* |
+| **Próprio** | nome específico, **sempre maiúscula** | *London, France, Sofia* |
 
 ⚠️ Diferente do português, o inglês usa maiúscula também em **dias, meses, idiomas e nacionalidades**:
 - *Monday* (segunda-feira) · *January* (janeiro) · *English* (inglês) · *Brazilian* (brasileira)
@@ -66,7 +66,7 @@ Não seguem regra nenhuma — são herança do inglês antigo. São poucos e apa
 
 Alguns nem mudam — **mesma forma no singular e no plural**:
 - *one sheep → two sheep* (ovelha) · *one fish → two fish* (peixe) · *one deer → two deer* (cervo)
-- *There are a lot of fish in the Brisbane River.* — Tem muito peixe no rio Brisbane.
+- *There are a lot of fish in the river.* — Tem muito peixe no rio.
 
 ### A pronúncia do -s final: 3 sons diferentes
 
@@ -102,14 +102,14 @@ O número do substantivo comanda o resto da frase — é isso que este tema dest
 - *The house is big.* → *The houses **are** big.* — A casa é grande. / As casas são grandes. (verbo concorda)
 
 ⚠️ Caso especial: **people é plural** (apesar de não ter -s):
-- ❌ *People is friendly in Brisbane.* → ✅ *People **are** friendly in Brisbane.* — As pessoas são simpáticas em Brisbane.
+- ❌ *People is friendly in the city.* → ✅ *People **are** friendly in the city.* — As pessoas são simpáticas na cidade.
 
 ### Prévia: nem todo substantivo tem plural
 
 Alguns substantivos são **incontáveis** e nunca ganham -s, mesmo que em português tenham plural:
 
 - *information* (❌ informations) · *advice* (❌ advices) · *money* (❌ moneys) · *furniture* (❌ furnitures)
-- *I need some information about visas.* — Preciso de (umas) informações sobre vistos.
+- *I need some information about the course.* — Preciso de (umas) informações sobre o curso.
 
 O assunto completo (much/many, a little/a few) é o **N1-08** — por enquanto, só grave: essas quatro palavras não têm -s.
 
@@ -126,7 +126,7 @@ O assunto completo (much/many, a little/a few) é o **N1-08** — por enquanto, 
 1. Escreva o plural: *city · beach · knife · kangaroo*
 2. Certo ou errado: *"There are many childrens in the park."*
 3. Traduza: "As duas casas amarelas são caras."
-4. Complete: *How many ______ (person) live in Brisbane?*
+4. Complete: *How many ______ (person) live in the city?*
 5. Qual destes plurais ganha uma **sílaba extra** na pronúncia: *dogs, books, buses, days*?
 
 <details>
@@ -135,7 +135,7 @@ O assunto completo (much/many, a little/a few) é o **N1-08** — por enquanto, 
 1. *cit**ies*** (consoante + y) · *beach**es*** (termina em -ch) · *kni**ves*** (-fe → -ves) · *kangaroo**s*** (vogal + o, só +s)
 2. Errado — *children* já é plural, não existe "childrens": *There are many **children** in the park.*
 3. *The two yellow houses are expensive.* (só o substantivo no plural — *the* e *yellow* não mudam)
-4. *How many **people** live in Brisbane?* (plural de *person* = *people*)
+4. *How many **people** live in the city?* (plural de *person* = *people*)
 5. ***buses*** — /BÂ-siz/, ganha a sílaba /iz/ porque termina em som de s. Os outros são /z/ ou /s/ sem sílaba extra.
 
 </details>
@@ -159,4 +159,4 @@ O assunto completo (much/many, a little/a few) é o **N1-08** — por enquanto, 
 - [ ] Armadilha nº 1: adjetivo NUNCA ganha -s — fale em voz alta: *two big houses, three small dogs, many beautiful beaches*
 - [ ] *people* = plural → *people **are*** (nunca "people is")
 - [ ] Pronuncie 5 plurais caprichando no -s final: *dogs, books, buses, beaches, days* (qual ganha sílaba extra?)
-- [ ] Fale 3 frases com plural sobre Brisbane (*There are many parks in Brisbane...*) — se travar no artigo, revise [N0-05]
+- [ ] Fale 3 frases com plural sobre uma cidade (*There are many parks in the city...*) — se travar no artigo, revise [N0-05]

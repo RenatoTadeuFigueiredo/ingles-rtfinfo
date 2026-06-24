@@ -38,7 +38,7 @@ the  cheap    tickets   →  os ingressos baratos
 |--------------------------|------------------------------|
 | a **sunny** day | um dia **ensolarado** |
 | an **expensive** city | uma cidade **cara** |
-| a **small** apartment in Brisbane | um apartamento **pequeno** em Brisbane |
+| a **small** apartment in London | um apartamento **pequeno** em Londres |
 
 > Detalhe do artigo: **a/an** olha para a palavra seguinte. Se o adjetivo começa com som de vogal, vira *an*: *a car* → *an **old** car*.
 
@@ -47,7 +47,7 @@ the  cheap    tickets   →  os ingressos baratos
 O adjetivo também pode vir depois do verbo, descrevendo o sujeito:
 
 - *The house **is big**.* — A casa é grande.
-- *Brisbane **is sunny**.* — Brisbane é ensolarada.
+- *The city **is sunny**.* — A cidade é ensolarada.
 - *We **are tired**.* — Estamos cansados.
 
 Além de **be**, funciona com verbos de "estado/sentido" — **look, feel, seem, sound, taste, smell**:
@@ -78,7 +78,7 @@ Dá para empilhar adjetivos (em geral 2, no máximo 3). A ordem básica: **opini
 - *a **beautiful old** city* — uma cidade antiga e bonita
 - *a **nice small** café* — um café pequeno e agradável
 - *a **big white** house* — uma casa branca e grande
-- *an **expensive Australian** wine* — um vinho australiano caro
+- *an **expensive Italian** wine* — um vinho italiano caro
 
 No nível A1, não decore a tabela inteira — guarde só: **opinião vem primeiro** (*beautiful, nice, great*) e o resto vem depois.
 
@@ -86,7 +86,7 @@ No nível A1, não decore a tabela inteira — guarde só: **opinião vem primei
 
 Para dizer "muito + adjetivo", use **very** ou **really** antes do adjetivo:
 
-- *Brisbane is **very hot** in summer.* — Brisbane é muito quente no verão.
+- *New York is **very hot** in summer.* — Nova York é muito quente no verão.
 - *The rent is **really expensive**.* — O aluguel é caro demais / muito caro.
 - *I'm **very tired** today.* — Estou muito cansada hoje.
 
@@ -97,9 +97,9 @@ Para dizer "muito + adjetivo", use **very** ou **really** antes do adjetivo:
 | Par | Tradução | Exemplo |
 |-----|----------|---------|
 | big × small | grande × pequeno | *a small flat* — um apê pequeno |
-| hot × cold | quente × frio | *a hot day in Brisbane* |
+| hot × cold | quente × frio | *a hot day in July* |
 | cheap × expensive | barato × caro | *Cheap tickets!* — Ingressos baratos! |
-| new × old | novo × velho | *my new visa* — meu visto novo |
+| new × old | novo × velho | *my new phone* — meu celular novo |
 | easy × difficult | fácil × difícil | *English is not difficult.* |
 | good × bad | bom × ruim | *a good idea* — uma boa ideia |
 | happy × sad | feliz × triste | *I'm happy here.* |
@@ -121,13 +121,13 @@ Esse tema volta com força mais adiante — por enquanto, grave o par *bored/bor
 2. **Adjetivo depois do substantivo, como no português** — ❌ *a house big* → ✅ *a **big** house*
 3. **Sumir com o verbo to be** — ❌ *She beautiful.* → ✅ *She **is** beautiful.* (em inglês o verbo é obrigatório)
 4. **"I'm boring" querendo dizer "estou entediado"** — ❌ *I'm boring.* (= "eu sou chato"!) → ✅ *I'm **bored**.*
-5. **Much em vez de very** — ❌ *Brisbane is much hot.* → ✅ *Brisbane is **very** hot.*
+5. **Much em vez de very** — ❌ *New York is much hot.* → ✅ *New York is **very** hot.*
 
 ## Auto-teste
 
 1. Coloque na ordem certa: *house / a / they / big / have* .
 2. Certo ou errado: *"We visited two beautifuls beaches."*
-3. Traduza: "O aluguel em Brisbane é muito caro."
+3. Traduza: "O aluguel em Nova York é muito caro."
 4. Complete com *bored* ou *boring*: *This class is ______ , so I'm ______ .*
 5. Coloque os dois adjetivos na ordem natural: *a ______ ______ café (small / nice)*.
 
@@ -136,7 +136,7 @@ Esse tema volta com força mais adiante — por enquanto, grave o par *bored/bor
 
 1. *They have a **big house**.* — adjetivo antes do substantivo.
 2. Errado — adjetivo não tem plural: *two **beautiful** beaches*.
-3. *The rent in Brisbane is **very expensive**.* (não ~~much expensive~~)
+3. *The rent in New York is **very expensive**.* (não ~~much expensive~~)
 4. *This class is **boring**, so I'm **bored**.* — a aula causa (-ing), eu sinto (-ed).
 5. *a **nice small** café* — opinião (*nice*) antes de fato (*small*).
 
@@ -159,7 +159,7 @@ Esse tema volta com força mais adiante — por enquanto, grave o par *bored/bor
 
 - [ ] Recite a regra de ouro: **adjetivo não tem plural nem gênero — a forma é uma só**
 - [ ] Os 2 lugares: **antes do substantivo** (*a big house*) · **depois do be/look/feel** (*the house is big*)
-- [ ] Fale 3 frases sobre Brisbane usando *ARTIGO + adjetivo + substantivo* (*a sunny day, an expensive city...*)
+- [ ] Fale 3 frases sobre uma cidade usando *ARTIGO + adjetivo + substantivo* (*a sunny day, an expensive city...*)
 - [ ] Fale 3 frases com *to be + adjetivo* sobre você agora (*I'm tired, I'm happy...*)
 - [ ] Armadilha nº 1: jamais ❌ *bigs houses* — adjetivo **nunca** ganha *s*
 - [ ] *bored* = eu sinto · *boring* = a coisa é chata — repita o par em voz alta

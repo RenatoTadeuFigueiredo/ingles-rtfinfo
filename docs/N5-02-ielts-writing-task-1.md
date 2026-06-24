@@ -56,8 +56,8 @@ Pode vir **combinação** (ex.: pie + table juntos) — aí você dedica um par�
 
 | Enunciado | Sua paráfrase |
 |-----------|---------------|
-| *The graph shows the number of international students in Australia from 2010 to 2020.* | *The line graph illustrates how many overseas students studied in Australia over a ten-year period.* — O gráfico de linhas ilustra quantos estudantes estrangeiros estudaram na Austrália ao longo de um período de dez anos. |
-| *The chart shows household spending in Brisbane.* | *The bar chart compares what families in Brisbane spend their money on.* — O gráfico de barras compara em que as famílias de Brisbane gastam seu dinheiro. |
+| *The graph shows the number of international students in the UK from 2010 to 2020.* | *The line graph illustrates how many overseas students studied in the UK over a ten-year period.* — O gráfico de linhas ilustra quantos estudantes estrangeiros estudaram no Reino Unido ao longo de um período de dez anos. |
+| *The chart shows household spending in London.* | *The bar chart compares what families in London spend their money on.* — O gráfico de barras compara em que as famílias de Londres gastam seu dinheiro. |
 
 ### O overview — a frase que decide sua nota
 
@@ -87,8 +87,8 @@ Modele a velocidade com advérbios/adjetivos:
 | Fraca | slightly, marginally | a **slight** increase |
 
 As duas estruturas equivalentes (varie entre elas — conta como Lexical Resource):
-- *Rents in Brisbane **rose sharply** between 2021 and 2024.* — Os aluguéis em Brisbane subiram fortemente entre 2021 e 2024.
-- *There was **a sharp rise in** rents in Brisbane between 2021 and 2024.* — Houve uma forte alta nos aluguéis em Brisbane... (atenção ao **in** depois do substantivo!)
+- *Rents in the city **rose sharply** between 2021 and 2024.* — Os aluguéis na cidade subiram fortemente entre 2021 e 2024.
+- *There was **a sharp rise in** rents in the city between 2021 and 2024.* — Houve uma forte alta nos aluguéis na cidade... (atenção ao **in** depois do substantivo!)
 
 ### Linguagem de comparação (visuais sem tempo)
 
@@ -97,7 +97,7 @@ Quando não há eixo de tempo (pie, table, bar de categorias), **não use verbos
 - *Rent accounts for **the largest proportion of** spending, **at** 35%.* — O aluguel responde pela maior fatia dos gastos, com 35%.
 - ***Twice as many** people cycled to work **as** took the bus.* — O dobro de pessoas foi de bicicleta ao trabalho em comparação com as que foram de ônibus.
 - *Spending on food was high, **whereas** spending on clothes was minimal.* — O gasto com comida era alto, enquanto o gasto com roupas era mínimo.
-- ***Compared to** Sydney, Brisbane is far more affordable.* — Comparada a Sydney, Brisbane é bem mais acessível.
+- ***Compared to** New York, Boston is far more affordable.* — Comparada a Nova York, Boston é bem mais acessível.
 
 ### Processos e mapas — o reino da voz passiva
 
@@ -136,7 +136,7 @@ Frases-modelo por tom:
 |--------|--------------------|----------|
 | Propósito | *I am writing to complain about / enquire about / inform you that...* — Escrevo para reclamar de / perguntar sobre / informar que... | *I'm writing to tell you the big news!* — Tô escrevendo pra te contar a grande novidade! |
 | Pedido | *I would appreciate it if you could repair the air conditioning.* — Eu agradeceria se você pudesse consertar o ar-condicionado. | *Could you do me a favour?* — Pode me fazer um favor? |
-| Fechamento | *I look forward to hearing from you.* — Aguardo seu retorno. | *Can't wait to see you in Brisbane!* — Mal posso esperar pra te ver em Brisbane! |
+| Fechamento | *I look forward to hearing from you.* — Aguardo seu retorno. | *Can't wait to see you soon!* — Mal posso esperar pra te ver em breve! |
 
 > 🎯 **IELTS:** o examinador avalia **consistência de tom** — uma carta formal com gíria (ou informal toda engessada) perde ponto em Task Achievement. Escolha o tom no primeiro segundo e mantenha até a assinatura.
 
@@ -168,7 +168,7 @@ Regras de ouro:
 
 1. Qual é a frase mais importante da Task 1 Academic, onde ela entra na estrutura e o que ela NUNCA pode conter?
 2. Certo ou errado: *"The unemployment rate raised by 2% in 2023."*
-3. Reescreva com substantivo (There was...): *Rents in Brisbane fell slightly in 2025.*
+3. Reescreva com substantivo (There was...): *Rents in the city fell slightly in 2025.*
 4. Carta para o locador (Mr Chen) pedindo conserto do ar-condicionado: qual abertura, qual fechamento e qual frase para o pedido?
 5. Complete as preposições: *The number of students peaked ____ 800,000 in 2019, an increase ____ 25% compared to 2015.*
 
@@ -177,7 +177,7 @@ Regras de ouro:
 
 1. O **overview** — vem logo depois da introdução (parágrafo 2), começa com *Overall,* e resume as 2-3 tendências gerais **sem nenhum número**.
 2. Errado — *raise* exige objeto. ✅ *The unemployment rate **rose** by 2% in 2023.*
-3. *There was **a slight fall in** rents in Brisbane in 2025.* (também: *a slight decline/decrease in*)
+3. *There was **a slight fall in** rents in the city in 2025.* (também: *a slight decline/decrease in*)
 4. Semi-formal: abertura *Dear Mr Chen,* · fechamento *Yours sincerely,* (ou *Kind regards,*) · pedido: *I would appreciate it if you could repair the air conditioning as soon as possible.*
 5. *peaked **at** 800,000* (nível atingido) · *an increase **of** 25%* (tamanho do aumento — compare: *an increase **in** students* = no quê).
 
@@ -203,4 +203,4 @@ Regras de ouro:
 - [ ] Fale em voz alta 3 pares tendência (verbo + substantivo): *rose sharply / a sharp rise in*, *fell slightly / a slight fall in*, *remained stable / stability*
 - [ ] Recite as preposições: *increase **in*** (no quê) · *by* (quanto mudou) · *at* (nível do pico)
 - [ ] Carta GT: escolha o tom em 1 segundo — *Dear Sir or Madam → Yours faithfully* · *Dear Mr X → Yours sincerely* · *Hi Sarah → Take care*
-- [ ] Cronometre: descreva em voz alta um gráfico imaginário (aluguéis em Brisbane 2020–2025) em 2 minutos, com overview primeiro
+- [ ] Cronometre: descreva em voz alta um gráfico imaginário (aluguéis na cidade 2020–2025) em 2 minutos, com overview primeiro

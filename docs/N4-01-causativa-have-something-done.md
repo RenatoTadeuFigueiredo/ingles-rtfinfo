@@ -44,7 +44,7 @@ Os dois significam a mesma coisa; a diferença é de registro:
 - **have something done** — neutro/mais formal, vale para escrita: *We **had** the documents translated.*
 - **get something done** — mais informal/falado, e soa mais comum no dia a dia: *I need to **get** my visa photos taken.*
 
-Na fala, australianos usam muito **get**. Na escrita (e-mails formais, redação), **have** é a escolha segura.
+No inglês falado, **get** soa mais natural e é mais comum no dia a dia. Na escrita (e-mails formais, redação), **have** é a escolha segura.
 
 ### Funciona em todos os tempos verbais
 
@@ -61,10 +61,10 @@ Quem conjuga é o **have/get** — o particípio nunca muda (por isso este tema 
 | Modal | You **should get** your diploma **certified**. | Você deveria autenticar seu diploma. |
 | Need + -ing/to | I **need to get** this form **signed**. | Preciso que assinem este formulário. |
 
-Exemplos sob medida para a vida em Brisbane:
-- *We need to **have our documents translated** by a NAATI translator.* — Precisamos traduzir nossos documentos com tradutor NAATI.
-- *I'm **getting my visa photos taken** this afternoon.* — Vou tirar as fotos do visto hoje à tarde.
-- *We **had the unit cleaned** before the final inspection to get the bond back.* — Mandamos limpar o apartamento antes da vistoria final para recuperar o caução.
+Mais exemplos práticos:
+- *We need to **have our documents translated** by a certified translator.* — Precisamos traduzir nossos documentos com um tradutor certificado.
+- *I'm **getting my passport photos taken** this afternoon.* — Vou tirar as fotos de passaporte hoje à tarde.
+- *We **had the apartment cleaned** before moving out.* — Mandamos limpar o apartamento antes de sair.
 
 ### Para dizer QUEM fez: by
 
@@ -115,7 +115,7 @@ Da mesma família, sempre com **verbo base sem to**:
 
 ## Auto-teste
 
-1. Complete: *We ______ (have) our documents ______ (translate) before applying for the visa.*
+1. Complete: *We ______ (have) our documents ______ (translate) before the trip.*
 2. Certo ou errado: *"I had repaired my phone at the shopping centre."* (sentido: levei para consertar)
 3. Traduza: "Vou fazer as unhas amanhã." (no salão)
 4. Complete com get: *Can you ______ your brother ______ (pick) us up at the airport?*
@@ -124,7 +124,7 @@ Da mesma família, sempre com **verbo base sem to**:
 <details>
 <summary><strong>Respostas</strong></summary>
 
-1. *We **had** our documents **translated** before applying for the visa.*
+1. *We **had** our documents **translated** before the trip.*
 2. Errado — virou past perfect ("eu tinha consertado"). Causativa: *I **had my phone repaired** at the shopping centre.*
 3. *I'm **going to have/get my nails done** tomorrow.* (ou *I'm having my nails done tomorrow*)
 4. *Can you **get** your brother **to pick** us up at the airport?* (get + pessoa + **to** + verbo)
@@ -149,6 +149,6 @@ Da mesma família, sempre com **verbo base sem to**:
 - [ ] Pergunta-chave: **quem fez?** Eu mesma → voz ativa · serviço/outra pessoa → causativa
 - [ ] Armadilha nº 1: "cortei o cabelo" no salão = *I **had my hair cut*** — nunca *I cut my hair*
 - [ ] *have* pessoa + verbo base · *get* pessoa + **to** + verbo — recite um exemplo de cada
-- [ ] Fale 3 frases sobre a mudança para Brisbane (*get the documents translated, have the photos taken, get the car serviced*)
+- [ ] Fale 3 frases sobre serviços do dia a dia (*get the documents translated, have the photos taken, get the car serviced*)
 - [ ] Coisa ruim que aconteceu: *I had my phone stolen* = roubaram meu celular
 - [ ] Se o particípio travou → revise [N3-07] voz passiva antes de seguir

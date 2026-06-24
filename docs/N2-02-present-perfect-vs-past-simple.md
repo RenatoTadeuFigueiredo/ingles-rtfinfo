@@ -13,27 +13,27 @@ A escolha é simples: se a frase diz (ou subentende) **quando** aconteceu, é **
 ### As duas formas lado a lado
 
 ```
-PAST SIMPLE:      SUJEITO + VERBO NO PASSADO          → I visited Sydney last year.
-PRESENT PERFECT:  SUJEITO + HAVE/HAS + PARTICÍPIO     → I have visited Sydney.
+PAST SIMPLE:      SUJEITO + VERBO NO PASSADO          → I visited Paris last year.
+PRESENT PERFECT:  SUJEITO + HAVE/HAS + PARTICÍPIO     → I have visited Paris.
 ```
 
 | | Past simple | Present perfect |
 |---|-------------|-----------------|
-| Afirmativa | I **visited** Sydney. | I **have visited** Sydney. |
-| Negativa | I **didn't visit** Sydney. | I **haven't visited** Sydney. |
-| Pergunta | **Did** you **visit** Sydney? | **Have** you **visited** Sydney? |
+| Afirmativa | I **visited** Paris. | I **have visited** Paris. |
+| Negativa | I **didn't visit** Paris. | I **haven't visited** Paris. |
+| Pergunta | **Did** you **visit** Paris? | **Have** you **visited** Paris? |
 
 ### O critério central: quando vs agora
 
 | Pergunta que o tempo verbal responde | Tempo | Exemplo |
 |--------------------------------------|-------|---------|
-| **Quando** aconteceu? (momento fechado, terminado) | Past simple | *We **arrived** in Brisbane **in February**.* — Chegamos em Brisbane em fevereiro. |
+| **Quando** aconteceu? (momento fechado, terminado) | Past simple | *We **arrived** in London **in February**.* — Chegamos em Londres em fevereiro. |
 | O que isso tem a ver com **agora**? (experiência, resultado, período aberto) | Present perfect | *We **have made** lots of friends here.* — Fizemos muitos amigos aqui (e eles fazem parte da nossa vida agora). |
 
 A mesma ação pode ir para os dois lados — o que muda é o foco do falante:
 
-- *I **have lost** my Go Card.* — Perdi meu Go Card. (foco: estou sem ele AGORA, não consigo pegar o trem)
-- *I **lost** my Go Card **yesterday**.* — Perdi ontem. (foco: relato do que aconteceu, momento definido)
+- *I **have lost** my wallet.* — Perdi minha carteira. (foco: estou sem ela AGORA, não consigo pagar nada)
+- *I **lost** my wallet **yesterday**.* — Perdi ontem. (foco: relato do que aconteceu, momento definido)
 
 ### Sinalizadores: as palavras que decidem por você
 
@@ -47,7 +47,7 @@ Na maioria das frases, uma palavrinha de tempo já entrega a resposta:
 | recently, lately | when I was a child, when...? |
 | so far, up to now | then, at that time |
 
-- *Have you **ever** tried Vegemite?* — Você já experimentou Vegemite?
+- *Have you **ever** tried sushi?* — Você já experimentou sushi?
 - *I tried it **two weeks ago**... never again.* — Experimentei há duas semanas... nunca mais.
 - ❌ *I have tried it two weeks ago.* — "ago" mata o present perfect.
 
@@ -60,19 +60,19 @@ Expressões como *today, this week, this morning, this year* podem ir para os do
 | Período ainda aberto → present perfect | Período fechado → past simple |
 |----------------------------------------|-------------------------------|
 | *I **have drunk** three coffees **this morning**.* (ainda é de manhã) | *I **drank** three coffees **this morning**.* (já é de tarde/noite) |
-| *We **have saved** AUD 5,000 **this year**.* (o ano ainda não acabou) | *We **saved** AUD 5,000 **last year**.* (2025 acabou) |
+| *We **have saved** €5,000 **this year**.* (o ano ainda não acabou) | *We **saved** €5,000 **last year**.* (2025 acabou) |
 
-O mesmo vale para pessoas e lugares: *Steve Irwin **was** an Australian legend* (ele já morreu — período fechado) vs *Brisbane **has hosted** many big events* (a cidade existe — período aberto).
+O mesmo vale para pessoas e lugares: *David Bowie **was** a music legend* (ele já morreu — período fechado) vs *London **has hosted** many big events* (a cidade existe — período aberto).
 
 ### O padrão de conversa: abre com perfect, continua com past simple
 
 Esse é o movimento mais natural do inglês falado — e o que o examinador do IELTS espera ouvir. A conversa **abre** o assunto com present perfect (sem quando) e, assim que entra nos **detalhes**, muda para past simple (com quando, onde, como):
 
-> — **Have** you **ever been** to the Gold Coast? — Você já foi à Gold Coast?
+> — **Have** you **ever been** to Rome? — Você já foi a Roma?
 > — Yes, I **have**. We **went** there last month. We **stayed** two nights and it **was** amazing.
 > — Sim. Fomos lá mês passado. Ficamos duas noites e foi incrível.
 
-É o mesmo padrão das notícias: *A cyclone **has hit** Queensland* (manchete — relevância agora) *→ It **made** landfall at 6 a.m. and **caused** flooding* (detalhes — past simple).
+É o mesmo padrão das notícias: *A storm **has hit** the coast* (manchete — relevância agora) *→ It **made** landfall at 6 a.m. and **caused** flooding* (detalhes — past simple).
 
 ### 🎯 Como isso aparece no IELTS
 
@@ -86,8 +86,8 @@ O português usa **o mesmo pretérito perfeito** para os dois casos — a distin
 
 | Português | Inglês |
 |-----------|--------|
-| **Já visitei** a Austrália. (experiência, sem quando) | I **have visited** Australia. |
-| **Visitei** a Austrália em 2023. (com quando) | I **visited** Australia in 2023. |
+| **Já visitei** o Japão. (experiência, sem quando) | I **have visited** Japan. |
+| **Visitei** o Japão em 2023. (com quando) | I **visited** Japan in 2023. |
 | **Perdi** minhas chaves! (e estou sem elas agora) | I **have lost** my keys! |
 | **Perdi** minhas chaves ontem. (relato) | I **lost** my keys yesterday. |
 
@@ -95,28 +95,28 @@ O português usa **o mesmo pretérito perfeito** para os dois casos — a distin
 
 ## Pegadinhas e erros comuns de brasileiros
 
-1. **Present perfect com tempo definido** — ❌ *I have arrived in Brisbane last week.* → ✅ *I **arrived** in Brisbane last week.*
+1. **Present perfect com tempo definido** — ❌ *I have arrived in London last week.* → ✅ *I **arrived** in London last week.*
 2. **"When" com present perfect** — ❌ *When have you moved here?* → ✅ *When **did** you move here?*
-3. **Past simple para experiência de vida** — ❌ *Did you ever eat kangaroo?* (soa estranho como pergunta de experiência) → ✅ ***Have** you ever **eaten** kangaroo?*
-4. **Travar no perfect depois de abrir o assunto** — ❌ *I have been to Sydney. I have gone there in January and I have loved it.* → ✅ *I **have been** to Sydney. I **went** there in January and I **loved** it.* (detalhes = past simple)
+3. **Past simple para experiência de vida** — ❌ *Did you ever eat sushi?* (soa estranho como pergunta de experiência) → ✅ ***Have** you ever **eaten** sushi?*
+4. **Travar no perfect depois de abrir o assunto** — ❌ *I have been to Paris. I have gone there in January and I have loved it.* → ✅ *I **have been** to Paris. I **went** there in January and I **loved** it.* (detalhes = past simple)
 5. **Pessoa/período que já acabou com present perfect** — ❌ *Ayrton Senna has won three championships.* → ✅ *Ayrton Senna **won** three championships.* (vida dele = período fechado)
 
 ## Auto-teste
 
-1. Complete: *I ______ (live) in Brisbane since March, but before that I ______ (live) in São Paulo.*
-2. Certo ou errado: *"We have visited the Lone Pine Koala Sanctuary two weeks ago."*
-3. Complete a conversa: *— ______ you ever ______ (try) surfing? — Yes, I ______ (try) it last summer at Noosa.*
+1. Complete: *I ______ (live) in London since March, but before that I ______ (live) in São Paulo.*
+2. Certo ou errado: *"We have visited the Eiffel Tower two weeks ago."*
+3. Complete a conversa: *— ______ you ever ______ (try) surfing? — Yes, I ______ (try) it last summer at the beach.*
 4. *This morning* às 10h da manhã vs às 8h da noite: complete as duas — *I ______ (send) three emails this morning.*
-5. Traduza: "Você já foi a Sydney? — Fui em janeiro, foi ótimo."
+5. Traduza: "Você já foi a Paris? — Fui em janeiro, foi ótimo."
 
 <details>
 <summary><strong>Respostas</strong></summary>
 
-1. *I **have lived** in Brisbane since March, but before that I **lived** in São Paulo.* (since = período aberto; "before that" = fechado)
-2. Errado — *ago* pede past simple: *We **visited** the Lone Pine Koala Sanctuary two weeks ago.*
-3. ***Have** you ever **tried** surfing? — Yes, I **tried** it last summer at Noosa.* (abre com perfect, detalha com past simple)
+1. *I **have lived** in London since March, but before that I **lived** in São Paulo.* (since = período aberto; "before that" = fechado)
+2. Errado — *ago* pede past simple: *We **visited** the Eiffel Tower two weeks ago.*
+3. ***Have** you ever **tried** surfing? — Yes, I **tried** it last summer at the beach.* (abre com perfect, detalha com past simple)
 4. Às 10h (manhã ainda aberta): *I **have sent** three emails this morning.* · Às 20h (manhã fechada): *I **sent** three emails this morning.*
-5. ***Have** you ever **been** to Sydney? — I **went** (there) in January, it **was** great.*
+5. ***Have** you ever **been** to Paris? — I **went** (there) in January, it **was** great.*
 
 </details>
 

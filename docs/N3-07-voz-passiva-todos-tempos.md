@@ -32,14 +32,14 @@ Você já sabe a passiva do presente e do passado simples (N2-10). A novidade do
 | Present continuous | They **are building** a metro line. | A metro line **is being built**. | Uma linha de metrô está sendo construída. |
 | Past simple | They **built** the bridge in 1940. | The bridge **was built** in 1940. | A ponte foi construída em 1940. |
 | Past continuous | They **were repairing** the road. | The road **was being repaired**. | A estrada estava sendo consertada. |
-| Present perfect | They **have approved** my visa. | My visa **has been approved**. | Meu visto foi aprovado. |
+| Present perfect | They **have approved** my application. | My application **has been approved**. | Minha inscrição foi aprovada. |
 | Past perfect | They **had sent** the offer before June. | The offer **had been sent** before June. | A oferta tinha sido enviada antes de junho. |
 | Future (will) | They **will announce** the results. | The results **will be announced**. | Os resultados serão anunciados. |
 | Future (going to) | They **are going to demolish** it. | It **is going to be demolished**. | Vai ser demolido. |
 | Modais | You **must submit** the form. | The form **must be submitted**. | O formulário deve ser enviado. |
 | Modal + perfect | They **should have checked** it. | It **should have been checked**. | Deveria ter sido verificado. |
 
-> Repare nos exemplos com Brisbane na cabeça: *A new metro line **is being built** in Brisbane.* · *Our apartment **was built** in the 90s.* · *My student visa **has been granted**!*
+> Repare nos exemplos: *A new metro line **is being built** in the city.* · *Our apartment **was built** in the 90s.* · *My application **has been accepted**!*
 
 ### Como montar qualquer passiva em 3 passos
 
@@ -47,8 +47,8 @@ Você já sabe a passiva do presente e do passado simples (N2-10). A novidade do
 2. **Coloque o BE nesse tempo.** (*has been*)
 3. **Adicione o particípio do verbo principal.** (*has been approved*)
 
-- Ativa: *The university **has accepted** Giovanna.*
-- Passiva: *Giovanna **has been accepted** by the university.* — Giovanna foi aceita pela universidade.
+- Ativa: *The university **has accepted** Ana.*
+- Passiva: *Ana **has been accepted** by the university.* — Ana foi aceita pela universidade.
 
 ### Os dois "being": contínuo é o que mais assusta
 
@@ -74,7 +74,7 @@ A passiva serve quando o **objeto da ação importa mais do que quem fez**:
 
 1. **Agente desconhecido ou irrelevante** — *My bike **was stolen**.* (não sei quem roubou)
 2. **Agente óbvio** — *He **was arrested**.* (óbvio que foi a polícia)
-3. **Foco no processo/resultado** — *The visa **is processed** in 4 to 6 weeks.*
+3. **Foco no processo/resultado** — *The application **is processed** in 4 to 6 weeks.*
 4. **Tom formal/impessoal** — avisos, regras, textos acadêmicos: *Passengers **are required** to wear a seatbelt.*
 
 Só mencione o agente com **by** quando ele acrescenta informação:
@@ -87,10 +87,10 @@ Verbos como **give, send, offer, show, tell** têm dois objetos — e o inglês 
 
 | Ativa | Passiva 1 (pessoa como sujeito) | Passiva 2 (coisa como sujeito) |
 |-------|--------------------------------|-------------------------------|
-| They gave **me** a visa. | **I was given** a visa. | A visa **was given** to me. |
+| They gave **me** a scholarship. | **I was given** a scholarship. | A scholarship **was given** to me. |
 | They offered **her** the job. | **She was offered** the job. | The job **was offered** to her. |
 
-A Passiva 1 (*I was given...*) é a mais natural em inglês — e **não tem tradução literal**: "eu fui dado um visto" não existe em português. Traduza como "me deram um visto" / "recebi um visto". Brasileiro quase nunca usa essa estrutura por conta própria — treine-a de propósito.
+A Passiva 1 (*I was given...*) é a mais natural em inglês — e **não tem tradução literal**: "eu fui dada uma bolsa" não existe em português. Traduza como "me deram uma bolsa" / "recebi uma bolsa". Brasileiro quase nunca usa essa estrutura por conta própria — treine-a de propósito.
 
 ### Contraste com o português: o "se" e o "nasci"
 
@@ -120,7 +120,7 @@ A passiva é **moeda forte na prova**:
 1. Passe para a passiva: *They are renovating the apartment.*
 2. Complete: *My application ______ (already / approve) — I got the email this morning!* (present perfect)
 3. Certo ou errado: *"The road was being repair when we drove past."*
-4. Passe para a passiva começando pela pessoa: *They offered Giovanna a place at CQU.*
+4. Passe para a passiva começando pela pessoa: *They offered Sofia a place at the university.*
 5. Complete com modal: *All documents ______ (must / submit) before the deadline.*
 
 <details>
@@ -129,7 +129,7 @@ A passiva é **moeda forte na prova**:
 1. *The apartment **is being renovated**.* — be no presente contínuo (*is being*) + particípio.
 2. *My application **has already been approved**.* — present perfect: *has been* + particípio (*already* entre *has* e *been*).
 3. Errado — falta o particípio: *The road was being **repaired** when we drove past.*
-4. ***Giovanna was offered** a place at CQU.* — a pessoa vira sujeito; em português seria "ofereceram uma vaga à Giovanna".
+4. ***Sofia was offered** a place at the university.* — a pessoa vira sujeito; em português seria "ofereceram uma vaga à Sofia".
 5. *All documents **must be submitted** before the deadline.* — modal + **be** + particípio.
 
 </details>
@@ -152,6 +152,6 @@ A passiva é **moeda forte na prova**:
 - [ ] Monte a passiva de *build* em 5 tempos em voz alta: *is built · was built · is being built · has been built · will be built*
 - [ ] Armadilha nº 1: nunca coma o **be** — *The bridge **was** built*, não ~~The bridge built~~
 - [ ] Contínuo tem **being** (= "sendo"): *is being checked* = está sendo verificado
-- [ ] Fale 3 frases sobre o processo do visto/mudança: *My visa has been approved · The documents are being checked · The results will be announced*
+- [ ] Fale 3 frases usando a passiva: *My application has been approved · The documents are being checked · The results will be announced*
 - [ ] *I **was born** in Brazil* — nascer é passiva em inglês
 - [ ] Se travou na passiva básica (presente/passado) → revise [N2-10] antes de seguir

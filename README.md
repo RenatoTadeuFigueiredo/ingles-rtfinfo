@@ -1,18 +1,16 @@
-# Inglês para a Austrália — Plano de Estudos
+# Inglês do Zero ao Avançado
 
-Site estático (MkDocs Material) com o currículo de inglês **do zero ao IELTS** (A0 → C1): 73 lições organizadas por nível (N0–N5), com dependências entre os temas.
+Site estático (MkDocs Material) com um curso de inglês **do zero ao C1** em português: 73 lições organizadas por nível (N0–N5), com mapa de dependências entre os temas e preparação para o IELTS.
 
 🌐 **Ao vivo:** https://ingles.rtfinfo.com (Cloudflare Pages)
 
-> ⚠️ **Repositório público.** Contém **apenas** material de estudo de inglês — **sem dados pessoais** (auditado: nada de TFN, passaporte, ABN, endereço, finanças). Não adicionar aqui nada de outras frentes (visto, finanças, documentos).
-
-Este repo é a **fonte única** do conteúdo (antes vivia no repo privado; foi movido pra cá).
+> ⚠️ **Repositório público.** Contém **apenas** material de estudo de inglês — sem dados pessoais.
 
 ---
 
 ## Estrutura
 
-- `docs/` — as 73 lições em Markdown. `index.md` é o mapa do currículo. **Edite aqui** — é a fonte.
+- `docs/` — as 73 lições em Markdown. `index.md` é a home (landing); `mapa.md` é o mapa do currículo. **Edite aqui** — é a fonte.
 - `mkdocs.yml` — config do site (tema Material, navegação por nível, busca PT).
 - `requirements.txt` — dependências (MkDocs Material).
 

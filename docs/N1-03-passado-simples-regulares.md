@@ -22,7 +22,7 @@ Eu trabalhei / ela trabalhou / nós trabalhamos…  ontem.
 | Inglês | Português |
 |--------|-----------|
 | I **worked** late last night. | Eu **trabalhei** até tarde ontem à noite. |
-| She **arrived** in Brisbane two weeks ago. | Ela **chegou** em Brisbane há duas semanas. |
+| She **arrived** in London two weeks ago. | Ela **chegou** em Londres há duas semanas. |
 | We **watched** a movie yesterday. | Nós **assistimos** a um filme ontem. |
 | They **studied** English in 2024. | Eles **estudaram** inglês em 2024. |
 
@@ -32,7 +32,7 @@ Eu trabalhei / ela trabalhou / nós trabalhamos…  ontem.
 
 **1. Ação terminada num momento definido do passado**
 - *I **cleaned** the house yesterday.* — Limpei a casa ontem.
-- *We **moved** to Australia last year.* — Nos mudamos para a Austrália no ano passado.
+- *We **moved** to a new city last year.* — Nos mudamos para uma nova cidade no ano passado.
 
 **2. Sequência de ações (contar uma história)**
 - *I **arrived** home, **opened** the door and **called** my mum.* — Cheguei em casa, abri a porta e liguei para minha mãe.
@@ -64,7 +64,7 @@ São as palavras que "gritam" passado simples:
 | Vogal + **y**: -ed normal (y fica) | play → play**ed** · stay → stay**ed** · enjoy → enjoy**ed** |
 | 1 vogal + 1 consoante no final (sílaba tônica): **dobra a consoante** | stop → sto**pp**ed · plan → pla**nn**ed · prefer → prefe**rr**ed (mas visit → visit**ed**, sem dobrar — a sílaba final não é tônica) |
 
-> 🇦🇺 No inglês britânico/australiano, *travel* dobra o **l**: *travel → trave**ll**ed* (*We travelled around Queensland.*). No americano é *traveled*. Na Austrália, escreva com **ll**.
+> 🇬🇧 No inglês britânico, *travel* dobra o **l**: *travel → trave**ll**ed* (*We travelled around Europe.*). No americano é *traveled*.
 
 ### Pronúncia: os 3 sons do -ed (o segredo que ninguém te conta)
 
@@ -101,7 +101,7 @@ No passado, negativa e pergunta **não usam -ed** — usam o auxiliar **did** (*
 
 ## Auto-teste
 
-1. Complete: *We ______ (move) to Brisbane last month.*
+1. Complete: *We ______ (move) to a new city last month.*
 2. O -ed de *worked* soa como /t/, /d/ ou /ɪd/? E o de *visited*?
 3. Escreva o passado: *study*, *stop*, *play*, *arrive*.
 4. Certo ou errado: *"She visitted her family in Brazil two years ago."*
@@ -110,7 +110,7 @@ No passado, negativa e pergunta **não usam -ed** — usam o auxiliar **did** (*
 <details>
 <summary><strong>Respostas</strong></summary>
 
-1. *We **moved** to Brisbane last month.* (termina em -e → só +d)
+1. *We **moved** to a new city last month.* (termina em -e → só +d)
 2. *worked* = **/t/** ("uorkt", 1 sílaba) · *visited* = **/ɪd/** (termina em som de t → ganha a sílaba extra).
 3. *stud**ied*** (consoante + y) · *sto**pp**ed* (dobra) · *play**ed*** (vogal + y, não muda) · *arrive**d*** (termina em -e).
 4. Errado — *visit* não dobra o **t** (a sílaba final não é tônica): *She **visited** her family...*

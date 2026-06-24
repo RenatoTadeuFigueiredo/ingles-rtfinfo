@@ -35,7 +35,7 @@ Existem milhares — mas só algumas dezenas aparecem o tempo todo na fala real.
 | *That exam was **a piece of cake**.* | Foi moleza / mamão com açúcar. |
 | *We're **in the same boat**.* | Estamos no mesmo barco. |
 | *I'm going to **hit the sack** — big day tomorrow.* | Vou capotar / dormir. |
-| *Finding a cheap flat in Brisbane is easier **said than done**.* | Falar é fácil, fazer que é difícil. |
+| *Finding a cheap flat downtown is easier **said than done**.* | Falar é fácil, fazer que é difícil. |
 
 **Dinheiro e trabalho**
 
@@ -51,11 +51,11 @@ Existem milhares — mas só algumas dezenas aparecem o tempo todo na fala real.
 
 | Inglês | Tradução/significado |
 |--------|----------------------|
-| *To **cut a long story short**, we moved to Australia.* | Resumindo a história... |
+| *To **cut a long story short**, we moved abroad.* | Resumindo a história... |
 | *That name **rings a bell**.* | Esse nome não me é estranho. |
 | *I can't **make heads or tails** of this form.* | Não entendo nada / não tem pé nem cabeça. |
 | *You **hit the nail on the head**.* | Acertou na mosca / em cheio. |
-| *Visa fees? That's just **the tip of the iceberg**.* | Só a ponta do iceberg. |
+| *Tuition fees? That's just **the tip of the iceberg**.* | Só a ponta do iceberg. |
 
 ### Idioms com primo em português (de graça)
 
@@ -114,9 +114,9 @@ Idiom é só uma parte. O que mais entrega "inglês de livro didático" é a fal
 | *Thank you.* → *You're welcome.* | *Thanks!* → ***No worries.*** |
 | *I understand.* | ***Fair enough.* / *Right, got it.*** |
 
-### Aussie English: o pacote de sobrevivência de Brisbane
+### Aussie English: o básico do inglês australiano
 
-A Austrália tem um dialeto informal fortíssimo — você vai ouvir isso TODO dia:
+O inglês australiano tem um dialeto informal fortíssimo — expressões que aparecem o tempo todo em filmes, séries e podcasts:
 
 | Aussie | Significado |
 |--------|-------------|
@@ -156,7 +156,7 @@ A armadilha do C1: decorar 50 idioms e despejar todos na conversa. O efeito é o
 2. **Modificar o idiom** — ❌ *kill two birds with one rock* → ✅ *kill two birds with one **stone*** (idiom é congelado — palavra por palavra)
 3. **Despejar idioms decorados em sequência** — ❌ 5 idioms numa resposta de 30 segundos → ✅ 1–2 bem encaixados; o resto em inglês claro e natural
 4. **Idiom informal em texto formal** — ❌ *Housing costs an arm and a leg* (no Writing Task 2) → ✅ *Housing is **extremely expensive*** (idioms informais são para a fala)
-5. **"Actually" = "atualmente"** — ❌ *Actually I live in Brisbane* (querendo dizer "atualmente") → ✅ ***Currently** I live in Brisbane* (*actually* = "na verdade")
+5. **"Actually" = "atualmente"** — ❌ *Actually I live in London* (querendo dizer "atualmente") → ✅ ***Currently** I live in London* (*actually* = "na verdade")
 6. **Não reconhecer o Aussie English** — *How are you going?* é "como vai?" (não é sobre transporte), e *thongs* são **chinelos** (não roupa íntima!)
 
 ## Auto-teste
@@ -193,7 +193,7 @@ A armadilha do C1: decorar 50 idioms e despejar todos na conversa. O efeito é o
 ## Revisão rápida (5 min)
 
 - [ ] Recite a regra de ouro: idiom é **bloco congelado** — não se troca palavra (*stone*, não *rock*)
-- [ ] Fale 3 idioms em frases completas sobre sua vida em Brisbane (*costs an arm and a leg*, *in the same boat*, *play it by ear*)
+- [ ] Fale 3 idioms em frases completas sobre sua rotina (*costs an arm and a leg*, *in the same boat*, *play it by ear*)
 - [ ] Naturalidade: refaça em voz alta "*It is expensive. I do not like it.*" → "*It's **a bit** expensive, **to be honest** — I don't love it.*"
 - [ ] Aussie pack: o que significam *arvo*, *barbie*, *thongs*, *no worries*, *How are you going?*
 - [ ] Armadilha nº 1: **não traduza idiom do português ao pé da letra** — se não OUVIU em contexto real, não use

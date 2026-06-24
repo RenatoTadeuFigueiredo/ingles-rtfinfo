@@ -33,10 +33,10 @@ Estes cobrem a maior parte das conversas do dia a dia. Decore com a frase de exe
 | 2 | **get up** | levantar (da cama) | *She **gets up** early for class.* — Ela levanta cedo para a aula. |
 | 3 | **turn on** | ligar (aparelho) | ***Turn on** the air conditioner, please.* — Liga o ar-condicionado, por favor. |
 | 4 | **turn off** | desligar | *I **turned off** my phone in class.* — Desliguei meu celular na aula. |
-| 5 | **put on** | vestir, colocar | ***Put on** sunscreen — the sun in Brisbane is strong.* — Passe protetor solar — o sol em Brisbane é forte. |
+| 5 | **put on** | vestir, colocar | ***Put on** sunscreen — the sun is very strong here.* — Passe protetor solar — o sol é muito forte aqui. |
 | 6 | **take off** | tirar (roupa); decolar | *He **took off** his shoes.* — Ele tirou os sapatos. |
-| 7 | **get on** | embarcar (ônibus/trem) | *We **got on** the train at Roma Street.* — Embarcamos no trem na Roma Street. |
-| 8 | **get off** | descer (do ônibus/trem) | ***Get off** at South Bank station.* — Desça na estação South Bank. |
+| 7 | **get on** | embarcar (ônibus/trem) | *We **got on** the train at Central Station.* — Embarcamos no trem na Estação Central. |
+| 8 | **get off** | descer (do ônibus/trem) | ***Get off** at the next station.* — Desça na próxima estação. |
 | 9 | **pick up** | pegar, buscar (alguém/algo) | *Can you **pick me up** at the airport?* — Pode me buscar no aeroporto? |
 | 10 | **look for** | procurar | *We're **looking for** a flat near the city.* — Estamos procurando um apartamento perto do centro. |
 | 11 | **look after** | cuidar de | *She **looks after** her neighbour's dog.* — Ela cuida do cachorro da vizinha. |
@@ -46,7 +46,7 @@ Estes cobrem a maior parte das conversas do dia a dia. Decore com a frase de exe
 | 15 | **come back** | voltar (para cá) | *He **came back** from Sydney on Monday.* — Ele voltou de Sydney na segunda. |
 | 16 | **wait for** | esperar (por) | *I'm **waiting for** the bus.* — Estou esperando o ônibus. |
 | 17 | **write down** | anotar | ***Write down** the new words.* — Anote as palavras novas. |
-| 18 | **fill in** | preencher (formulário) | *You need to **fill in** this visa form.* — Você precisa preencher este formulário do visto. |
+| 18 | **fill in** | preencher (formulário) | *You need to **fill in** this application form.* — Você precisa preencher este formulário de inscrição. |
 | 19 | **throw away** | jogar fora | *Don't **throw away** the receipt.* — Não jogue fora o recibo. |
 | 20 | **run out (of)** | acabar (estoque de algo) | *We **ran out of** milk.* — Acabou o leite (lá em casa). |
 
@@ -106,7 +106,7 @@ Nem todo "verbo + palavrinha" é phrasal verb. Em *She **looked at** the photo* 
 
 1. Complete: *Can you ______ me ______ at the station?* (buscar)
 2. Certo ou errado: *"I turned off it before the class."*
-3. Traduza: "Nós descemos do ônibus na South Bank."
+3. Traduza: "Nós descemos do ônibus no centro da cidade."
 4. Complete no passado: *She ______ (find out) the truth yesterday.*
 5. Separável ou inseparável? *look for* — e onde vai o pronome em "Estou procurando por elas (the keys)"?
 
@@ -115,7 +115,7 @@ Nem todo "verbo + palavrinha" é phrasal verb. Em *She **looked at** the photo* 
 
 1. *Can you **pick** me **up** at the station?*
 2. Errado — pronome vai no meio: *I turned **it** off before the class.*
-3. *We **got off** the bus at South Bank.*
+3. *We **got off** the bus downtown.*
 4. *She **found out** the truth yesterday.* (find → found, irregular)
 5. **Inseparável** (partícula é preposição) — pronome depois: *I'm looking **for them**.*
 

@@ -60,7 +60,7 @@ O uso mais comum. Cobre tanto coisas que você **aprendeu** quanto coisas que vo
 | You **can't** smoke here. | Você **não pode** fumar aqui. |
 | Students **can** use the library until 10 pm. | Os alunos **podem** usar a biblioteca até as 22h. |
 
-Na Austrália você vai usar isso o tempo todo: *Can I have a flat white, please?* (Posso pedir um flat white?) — *Can I sit here?* (Posso sentar aqui?). **Can I have...?** é a fórmula universal para pedir qualquer coisa em café, restaurante e loja.
+No dia a dia você vai usar isso o tempo todo: *Can I have a coffee, please?* (Posso pedir um café?) — *Can I sit here?* (Posso sentar aqui?). **Can I have...?** é a fórmula universal para pedir qualquer coisa em café, restaurante e loja.
 
 ### Uso 3: Pedidos — "você pode...?"
 
@@ -74,9 +74,9 @@ Com **you**, vira um pedido:
 
 **Can** também fala do que **é possível** num lugar ou situação:
 
-- *You **can** see koalas at Lone Pine Sanctuary.* — Dá para ver coalas no santuário Lone Pine (em Brisbane!).
-- *You **can't** swim at some Queensland beaches in summer — jellyfish!* — Não dá para nadar em algumas praias de Queensland no verão — águas-vivas!
-- *In Brisbane, you **can** take a ferry to work.* — Em Brisbane, dá para ir de balsa para o trabalho.
+- *You **can** visit many museums in London for free.* — Dá para visitar muitos museus em Londres de graça.
+- *You **can't** swim at some beaches in summer — jellyfish!* — Não dá para nadar em algumas praias no verão — águas-vivas!
+- *In the city centre, you **can** take a tram to work.* — No centro da cidade, dá para ir de bonde para o trabalho.
 
 ### Pronúncia: can vs can't — o detalhe que muda tudo
 
@@ -87,7 +87,7 @@ Na fala natural, a diferença quase não está no "t" final:
 | **can** (afirmativa) | /kən/ — fraco, rápido, "kn" | átono: *I c'n swim* |
 | **can't** | /kɑːnt/ — FORTE, vogal longa "aaa" | acentuado: *I CAAN'T swim* |
 
-Macete para o listening: se a palavra soou **forte e longa**, é **can't**. Se passou voando, é **can**. Na pronúncia australiana/britânica, *can't* soa como "cánt" com "a" de "pai" alongado — bem diferente do *can* fraquinho.
+Macete para o listening: se a palavra soou **forte e longa**, é **can't**. Se passou voando, é **can**. Na pronúncia britânica e americana, *can't* soa como "cánt" com "a" de "pai" alongado — bem diferente do *can* fraquinho.
 
 ### Resumo: por que can é diferente dos verbos normais
 
@@ -115,7 +115,7 @@ Essa "rebeldia" não é exclusiva do *can*: ela é o padrão de toda a família 
 2. Certo ou errado: *"She cans speak three languages."*
 3. Traduza: "Posso pagar com cartão?"
 4. Transforme em negativa: *I can hear you.*
-5. Você está num café em Brisbane e quer um flat white. O que você diz?
+5. Você está num café e quer um cappuccino. O que você diz?
 
 <details>
 <summary><strong>Respostas</strong></summary>
@@ -124,7 +124,7 @@ Essa "rebeldia" não é exclusiva do *can*: ela é o padrão de toda a família 
 2. Errado — can nunca leva -s: *She **can** speak three languages.*
 3. ***Can** I pay by card?*
 4. *I **can't** hear you.* (ou *I cannot hear you*, mais formal)
-5. ***Can I have** a flat white, please?* — a fórmula universal de pedido.
+5. ***Can I have** a cappuccino, please?* — a fórmula universal de pedido.
 
 </details>
 
@@ -149,4 +149,4 @@ Essa "rebeldia" não é exclusiva do *can*: ela é o padrão de toda a família 
 - [ ] A armadilha nº 1: "sei nadar" = *I **can** swim* — nunca *I know swim*
 - [ ] Fale 3 frases em voz alta: uma habilidade sua (*I can...*), uma que não tem (*I can't...*), um pedido (*Can you...?*)
 - [ ] Pronúncia: *can* fraco /kən/ · *can't* forte e longo /kɑːnt/ — fale *I can swim / I can't swim* e ouça a diferença
-- [ ] Pratique a fórmula de pedido: *Can I have... please?* — peça 3 coisas imaginárias num café de Brisbane
+- [ ] Pratique a fórmula de pedido: *Can I have... please?* — peça 3 coisas imaginárias num café

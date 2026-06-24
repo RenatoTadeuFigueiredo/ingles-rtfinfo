@@ -15,8 +15,8 @@ O futuro contínuo (**will be + -ing**) descreve uma ação que **estará em and
 ```
 FUTURO CONTÍNUO:  WILL BE + VERBO-ING
 
-This time next year,  I  will be living     in Brisbane.
-Nessa época ano que vem, eu estarei morando em Brisbane.
+This time next year,  I  will be living     in London.
+Nessa época ano que vem, eu estarei morando em Londres.
 
 FUTURO PERFEITO:  WILL HAVE + PARTICÍPIO (3ª coluna)
 
@@ -37,7 +37,7 @@ Até dezembro, nós teremos economizado dinheiro suficiente.
 
 É a "foto do futuro": você se imagina num momento e descreve o que estará acontecendo.
 
-- *This time tomorrow, we **will be flying** to Australia.* — Amanhã a essa hora, estaremos voando para a Austrália.
+- *This time tomorrow, we **will be flying** to New York.* — Amanhã a essa hora, estaremos voando para Nova York.
 - *At 9am on Monday, I **will be sitting** in my first class.* — Às 9h de segunda, estarei sentada na minha primeira aula.
 
 **2. Evento futuro já "encaminhado" (curso natural das coisas)**
@@ -58,9 +58,9 @@ Para falar de algo que vai acontecer porque já está planejado/é rotina — se
 
 O futuro perfeito posiciona você **num ponto futuro olhando para trás**: até lá, a ação já vai ter acontecido. Quase sempre vem com um **prazo**:
 
-- *By 2028, Giovanna **will have finished** her course.* — Até 2028, a Giovanna terá terminado o curso.
+- *By 2028, Ana **will have finished** her course.* — Até 2028, a Ana terá terminado o curso.
 - *By the time you arrive, I **will have cooked** dinner.* — Quando você chegar, eu já terei feito o jantar.
-- *We **will have been** in Brisbane for a year by next November.* — Em novembro que vem, vamos ter completado um ano em Brisbane.
+- *We **will have been** in London for a year by next November.* — Em novembro que vem, vamos ter completado um ano em Londres.
 
 ### A palavra-chave: by
 
@@ -117,19 +117,19 @@ As duas formas têm equivalente direto — o problema é que no Brasil quase nin
 
 ## Auto-teste
 
-1. Complete: *This time next week, we ______ (fly) to Brisbane.*
+1. Complete: *This time next week, we ______ (fly) to Tokyo.*
 2. Complete: *By the end of the course, she ______ (write) more than twenty essays.*
 3. Certo ou errado: *"By the time we will get home, the game will have started."*
-4. Traduza: "Em dezembro, vamos ter completado seis meses na Austrália."
+4. Traduza: "Em dezembro, vamos ter completado seis meses morando no exterior."
 5. Will be doing ou will have done? *Don't come at 3pm — I ______ (have) my English class at that time.*
 
 <details>
 <summary><strong>Respostas</strong></summary>
 
-1. *This time next week, we **will be flying** to Brisbane.* (foto do momento futuro)
+1. *This time next week, we **will be flying** to Tokyo.* (foto do momento futuro)
 2. *By the end of the course, she **will have written** more than twenty essays.* (by = prazo → futuro perfeito)
 3. Errado — will não entra na frase de tempo: *By the time we **get** home, the game will have started.*
-4. *By December, we **will have been** in Australia for six months.* (ou *will have completed six months*)
+4. *By December, we **will have been** abroad for six months.* (ou *will have completed six months*)
 5. ***will be having*** — a aula estará em andamento às 15h. (have aqui = atividade, não posse, por isso aceita -ing)
 
 </details>
@@ -152,6 +152,6 @@ As duas formas têm equivalente direto — o problema é que no Brasil quase nin
 - [ ] Recite as duas fórmulas: **will be + -ing** (em andamento) · **will have + particípio** (concluído até um prazo)
 - [ ] A palavra-gatilho do futuro perfeito é **by** ("até") — *by Friday, by then, by the time...*
 - [ ] Depois de **by the time / when**, o verbo fica no **presente** (nunca will)
-- [ ] Fale 3 frases sobre a vida em Brisbane: *This time next year, I will be...* (contínuo)
+- [ ] Fale 3 frases sobre o futuro próximo: *This time next year, I will be...* (contínuo)
 - [ ] Fale 2 frases de balanço: *By 2028, we will have...* (perfeito)
 - [ ] Armadilha nº 1: ❌ *by the time you will arrive* → ✅ *by the time you **arrive***

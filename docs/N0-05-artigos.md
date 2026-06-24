@@ -19,7 +19,7 @@
 | **∅** (nenhum) | coisas em geral | I like coffee. | Gosto de café. |
 
 A história clássica em duas frases mostra o sistema inteiro:
-- *We saw **a** koala at Lone Pine. **The** koala was sleeping.* — Vimos **um** coala (1ª vez: a). **O** coala (agora você sabe qual) estava dormindo (2ª vez: the).
+- *We saw **a** koala at the zoo. **The** koala was sleeping.* — Vimos **um** coala (1ª vez: a). **O** coala (agora você sabe qual) estava dormindo (2ª vez: the).
 
 ### A ou An? É o SOM que manda, não a letra
 
@@ -38,7 +38,7 @@ A história clássica em duas frases mostra o sistema inteiro:
 ### Quando usar A/AN
 
 **1. Primeira menção — algo novo na conversa**
-- *We found **a** flat in Brisbane.* — Achamos **um** apartamento em Brisbane.
+- *We found **a** flat in the city.* — Achamos **um** apartamento na cidade.
 
 **2. Profissão e ocupação (obrigatório! o português não usa, o inglês SIM)**
 - *I'm **a** student.* — Sou estudante.
@@ -46,7 +46,7 @@ A história clássica em duas frases mostra o sistema inteiro:
 
 **3. "Um qualquer" — não importa qual**
 - *Can I have **a** coffee, please?* — Um café, por favor (qualquer um).
-- *She needs **a** visa to study in Australia.* — Ela precisa de um visto.
+- *She needs **a** visa to travel.* — Ela precisa de um visto.
 
 > **A/an só existe no singular contável.** No plural ou com incontáveis, vira ∅ ou *some*: *a banana → bananas / some bananas*.
 
@@ -58,24 +58,24 @@ A história clássica em duas frases mostra o sistema inteiro:
 
 **2. Coisas únicas no mundo (só existe um)**
 - ***the** sun, **the** sky, **the** internet, **the** weather*
-- ***The** weather in Brisbane is great.* — O tempo em Brisbane é ótimo.
+- ***The** weather in London is great.* — O tempo em Londres é ótimo.
 
 **3. Superlativos e ordinais**
 - ***the** best beach, **the** first day, **the** same bus*
-- *Brisbane is **the** third biggest city in Australia.* — A terceira maior cidade.
+- *Tokyo is **the** biggest city in Japan.* — A maior cidade.
 
 **4. Rios, oceanos e alguns nomes geográficos**
-- ***the** Brisbane River, **the** Pacific Ocean, **the** Gold Coast*
+- ***the** Amazon River, **the** Pacific Ocean, **the** Nile*
 
 ### Quando NÃO usar artigo (∅) — aqui o brasileiro mais erra
 
 **1. Generalizações (plural ou incontável)**
 - *∅ Dogs are friendly.* — **Os** cachorros são amigáveis. (português usa "os", inglês NÃO)
-- *∅ Life in Australia is expensive.* — **A** vida na Austrália é cara.
+- *∅ Life in big cities is expensive.* — **A** vida nas cidades grandes é cara.
 - *I love ∅ music.* — Adoro música.
 
 **2. Nomes de pessoas, cidades e (quase todos os) países**
-- *∅ Giovanna lives in ∅ Brisbane, ∅ Australia.* — **A** Giovanna mora em Brisbane.
+- *∅ Ana lives in ∅ São Paulo, ∅ Brazil.* — **A** Ana mora em São Paulo.
 - ⚠️ Exceções fixas: **the** USA, **the** UK, **the** Philippines, **the** Netherlands.
 
 **3. Refeições, idiomas e matérias**
@@ -95,18 +95,18 @@ O português usa artigo definido **muito mais** que o inglês. A tradução lite
 | Português | Inglês | Atenção |
 |-----------|--------|---------|
 | **A** vida é boa. | ∅ **Life** is good. | generalização = sem artigo |
-| **A** Giovanna chegou. | ∅ **Giovanna** arrived. | nome de pessoa = sem artigo |
+| **A** Ana chegou. | ∅ **Ana** arrived. | nome de pessoa = sem artigo |
 | Sou ∅ engenheira. | I'm **an** engineer. | profissão = COM a/an (invertido!) |
 | Gosto de ∅ café. | I like ∅ coffee. | igual — sem artigo nos dois |
 | **O** Brasil é grande. | ∅ **Brazil** is big. | país = sem artigo |
 
-> Regra de bolso: na dúvida entre *the* e nada numa frase geral ("A vida...", "Os australianos..."), o inglês quase sempre fica **sem artigo**.
+> Regra de bolso: na dúvida entre *the* e nada numa frase geral ("A vida...", "Os estudantes..."), o inglês quase sempre fica **sem artigo**.
 
 ## Pegadinhas e erros comuns de brasileiros
 
 1. **Profissão sem artigo** — ❌ *I am engineer.* → ✅ *I am **an** engineer.* (a/an é obrigatório com profissão)
-2. **"The" em generalização** — ❌ *The life in Australia is good.* → ✅ *∅ **Life** in Australia is good.*
-3. **Artigo com nome de pessoa ou país** — ❌ *The Giovanna lives in the Brazil.* → ✅ *∅ Giovanna lives in ∅ Brazil.* (mas: **the** USA, **the** UK)
+2. **"The" em generalização** — ❌ *The life in big cities is good.* → ✅ *∅ **Life** in big cities is good.*
+3. **Artigo com nome de pessoa ou país** — ❌ *The Ana lives in the Brazil.* → ✅ *∅ Ana lives in ∅ Brazil.* (mas: **the** USA, **the** UK)
 4. **Escolher a/an pela letra, não pelo som** — ❌ *a hour, an university* → ✅ ***an** hour* (h mudo), ***a** university* (som de "iú")
 5. **Artigo antes de possessivo** — ❌ *the my flat* → ✅ ***my** flat* (possessivo dispensa artigo)
 6. **A/an no plural** — ❌ *I bought a shoes.* → ✅ *I bought ∅ shoes / **some** shoes.* (a/an = só singular)
@@ -114,7 +114,7 @@ O português usa artigo definido **muito mais** que o inglês. A tradução lite
 ## Auto-teste
 
 1. Complete: *She is ______ engineer and he is ______ doctor.*
-2. Certo ou errado: *"The life in the Australia is expensive."*
+2. Certo ou errado: *"The life in the Japan is expensive."*
 3. Traduza: "Vimos um coala no parque. O coala estava dormindo."
 4. Complete com a, an, the ou ∅ (nada): *I have ______ breakfast at 7 and go to ______ work by bus.*
 5. A ou an? *______ hour · ______ university · ______ umbrella · ______ one-bedroom flat*
@@ -123,7 +123,7 @@ O português usa artigo definido **muito mais** que o inglês. A tradução lite
 <summary><strong>Respostas</strong></summary>
 
 1. *She is **an** engineer and he is **a** doctor.* (an + som de vogal, a + som de consoante)
-2. Errado duas vezes — generalização e país não levam artigo: *∅ **Life** in ∅ **Australia** is expensive.*
+2. Errado duas vezes — generalização e país não levam artigo: *∅ **Life** in ∅ **Japan** is expensive.*
 3. *We saw **a** koala at the park. **The** koala was sleeping.* (1ª menção = a, 2ª = the)
 4. *I have **∅** breakfast at 7 and go to **∅** work by bus.* (refeição e "work" de rotina = sem artigo)
 5. ***an** hour* (h mudo) · ***a** university* (som "iú") · ***an** umbrella* · ***a** one-bedroom flat* (som "uan")
@@ -147,6 +147,6 @@ O português usa artigo definido **muito mais** que o inglês. A tradução lite
 - [ ] Recite o sistema: **a/an** = um qualquer (1ª menção) · **the** = aquele específico · **∅** = geral
 - [ ] A ou an é pelo **SOM**: fale em voz alta *an hour, a university, an apple, a house*
 - [ ] Profissão SEMPRE com a/an: fale 2 frases sobre vocês (*I'm a..., He's an...*)
-- [ ] Generalização = sem artigo: fale 3 frases (*Life in Brisbane..., Coffee in Australia..., Dogs are...*)
+- [ ] Generalização = sem artigo: fale 3 frases (*Life in big cities..., Coffee in Japan..., Dogs are...*)
 - [ ] Armadilha nº 1: nunca *"I am engineer"* — sempre *I am **an** engineer*
 - [ ] Conte a "história do coala" em voz alta: *a koala → the koala* (1ª menção → 2ª menção)

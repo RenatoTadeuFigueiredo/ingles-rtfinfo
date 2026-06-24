@@ -23,7 +23,7 @@ A escolha depende de duas perguntas: **perto ou longe?** e **um ou vários?**
 |--------|-----------|
 | **This** apartment is small. | **Este** apartamento é pequeno. |
 | **These** apartments are expensive. | **Estes** apartamentos são caros. |
-| **That** building is the Story Bridge office. | **Aquele** prédio é o escritório da Story Bridge. |
+| **That** building is the city hall. | **Aquele** prédio é a prefeitura. |
 | **Those** birds are so loud! | **Aqueles** pássaros são tão barulhentos! |
 
 > Não tem gênero: *this* serve para "este" E "esta". O inglês não muda a palavra para masculino/feminino — só para perto/longe e singular/plural.
@@ -60,22 +60,22 @@ Uso enorme na conversa do dia a dia: **that** retoma algo que a outra pessoa **a
 
 | Inglês | Português |
 |--------|-----------|
-| — We got the visa! — **That's** great! | — Conseguimos o visto! — **Que** ótimo! / **Isso** é ótimo! |
+| — We got the job! — **That's** great! | — Conseguimos o emprego! — **Que** ótimo! / **Isso** é ótimo! |
 | **That** sounds good. | **Isso** parece bom. (aceitando uma sugestão) |
-| **That's** AUD 12.50, please. | **Dá** 12,50, por favor. (caixa do mercado) |
+| **That's** $12.50, please. | **Dá** 12,50, por favor. (caixa do mercado) |
 | **That's** it. / **That's** all. | É **isso**. / **Só isso**. |
 
-Memorize **That's great / That sounds good / That's it** como blocos prontos — aparecem o tempo todo em Brisbane, do café ao Centrelink.
+Memorize **That's great / That sounds good / That's it** como blocos prontos — aparecem o tempo todo no dia a dia, do café à farmácia.
 
 ### "This is..." para apresentar pessoas e no telefone
 
 Em inglês, apresentação de pessoa usa **this**, não "he/she":
 
-- ***This is** my husband, Renato.* — **Este é** meu marido, Renato.
-- ***This is** Sarah, my classmate from ILSC.* — **Esta é** a Sarah, minha colega de aula.
+- ***This is** my husband, Carlos.* — **Este é** meu marido, Carlos.
+- ***This is** Sofia, my classmate.* — **Esta é** a Sofia, minha colega de aula.
 
 E **ao telefone**, quem fala se identifica com *this*, não com "I am":
-- *Hi, **this is** Giovanna. I'm calling about the rental inspection.* — Oi, **aqui é** a Giovanna. Estou ligando sobre a vistoria do imóvel.
+- *Hi, **this is** Ana. I'm calling about the appointment.* — Oi, **aqui é** a Ana. Estou ligando sobre o agendamento.
 - *Who's **that**?* / *Who am I speaking to?* — Quem fala?
 
 ### Contraste com o português: 3 graus viram 2
@@ -108,14 +108,14 @@ E o **th** dos quatro é o sonoro (língua entre os dentes, com vibração) — 
 1. **Misturar singular e plural** — ❌ *this books* → ✅ ***these** books* (substantivo no plural pede these/those)
 2. **Verbo errado com o plural** — ❌ *These is my documents.* → ✅ *These **are** my documents.*
 3. **Falar "this" quando quer dizer "these"** — pronúncia igual = mensagem errada: */ðɪs/* (curto) é UM, */ðiːz/* (longo, com z) são VÁRIOS.
-4. **"I am Giovanna" ao telefone** — ❌ *Hi, I am Giovanna.* → ✅ *Hi, **this is** Giovanna.* (no telefone, quem liga usa this is)
+4. **"I am Julia" ao telefone** — ❌ *Hi, I am Julia.* → ✅ *Hi, **this is** Julia.* (no telefone, quem liga usa this is)
 5. **Usar "this" para tudo porque "esse" é genérico em PT** — ❌ *I love this house* (apontando para uma casa do outro lado da rua) → ✅ *I love **that** house.* (longe = that)
 
 ## Auto-teste
 
 1. Complete: *______ shoes here are mine, and ______ shoes over there are yours.*
 2. Certo ou errado: *"This apples are fresh."*
-3. Traduza: "Aqui é o Renato. Estou ligando sobre o apartamento." (ao telefone)
+3. Traduza: "Aqui é a Ana. Estou ligando sobre o apartamento." (ao telefone)
 4. Alguém te conta uma boa notícia. Responda em inglês: "Isso é ótimo!"
 5. Complete com is ou are: *What ______ this? And what ______ those?*
 
@@ -124,7 +124,7 @@ E o **th** dos quatro é o sonoro (língua entre os dentes, com vibração) — 
 
 1. ***These** shoes here are mine, and **those** shoes over there are yours.* (perto = these, longe = those)
 2. Errado — *apples* é plural: ***These** apples are fresh.*
-3. *Hi, **this is** Renato. I'm calling about the apartment/flat.* (nunca "I am Renato" no telefone)
+3. *Hi, **this is** Ana. I'm calling about the apartment/flat.* (nunca "I am Ana" no telefone)
 4. ***That's** great!* (that retoma o que acabou de ser dito)
 5. *What **is** this? And what **are** those?* (this = singular, those = plural)
 
@@ -148,5 +148,5 @@ E o **th** dos quatro é o sonoro (língua entre os dentes, com vibração) — 
 - [ ] Armadilha nº 1: substantivo plural NUNCA com this/that — *these books*, não ~~this books~~
 - [ ] Pronuncie em voz alta 3x: *this* (curto) vs *these* (longo com z)
 - [ ] Aponte para 4 coisas no cômodo e fale: *this..., that..., these..., those...*
-- [ ] Fale os blocos prontos: *That's great! · That sounds good. · This is Giovanna.* (telefone)
+- [ ] Fale os blocos prontos: *That's great! · That sounds good. · This is Ana.* (telefone)
 - [ ] Se errou singular/plural → revise [N0-06] antes de seguir

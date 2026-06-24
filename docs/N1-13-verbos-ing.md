@@ -31,7 +31,7 @@ Eu gosto de  nadar.
 
 | Verbo | Exemplo | Tradução |
 |-------|---------|----------|
-| **like** | I **like living** in Brisbane. | Gosto de morar em Brisbane. |
+| **like** | I **like living** in a big city. | Gosto de morar em uma cidade grande. |
 | **love** | We **love going** to the beach. | Amamos ir à praia. |
 | **hate** | I **hate waking up** early. | Odeio acordar cedo. |
 | **enjoy** | She **enjoys reading** in English. | Ela curte ler em inglês. |
@@ -72,15 +72,15 @@ São duas coisas diferentes — e a segunda pede **to**:
 | **like + -ing** | I **like drinking** coffee. | Gosto em geral (sempre). |
 | **would like + to** | I**'d like to drink** a coffee. | Quero **agora** (pedido educado). |
 
-No café em Brisbane, você vai usar a segunda: *I'd like **to order** a flat white, please.* — "Eu gostaria de pedir um flat white."
+No café, você vai usar a segunda: *I'd like **to order** a flat white, please.* — "Eu gostaria de pedir um flat white."
 
 ### go + -ing: atividades de lazer
 
-Atividades físicas e de lazer usam **go + -ing** — perfeito para falar de fim de semana na Austrália:
+Atividades físicas e de lazer usam **go + -ing** — perfeito para falar de fim de semana:
 
-- *We **go swimming** at Streets Beach.* — A gente vai nadar na Streets Beach.
-- *They **go surfing** on the Gold Coast.* — Eles vão surfar na Gold Coast.
-- *I **go shopping** at Queen Street Mall.* — Vou fazer compras no Queen Street Mall.
+- *We **go swimming** at the local pool.* — A gente vai nadar na piscina local.
+- *They **go surfing** at the beach.* — Eles vão surfar na praia.
+- *I **go shopping** at the mall.* — Vou fazer compras no shopping.
 - *Let's **go camping** this weekend!* — Vamos acampar nesse fim de semana!
 
 ### Bônus: -ing como sujeito da frase
@@ -89,7 +89,7 @@ O verbo com -ing também funciona como **substantivo** no começo da frase (em p
 
 - ***Swimming** is my favourite sport.* — **Nadar** é meu esporte favorito.
 - ***Learning** English takes time.* — **Aprender** inglês leva tempo.
-- ***Living** in Australia is expensive.* — **Morar** na Austrália é caro.
+- ***Living** abroad is expensive.* — **Morar** no exterior é caro.
 
 > 👀 Espiada no futuro: alguns verbos (*stop, try, remember*) mudam de sentido com -ing ou *to* — isso é o N2-07. Por enquanto, com verbos de gosto, **-ing sempre funciona**.
 

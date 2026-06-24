@@ -14,8 +14,8 @@ Quando dois verbos se encontram, o segundo vira **-ing** ou **to + verbo** depen
 
 | Grupo | Verbos | Exemplo |
 |-------|--------|---------|
-| **+ -ing** | enjoy, finish, avoid, mind, keep, suggest, practise, consider, miss | *I **enjoy living** in Brisbane.* — Gosto de morar em Brisbane. |
-| **+ to** | want, decide, hope, plan, learn, promise, agree, offer, refuse, manage, afford | *We **decided to move** to Australia.* — Decidimos nos mudar para a Austrália. |
+| **+ -ing** | enjoy, finish, avoid, mind, keep, suggest, practise, consider, miss | *I **enjoy living** in London.* — Gosto de morar em Londres. |
+| **+ to** | want, decide, hope, plan, learn, promise, agree, offer, refuse, manage, afford | *We **decided to move** abroad.* — Decidimos nos mudar para o exterior. |
 | **Tanto faz** (mesmo sentido) | like, love, hate, start, begin, continue, prefer | *It **started raining** / **started to rain**.* — Começou a chover. |
 
 > ⚠️ Exceção do grupo "tanto faz": com **would**, só infinitivo — *I **would like to visit** Sydney* (nunca ~~would like visiting~~). *Like doing* = gostar em geral; *would like to do* = querer agora.
@@ -27,13 +27,13 @@ Aqui **-ing vs to** muda o **significado** da frase, não só a forma:
 | Verbo | + -ing | + to |
 |-------|--------|------|
 | **remember** | *I **remember locking** the door.* — Lembro de ter trancado (memória do passado). | *I **remembered to lock** the door.* — Lembrei de trancar (não esqueci da tarefa). |
-| **forget** | *I'll never **forget seeing** the Opera House.* — Nunca vou esquecer de ter visto. | *Don't **forget to bring** your passport.* — Não esqueça de trazer. |
+| **forget** | *I'll never **forget seeing** the Colosseum.* — Nunca vou esquecer de ter visto. | *Don't **forget to bring** your passport.* — Não esqueça de trazer. |
 | **stop** | *She **stopped drinking** coffee.* — Parou de tomar (largou o hábito). | *She **stopped to drink** coffee.* — Parou (o que fazia) **para** tomar um café. |
 | **try** | ***Try studying** in the morning.* — Experimente estudar de manhã (teste, pode funcionar). | *I **tried to study**, but I was too tired.* — Tentei estudar (me esforcei, era difícil). |
 | **regret** | *I **regret not studying** English earlier.* — Me arrependo de não ter estudado antes. | *We **regret to inform** you...* — Lamentamos informar... (formal, dar má notícia). |
 | **go on** | *He **went on talking** for an hour.* — Continuou falando (a mesma coisa). | *She **went on to become** a manager.* — Depois, passou a ser gerente (mudou de etapa). |
 | **mean** | *Moving abroad **means leaving** family behind.* — Mudar de país implica deixar a família. | *I didn't **mean to hurt** you.* — Não foi minha intenção te magoar. |
-| **need** | *The visa form **needs checking**.* — O formulário precisa ser revisado (sentido passivo!). | *I **need to check** the visa form.* — Eu preciso revisar. |
+| **need** | *The report **needs checking**.* — O relatório precisa ser revisado (sentido passivo!). | *I **need to check** the report.* — Eu preciso revisar. |
 
 Macete geral: **-ing olha para trás ou para a ação em si** (memória, hábito, experiência); **to olha para frente** (tarefa, intenção, propósito).
 
@@ -79,21 +79,21 @@ Qualquer preposição (in, at, of, for, about, without, after, before...) força
 | He left **without saying** goodbye. | Ele saiu sem se despedir. |
 | **Instead of driving**, take the train to the city. | Em vez de dirigir, pegue o trem para o centro. |
 | **Thanks for helping** me move. | Obrigada por me ajudar na mudança. |
-| **After arriving** in Brisbane, we opened a bank account. | Depois de chegar em Brisbane, abrimos uma conta. |
+| **After arriving** in the city, we opened a bank account. | Depois de chegar na cidade, abrimos uma conta. |
 
 Dois casos onde o **to é preposição** (e por isso vem -ing, não verbo):
 
 - ***look forward to* + -ing**: *I'm **looking forward to meeting** you.* — Estou ansiosa para te conhecer. (nunca ~~to meet~~)
 - ***be/get used to* + -ing**: *I'm **used to waking up** early.* — Estou acostumada a acordar cedo.
 
-> ⚠️ Não confunda: ***used to* + verbo** = costumava (passado): *I **used to live** in Brazil.* · ***be used to* + -ing** = estar acostumado (presente): *I'm **used to living** in Australia.*
+> ⚠️ Não confunda: ***used to* + verbo** = costumava (passado): *I **used to live** in Brazil.* · ***be used to* + -ing** = estar acostumado (presente): *I'm **used to living** abroad.*
 
 ### Gerúndio como sujeito da frase
 
 Quando o verbo é o **assunto** da frase, ele vira -ing (ou usa-se *It's... to*):
 
-- ***Finding** a rental in Brisbane **is** hard.* — Encontrar aluguel em Brisbane é difícil.
-- = *It's hard **to find** a rental in Brisbane.* (mesmo sentido, estrutura com *it*)
+- ***Finding** a rental in New York **is** hard.* — Encontrar aluguel em Nova York é difícil.
+- = *It's hard **to find** a rental in New York.* (mesmo sentido, estrutura com *it*)
 - ***Swimming** in the ocean is my favourite thing here.* — Nadar no mar é minha coisa favorita aqui.
 
 Note o verbo no **singular** (*Finding... is*), porque o sujeito é a ação (uma coisa só).
@@ -128,18 +128,18 @@ Depois de **adjetivos**, vem infinitivo:
 
 ## Auto-teste
 
-1. Complete: *Don't forget ______ (renew) your visa — and I'll never forget ______ (see) a kangaroo for the first time!*
+1. Complete: *Don't forget ______ (lock) the door — and I'll never forget ______ (see) the Eiffel Tower for the first time!*
 2. Certo ou errado: *"My manager wants that I work this weekend."*
-3. Traduza: "Estou ansiosa para conhecer a Austrália."
+3. Traduza: "Estou ansioso(a) para conhecer Paris."
 4. Qual a diferença? *I tried to open the window* vs *I tried opening the window.*
 5. Complete: *The apartment needs ______ (clean) before the inspection, so she made us ______ (do) it today.*
 
 <details>
 <summary><strong>Respostas</strong></summary>
 
-1. *Don't forget **to renew** your visa* (tarefa futura) — *I'll never forget **seeing** a kangaroo* (memória do passado).
+1. *Don't forget **to lock** the door* (tarefa futura) — *I'll never forget **seeing** the Eiffel Tower* (memória do passado).
 2. Errado — *want* não aceita "that": *My manager wants **me to work** this weekend.*
-3. *I'm looking forward **to visiting/seeing** Australia.* (to = preposição → -ing)
+3. *I'm looking forward **to visiting/seeing** Paris.* (to = preposição → -ing)
 4. ***tried to open*** = me esforcei para abrir (estava difícil, talvez não consegui) · ***tried opening*** = experimentei abrir (como teste, para ver se resolvia algo).
 5. *The apartment needs **cleaning*** (need + -ing = sentido passivo) *...she made us **do** it* (make + infinitivo sem to).
 
@@ -164,5 +164,5 @@ Depois de **adjetivos**, vem infinitivo:
 - [ ] "Quero que você..." = **want + pessoa + to** — fale 3 frases (*I want you to..., She asked me to..., They advised us to...*)
 - [ ] **make/let + verbo sem to** — fale 2 frases sobre sua rotina
 - [ ] Armadilha nº 1: nunca diga *I want **that** you...* — corrija em voz alta 3 vezes
-- [ ] Fale 2 frases com gerúndio como sujeito sobre Brisbane (*Living in Brisbane..., Finding a flat...*)
+- [ ] Fale 2 frases com gerúndio como sujeito sobre sua cidade ou rotina (*Living downtown..., Finding a flat...*)
 - [ ] Se errou os verbos básicos (+ -ing / + to) → revise [N2-07] antes de seguir

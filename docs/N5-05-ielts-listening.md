@@ -6,7 +6,7 @@
 
 ## Em 1 frase
 
-O IELTS Listening não testa só ouvido — testa **leitura antecipada, previsão da resposta e resistência a distractors**: o áudio toca **UMA vez só**, então quem chega sem estratégia perde pontos que o inglês dela já daria conta.
+O IELTS Listening não testa só ouvido — testa **leitura antecipada, previsão da resposta e resistência a distractors**: o áudio toca **UMA vez só**, então quem chega sem estratégia perde pontos que o inglês do candidato já daria conta.
 
 ## Explicação completa
 
@@ -23,19 +23,19 @@ O IELTS Listening não testa só ouvido — testa **leitura antecipada, previsã
 - ~30 minutos de áudio + tempo para transferir/conferir respostas (10 min na prova em papel, ~2 min na de computador).
 - O áudio toca **uma única vez**. Não existe replay.
 - Mesma prova de Listening para Academic e General Training.
-- Sotaques variados: britânico, **australiano**, neozelandês, americano — mais um motivo para a Giovanna treinar com material australiano (ABC News, podcasts de Brisbane).
+- Sotaques variados: britânico, **australiano**, neozelandês, americano — mais um motivo para treinar com material de sotaques variados (BBC, podcasts internacionais).
 
 ### Quantos acertos = qual banda
 
 | Acertos (de 40) | Banda aproximada |
 |-----------------|------------------|
 | 16 | 5.0 |
-| **18** | **5.5 ← mínimo por banda (meta de visto)** |
+| **18** | **5.5 ← mínimo por banda** |
 | **23** | **6.0 ← meta geral** |
 | 26 | 6.5 |
 | 30 | 7.0 |
 
-> 🎯 IELTS: para a meta da Giovanna (6.0 geral / 5.5 por banda), **18 acertos garantem a banda mínima e 23 fecham a meta** — ou seja, dá para errar 17 questões e ainda passar. Isso muda a estratégia: não é sobre acertar tudo, é sobre **não perder os pontos fáceis** (Parts 1 e 2).
+> 🎯 IELTS: para atingir 6.0 geral / 5.5 por banda, **18 acertos garantem a banda mínima e 23 fecham a meta** — ou seja, dá para errar 17 questões e ainda passar. Isso muda a estratégia: não é sobre acertar tudo, é sobre **não perder os pontos fáceis** (Parts 1 e 2).
 
 ### Tipos de questão e o que cada um exige
 
@@ -114,7 +114,7 @@ A instrução define o máximo. Passou do limite = **errado**, mesmo com a infor
 
 A resposta certa escrita errado = **zero**. Os assassinos silenciosos:
 
-1. **Soletração**: Part 1 quase sempre soletra um nome — treine o alfabeto, principalmente **A/E/I/R** e *"double t"* (= tt). *"That's B-R-I-S-B-A-N-E."*
+1. **Soletração**: Part 1 quase sempre soletra um nome — treine o alfabeto, principalmente **A/E/I/R** e *"double t"* (= tt). *"That's B-E-R-L-I-N."*
 2. **Plural**: o áudio diz *"keep your **tickets**"* — escrever *ticket* é erro. Treine ouvir o **-s** final (brasileiro engole).
 3. **Números parecidos**: *thirteen* (13) × *thirty* (30) — a diferença é o acento: thir**TEEN** × **THIR**ty. Idem 14/40, 15/50...
 4. **Datas e telefones**: *double oh seven* = 007; *"the twenty-first of May"* = 21 May.
@@ -147,7 +147,7 @@ Na Part 4 não há pausa no meio. O que salva é reconhecer as frases que anunci
 
 ## Auto-teste
 
-1. Quantas vezes o áudio toca, e quantos acertos (de 40) a Giovanna precisa para garantir banda 5.5?
+1. Quantas vezes o áudio toca, e quantos acertos (de 40) um candidato precisa para garantir banda 5.5?
 2. A instrução diz *NO MORE THAN TWO WORDS*. A resposta é uma estação de trem chamada "the Roma Street station". O que você escreve?
 3. Você ouve: *"The tour starts at nine... sorry, that should be nine thirty, because of the roadworks."* Qual horário você anota?
 4. Na questão está escrito *accommodation*; o áudio nunca diz essa palavra. Isso significa que a resposta não veio?
@@ -182,5 +182,5 @@ Na Part 4 não há pausa no meio. O que salva é reconhecer as frases que anunci
 - [ ] Recite os alvos: **18 acertos = 5.5 (mínimo)** · **23 = 6.0 (meta)** — não pode perder os pontos fáceis da Part 1
 - [ ] Armadilha nº 1: **distractor com correção** — ouviu *actually / sorry / I mean*, a resposta vem DEPOIS
 - [ ] Fale em voz alta 3 gatilhos de correção e 3 frases-sinal de palestra (*moving on to...*)
-- [ ] Soletre seu nome completo e o endereço em Brisbane em inglês, com *double letters*
+- [ ] Soletre seu nome completo e um endereço qualquer em inglês, com *double letters*
 - [ ] Regra de ouro: perdeu uma questão → **abandona, segue o áudio, chuta no final** (sem penalidade)

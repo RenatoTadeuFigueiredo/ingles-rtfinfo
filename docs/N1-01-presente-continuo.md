@@ -24,7 +24,7 @@ You/We/They    are  working.
 |------------|----------|----------|
 | I **am studying** English. | I**'m not studying** now. | **Am** I **studying** enough? |
 | She **is working** today. | She **isn't working** today. | **Is** she **working** today? |
-| They **are living** in Brisbane. | They **aren't living** here. | **Are** they **living** in Brisbane? |
+| They **are living** in London. | They **aren't living** here. | **Are** they **living** in London? |
 
 > Na fala e na escrita informal, use as contrações: *I'm doing, she's doing, we're doing*. A pergunta é só **inversão**: o am/is/are pula para antes do sujeito — não existe *do/does* aqui.
 
@@ -42,12 +42,12 @@ You/We/They    are  working.
 ### Os 4 usos principais
 
 **1. Agora, neste exato momento**
-- *It **is raining** in Brisbane.* — Está chovendo em Brisbane.
+- *It **is raining** outside.* — Está chovendo lá fora.
 - *Wait — I**'m talking** on the phone.* — Espera — estou falando no telefone.
 
 **2. Em torno de agora (período temporário, mesmo que não seja neste segundo)**
 - *I**'m studying** English this year.* — Estou estudando inglês este ano. (não necessariamente neste minuto)
-- *We**'re looking** for a flat in Brisbane.* — Estamos procurando um apartamento em Brisbane.
+- *We**'re looking** for a flat in the city.* — Estamos procurando um apartamento na cidade.
 - *She**'s working** at a café these days.* — Ela está trabalhando num café ultimamente.
 
 **3. Mudanças em andamento**
@@ -56,7 +56,7 @@ You/We/They    are  working.
 
 **4. Planos futuros já combinados (arranjos com hora/pessoa marcada)**
 - *I**'m meeting** my agent tomorrow.* — Vou me encontrar com meu agente amanhã.
-- *We**'re flying** to Australia in November.* — Vamos voar para a Austrália em novembro.
+- *We**'re flying** to London in November.* — Vamos voar para Londres em novembro.
 - 🔭 Esse uso futuro conversa com **going to** — detalhado em [N1-06].
 
 ### Verbos que NÃO vão no contínuo (verbos de estado)
@@ -98,7 +98,7 @@ O escorregão vem de dois lugares:
 
 1. Complete: *Quiet, please — the baby ______ (sleep).*
 2. Certo ou errado: *"I am knowing the answer."*
-3. Traduza: "Estamos morando em Brisbane este ano."
+3. Traduza: "Estamos morando em Londres este ano."
 4. Presente simples ou contínuo? "Eu trabalho de casa toda segunda-feira."
 5. Escreva o -ing de: *swim, make, study, lie*.
 
@@ -107,7 +107,7 @@ O escorregão vem de dois lugares:
 
 1. *The baby **is sleeping**.*
 2. Errado — *know* é verbo de estado: *I **know** the answer.*
-3. *We **are living** in Brisbane this year.* (situação temporária → contínuo)
+3. *We **are living** in London this year.* (situação temporária → contínuo)
 4. **Presente simples** — rotina: *I **work** from home every Monday.*
 5. *swi**mm**ing* (dobra) · *mak**ing*** (corta o -e) · *study**ing*** (o -y fica) · *l**ying*** (-ie → -ying).
 
@@ -131,4 +131,4 @@ O escorregão vem de dois lugares:
 - [ ] Armadilha nº 1: **nunca** comer o verb to be — ❌ *I working* → ✅ *I **am** working*
 - [ ] Verbos de estado (want, like, know, need) = presente simples, mesmo falando de agora
 - [ ] Olhe pela janela e fale 3 frases sobre o que está acontecendo agora (*It's raining... People are walking...*)
-- [ ] Fale 2 frases sobre planos da mudança para a Austrália (*We're flying to Brisbane in...*)
+- [ ] Fale 2 frases sobre planos futuros já combinados (*We're flying to London in...*)

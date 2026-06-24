@@ -21,7 +21,7 @@ SUJEITO  +  VERBO  +  OBJETO/COMPLEMENTO
 | Sujeito (quem faz) | Verbo (a ação) | Objeto (quem recebe) |
 |--------------------|----------------|----------------------|
 | **I** | **drink** | **coffee** every morning. |
-| **Giovanna** | **studies** | **English**. |
+| **Ana** | **studies** | **English**. |
 | **They** | **watch** | **movies** on Sundays. |
 | **The dog** | **eats** | **food**. |
 
@@ -65,7 +65,7 @@ Na afirmativa, praticamente nunca. É isso que torna o inglês "previsível": n�
 
 Monte as frases na ordem correta (responda antes de abrir as respostas):
 
-1. coffee / drinks / Giovanna → ?
+1. coffee / drinks / Ana → ?
 2. Traduzir: "Está frio hoje."
 3. Traduzir: "Tem dois bancos nessa rua."
 4. ordene: every day / English / I / at home / study
@@ -74,7 +74,7 @@ Monte as frases na ordem correta (responda antes de abrir as respostas):
 <details>
 <summary><strong>Respostas</strong></summary>
 
-1. *Giovanna drinks coffee.*
+1. *Ana drinks coffee.*
 2. *It is cold today.* (sujeito fantasma **it**)
 3. *There are two banks on this street.* (existência = there are)
 4. *I study English at home every day.* (SVO + lugar + tempo)

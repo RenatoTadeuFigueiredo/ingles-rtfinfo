@@ -22,8 +22,8 @@ Se você aquece   água a 100°C,    ela ferve.
 | Parte do IF (condição) | Resultado (sempre verdadeiro) | Tradução |
 |------------------------|-------------------------------|----------|
 | If you **heat** ice, | it **melts**. | Se você aquece gelo, ele derrete. |
-| If it **rains** in Brisbane, | the traffic **gets** worse. | Se chove em Brisbane, o trânsito piora. |
-| If you **don't wear** sunscreen in Queensland, | you **get** sunburnt. | Se você não usa protetor solar em Queensland, você se queima de sol. |
+| If it **rains** in London, | the traffic **gets** worse. | Se chove em Londres, o trânsito piora. |
+| If you **don't wear** sunscreen on a hot day, | you **get** sunburnt. | Se você não usa protetor solar num dia quente, você se queima de sol. |
 
 As duas metades podem trocar de ordem (sem vírgula quando o *if* vem depois):
 - *Ice **melts** if you **heat** it.*
@@ -40,17 +40,17 @@ Diferente das outras condicionais, aqui **não entra will nem would em lugar nen
 
 **1. Verdades gerais e fatos científicos**
 - *Water **freezes** if the temperature **drops** below 0°C.* — A água congela se a temperatura cai abaixo de 0°C.
-- *If you **leave** food outside in Australia, possums **eat** it.* — Se você deixa comida do lado de fora na Austrália, os gambás comem.
+- *If you **leave** food outside in the park, birds **eat** it.* — Se você deixa comida do lado de fora no parque, os pássaros comem.
 
 **2. Hábitos e rotinas (do falante ou de qualquer pessoa)**
 - *If I **work** at night, I **sleep** in the morning.* — Se eu trabalho à noite, durmo de manhã.
-- *If we **have** free time on Sunday, we **go** to South Bank.* — Se temos tempo livre no domingo, vamos ao South Bank.
+- *If we **have** free time on Sunday, we **go** to the park.* — Se temos tempo livre no domingo, vamos ao parque.
 
 **3. Regras, instruções e avisos (com imperativo ou modal no resultado)**
-- *If it's an emergency in Australia, **call** 000.* — Se for uma emergência na Austrália, ligue para 000.
+- *If it's an emergency, **call** the emergency number.* — Se for uma emergência, ligue para o número de emergência.
 - *If you **see** a snake, **don't touch** it.* — Se você vir uma cobra, não toque nela.
-- *If you **want** to study in Australia, you **must have** a visa.* — Se você quer estudar na Austrália, precisa ter visto.
-- *If you**'re** under 18, you **can't buy** alcohol in Queensland.* — Se você tem menos de 18, não pode comprar álcool em Queensland.
+- *If you **want** to study abroad, you **must have** a student visa.* — Se você quer estudar no exterior, precisa ter visto de estudante.
+- *If you**'re** under 18, you **can't buy** alcohol in most countries.* — Se você tem menos de 18, não pode comprar álcool na maioria dos países.
 
 ### If = When (só na condicional zero)
 
@@ -99,7 +99,7 @@ O português faz **igual**: "Se você aquece água, ela ferve" — presente dos 
 1. Complete: *If you ______ (heat) ice, it ______ (melt).*
 2. Certo ou errado: *"If you will mix red and white, you get pink."*
 3. Traduza: "Se você não dorme bem, você fica cansado."
-4. *______ it rains in Brisbane, the traffic gets worse.* — if, when, ou os dois?
+4. *______ it rains in London, the traffic gets worse.* — if, when, ou os dois?
 5. Complete com imperativo: *If you ______ (see) a snake, ______ (not / touch) it.*
 
 <details>
@@ -130,5 +130,5 @@ O português faz **igual**: "Se você aquece água, ela ferve" — presente dos 
 - [ ] Will **nunca** entra na parte do if — nem no resultado, se for verdade geral
 - [ ] Zero = **sempre** verdade (fato/rotina) · 1ª = **um** evento futuro (*will*)
 - [ ] Na zero, *if* e *when* são trocáveis — fale a mesma frase com os dois
-- [ ] Fale 3 verdades gerais sobre a vida em Brisbane (*If it rains in Brisbane, ...*)
+- [ ] Fale 3 verdades gerais sobre sua rotina (*If it rains, ...* / *If I work at night, ...*)
 - [ ] Armadilha nº 1: "se você aquecer" = *if you heat* (presente!), nunca *if you will heat*

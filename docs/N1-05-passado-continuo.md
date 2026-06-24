@@ -25,7 +25,7 @@ You/We/They    were  studying.
 |------------|----------|----------|
 | I **was working** at home. | I **wasn't working**. | **Was** I **working**? |
 | She **was sleeping** at 10pm. | She **wasn't sleeping**. | **Was** she **sleeping**? |
-| They **were living** in Brisbane. | They **weren't living** there. | **Were** they **living** there? |
+| They **were living** in London. | They **weren't living** there. | **Were** they **living** there? |
 
 > Diferente do passado simples (N1-04), aqui **não existe did**: a pergunta e a negativa são feitas só invertendo/negando o *was/were*. ❌ *Did you were working?* → ✅ ***Were** you working?*
 
@@ -33,7 +33,7 @@ You/We/They    were  studying.
 
 **1. Ação em andamento num momento exato do passado**
 - *At 8 o'clock last night, I **was studying** English.* — Às 8 da noite ontem, eu estava estudando inglês.
-- *This time last year, we **were planning** the trip to Australia.* — Nesta época no ano passado, estávamos planejando a viagem para a Austrália.
+- *This time last year, we **were planning** the trip to Europe.* — Nesta época no ano passado, estávamos planejando a viagem para a Europa.
 
 **2. Ação longa interrompida por uma ação curta (o uso mais cobrado)**
 A ação longa vai no **passado contínuo**; a interrupção vai no **passado simples**, geralmente com **when**:
@@ -98,16 +98,16 @@ O passado contínuo cobre **dois** jeitos do português:
 ## Auto-teste
 
 1. Complete: *At 7am today, I ______ (sleep) and my husband ______ (make) coffee.*
-2. Complete com um de cada: *We ______ (walk) on the beach when we ______ (see) a kangaroo.*
+2. Complete com um de cada: *We ______ (walk) on the beach when we ______ (see) a whale.*
 3. Certo ou errado: *"Did you were studying last night?"*
 4. Traduza: "Enquanto eu cozinhava, ele estava estudando."
-5. Passado simples ou contínuo? *"I ______ (know) nobody when I arrived in Brisbane."*
+5. Passado simples ou contínuo? *"I ______ (know) nobody when I arrived in the city."*
 
 <details>
 <summary><strong>Respostas</strong></summary>
 
 1. *At 7am today, I **was sleeping** and my husband **was making** coffee.* (duas ações longas em paralelo)
-2. *We **were walking** on the beach when we **saw** a kangaroo.* (ação longa = contínuo; interrupção = simples)
+2. *We **were walking** on the beach when we **saw** a whale.* (ação longa = contínuo; interrupção = simples)
 3. Errado — não existe *did* com was/were: ***Were** you studying last night?*
 4. ***While** I **was cooking**, he **was studying**.*
 5. ***knew*** — *know* é stative verb, nunca vai para o contínuo.

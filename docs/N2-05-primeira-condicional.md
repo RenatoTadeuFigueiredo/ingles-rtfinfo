@@ -22,7 +22,7 @@ Se      chover   amanhã,    a gente vai ficar   em casa.
 | Parte do IF (condição) | Parte do WILL (resultado) | Tradução |
 |------------------------|---------------------------|----------|
 | If you **study** every day, | you **will pass** the IELTS. | Se você estudar todo dia, vai passar no IELTS. |
-| If we **save** enough money, | we **will visit** the Gold Coast. | Se a gente economizar o suficiente, vamos visitar a Gold Coast. |
+| If we **save** enough money, | we **will visit** New York. | Se a gente economizar o suficiente, vamos visitar Nova York. |
 | If she **doesn't hurry**, | she **will miss** the train to the city. | Se ela não se apressar, vai perder o trem para a cidade. |
 
 As duas metades podem trocar de ordem (sem vírgula quando o *if* vem depois):
@@ -62,7 +62,7 @@ Compare:
 A primeira condicional é a estrutura padrão para negociar o futuro:
 
 - **Promessa**: *If you help me move, I **will buy** you dinner.* — Se você me ajudar na mudança, eu pago o jantar.
-- **Aviso**: *If you don't wear sunscreen in Brisbane, you **will get** sunburnt.* — Se não passar protetor, vai se queimar.
+- **Aviso**: *If you don't wear sunscreen at the beach, you **will get** sunburnt.* — Se não passar protetor, vai se queimar.
 - **Ameaça**: *If you arrive late again, the manager **will notice**.* — Se chegar atrasada de novo, o gerente vai perceber.
 - **Oferta/sugestão**: *If you come to the beach with us, you **will love** it.* — Se vier à praia com a gente, vai adorar.
 
@@ -72,7 +72,7 @@ A parte do resultado aceita outras formas, dependendo do que você quer dizer:
 
 | Forma | Exemplo | Tradução | Quando usar |
 |-------|---------|----------|-------------|
-| **can** | If we finish early, we **can go** to South Bank. | Se terminarmos cedo, podemos ir ao South Bank. | possibilidade/permissão |
+| **can** | If we finish early, we **can go** to the park. | Se terminarmos cedo, podemos ir ao parque. | possibilidade/permissão |
 | **might/may** | If the flight is cheap, we **might travel** in July. | Se o voo estiver barato, talvez viajemos em julho. | talvez — menos certeza |
 | **should** | If you feel sick, you **should see** a doctor. | Se você se sentir mal, deve ir ao médico. | conselho |
 | **going to** | If they accept the offer, we **are going to celebrate**. | Se eles aceitarem a oferta, vamos comemorar. | plano/intenção |
@@ -91,9 +91,9 @@ Como o *unless* já é negativo, não negue de novo dentro dele (veja pegadinha 
 
 Todas as palavras de tempo que apontam para o futuro seguem a mesma regra: **presente simples, nunca will**:
 
-- ***When** we **arrive** in Brisbane, we **will look** for a flat.* — Quando a gente chegar...
+- ***When** we **arrive** in London, we **will look** for a flat.* — Quando a gente chegar...
 - *I **will text** you **as soon as** the class **finishes**.* — Assim que a aula terminar...
-- *We **won't book** anything **until** the visa **is** approved.* — Até o visto sair...
+- *We **won't book** anything **until** the reservation **is** confirmed.* — Até a reserva ser confirmada...
 
 Diferença entre **when** e **if**: *when* = vai acontecer com certeza (só não sei quando); *if* = pode acontecer ou não:
 - ***When** I get home, I will cook.* (vou chegar em casa com certeza)
@@ -109,7 +109,7 @@ Diferença entre **when** e **if**: *when* = vai acontecer com certeza (só não
 
 ## Auto-teste
 
-1. Complete: *If we ______ (move) to Brisbane, we ______ (live) near the river.*
+1. Complete: *If we ______ (move) to a bigger city, we ______ (live) near the river.*
 2. Certo ou errado: *"If it will be sunny on Sunday, we will go to the beach."*
 3. Traduza: "Se eu passar na prova, a gente comemora no sábado."
 4. Reescreva com **unless**: *If you don't book early, the flights will be expensive.*
@@ -118,7 +118,7 @@ Diferença entre **when** e **if**: *when* = vai acontecer com certeza (só não
 <details>
 <summary><strong>Respostas</strong></summary>
 
-1. *If we **move** to Brisbane, we **will live** near the river.*
+1. *If we **move** to a bigger city, we **will live** near the river.*
 2. Errado — will não entra no if: *If it **is** sunny on Sunday, we will go to the beach.*
 3. *If I **pass** the exam, we **will celebrate** on Saturday.* ("se eu passar" = presente simples)
 4. ***Unless** you **book** early, the flights **will be** expensive.* (sem negação depois do unless)
@@ -143,5 +143,5 @@ Diferença entre **when** e **if**: *when* = vai acontecer com certeza (só não
 - [ ] Will **nunca** entra na parte do if (nem depois de when/until/as soon as)
 - [ ] "Se eu tiver/for/vier" (futuro do subjuntivo) = **presente simples** em inglês
 - [ ] **Unless** = "se não" — sem negação dupla
-- [ ] Fale 3 frases sobre o futuro na Austrália (*If we move to Brisbane, ...*)
+- [ ] Fale 3 frases sobre o futuro (*If we move to a new city, ...*)
 - [ ] Zero = sempre acontece (*boils*) · 1ª = caso específico no futuro (*will*)

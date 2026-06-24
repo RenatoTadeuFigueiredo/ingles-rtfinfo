@@ -18,8 +18,8 @@ SUJEITO + AM/IS/ARE + GOING TO + VERBO (sem alterar)
 I              am   going to  study   tonight.
 Eu             vou            estudar hoje à noite.
 
-She            is   going to  move    to Brisbane.
-Ela            vai            se mudar para Brisbane.
+She            is   going to  move    to London.
+Ela            vai            se mudar para Londres.
 ```
 
 É o presente contínuo do verbo **go** (visto em N1-01) + **to** + outro verbo. Por isso o *be* tem que concordar com o sujeito:
@@ -42,7 +42,7 @@ A negativa e a pergunta seguem as regras do verbo **to be** — sem *do/does*:
 
 Perguntas com palavra interrogativa:
 - ***What are** you **going to do** on the weekend?* — O que você vai fazer no fim de semana?
-- ***Where are** they **going to live** in Australia?* — Onde eles vão morar na Austrália?
+- ***Where are** they **going to live** after the move?* — Onde eles vão morar depois da mudança?
 
 ### Uso 1: plano ou intenção já decidida
 
@@ -50,7 +50,7 @@ Quando a decisão **já foi tomada antes** do momento de falar:
 
 | Inglês | Português |
 |--------|-----------|
-| We **are going to move** to Brisbane in November. | Nós vamos nos mudar para Brisbane em novembro. |
+| We **are going to move** to London in November. | Nós vamos nos mudar para Londres em novembro. |
 | I **am going to take** the IELTS next year. | Eu vou fazer o IELTS ano que vem. |
 | She **is going to study** English every morning. | Ela vai estudar inglês toda manhã. |
 
@@ -86,7 +86,7 @@ Em A2 vale só reconhecer: **was/were going to** = "ia fazer" (mas não fez):
 
 ### "Gonna" — só na fala
 
-Na fala rápida, *going to* vira **gonna**: *I'm gonna stay home.* Você vai ouvir isso o tempo todo na Austrália — entenda, mas **nunca escreva** *gonna* em texto formal (e-mails, redações, IELTS).
+Na fala rápida, *going to* vira **gonna**: *I'm gonna stay home.* Você vai ouvir isso o tempo todo em filmes e conversas — entenda, mas **nunca escreva** *gonna* em texto formal (e-mails, redações, IELTS).
 
 ### Going to vs will vs presente contínuo (visão rápida)
 
@@ -94,11 +94,11 @@ A escolha entre os futuros depende de **quando você decidiu**:
 
 | | Exemplo | Quando usar |
 |---|---------|-------------|
-| **going to** | I **am going to visit** Sydney. | Plano já decidido antes de falar |
+| **going to** | I **am going to visit** Paris. | Plano já decidido antes de falar |
 | **will** | OK, I **will help** you. | Decisão na hora, promessa, previsão sem evidência |
-| **presente contínuo** | I **am visiting** Sydney on Friday. | Combinado já agendado (data/hora marcada) |
+| **presente contínuo** | I **am visiting** Paris on Friday. | Combinado já agendado (data/hora marcada) |
 
-> Em A2, regra prática: **plano = going to**. Na dúvida entre *going to* e presente contínuo para planos, os dois costumam funcionar: *We're going to move to Brisbane* ≈ *We're moving to Brisbane in November.*
+> Em A2, regra prática: **plano = going to**. Na dúvida entre *going to* e presente contínuo para planos, os dois costumam funcionar: *We're going to move to London* ≈ *We're moving to London in November.*
 
 ## Pegadinhas e erros comuns de brasileiros
 
@@ -110,7 +110,7 @@ A escolha entre os futuros depende de **quando você decidiu**:
 
 ## Auto-teste
 
-1. Complete: *We ______ (move) to Brisbane in November.*
+1. Complete: *We ______ (move) to London in November.*
 2. Certo ou errado: *"She going to start an English course next week."*
 3. Traduza: "O que você vai fazer no sábado?"
 4. Olhando nuvens pretas no céu, qual a frase natural: *It will rain* ou *It's going to rain*?
@@ -119,7 +119,7 @@ A escolha entre os futuros depende de **quando você decidiu**:
 <details>
 <summary><strong>Respostas</strong></summary>
 
-1. *We **are going to move** to Brisbane in November.*
+1. *We **are going to move** to London in November.*
 2. Errado — faltou o be: *She **is** going to start an English course next week.*
 3. ***What are you going to do** on Saturday?*
 4. ***It's going to rain*** — há evidência visível agora (as nuvens). *Will* seria previsão sem evidência.
@@ -143,6 +143,6 @@ A escolha entre os futuros depende de **quando você decidiu**:
 - [ ] Recite a forma: **am/is/are + going to + verbo** (be concorda com o sujeito)
 - [ ] Os 2 usos: **plano já decidido** · **previsão com evidência visível agora**
 - [ ] Armadilha nº 1: o português "vou" engole o *be* — confira o **am/is/are** em toda frase
-- [ ] Fale 3 planos seus para a Austrália em voz alta (*We're going to..., I'm going to...*)
+- [ ] Fale 3 planos seus para os próximos meses em voz alta (*We're going to..., I'm going to...*)
 - [ ] Faça 1 negativa e 1 pergunta em voz alta (*I'm not going to... / Are you going to...?*)
 - [ ] *Gonna* = só fala; na escrita, sempre **going to**
