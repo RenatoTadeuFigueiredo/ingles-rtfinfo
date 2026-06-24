@@ -1,0 +1,132 @@
+site_name: Inglês para a Austrália — Plano de Estudos
+site_description: Currículo completo de inglês do zero ao IELTS (A0 → C1), com dependências entre temas.
+site_url: https://ingles.rtfinfo.com/
+site_author: rtfinfo
+
+theme:
+  name: material
+  language: pt-BR
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - navigation.indexes
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Modo escuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+plugins:
+  - search:
+      lang: pt
+
+nav:
+  - Início (mapa do currículo): index.md
+  - "N0 · Fundação (A0–A1)":
+      - "N0-01 — Alfabeto, sons e pronúncia básica": N0-01-alfabeto-sons-pronuncia.md
+      - "N0-02 — Pronomes pessoais (I, you, he, she...)": N0-02-pronomes-pessoais.md
+      - "N0-03 — Verb to be (am / is / are)": N0-03-verb-to-be.md
+      - "N0-04 — Estrutura da frase: Sujeito-Verbo-Objeto (SVO)": N0-04-estrutura-da-frase-svo.md
+      - "N0-05 — Artigos (a / an / the)": N0-05-artigos.md
+      - "N0-06 — Substantivos e Plural (Nouns and Plurals)": N0-06-substantivos-e-plural.md
+      - "N0-07 — Adjetivos (posição e uso)": N0-07-adjetivos.md
+      - "N0-08 — Possessivos (my / your / 's)": N0-08-possessivos.md
+      - "N0-09 — Demonstrativos (this / that / these / those)": N0-09-demonstrativos.md
+      - "N0-10 — Presente Simples (Present Simple)": N0-10-presente-simples.md
+      - "N0-11 — Perguntas e question words (what / where / who...)": N0-11-perguntas-question-words.md
+      - "N0-12 — There is / There are": N0-12-there-is-there-are.md
+      - "N0-13 — Can / Can't (habilidade e permissão)": N0-13-can-cant.md
+      - "N0-14 — Preposições de lugar e tempo (in / on / at)": N0-14-preposicoes-lugar-tempo.md
+      - "N0-15 — Números, datas e horas": N0-15-numeros-datas-horas.md
+      - "N0-16 — Imperativo (Imperative)": N0-16-imperativo.md
+  - "N1 · Básico (A2)":
+      - "N1-01 — Presente Contínuo (am doing)": N1-01-presente-continuo.md
+      - "N1-02 — Presente Simples vs Contínuo (I do vs I am doing)": N1-02-presente-simples-vs-continuo.md
+      - "N1-03 — Passado Simples: Verbos Regulares (-ed)": N1-03-passado-simples-regulares.md
+      - "N1-04 — Passado simples: irregulares + did": N1-04-passado-simples-irregulares.md
+      - "N1-05 — Passado Contínuo (was doing)": N1-05-passado-continuo.md
+      - "N1-06 — Futuro: going to": N1-06-futuro-going-to.md
+      - "N1-07 — Futuro: will": N1-07-futuro-will.md
+      - "N1-08 — Contáveis e Incontáveis (Countable & Uncountable Nouns)": N1-08-contaveis-incontaveis.md
+      - "N1-09 — Some / Any / Much / Many / A lot of": N1-09-some-any-much-many.md
+      - "N1-10 — Comparativos e Superlativos (cheaper / the cheapest)": N1-10-comparativos-superlativos.md
+      - "N1-11 — Advérbios de frequência e modo (always, usually / quickly, well)": N1-11-adverbios-frequencia-modo.md
+      - "N1-12 — Pronomes objeto (me / him / them)": N1-12-pronomes-objeto.md
+      - "N1-13 — Verbos + -ing (like / love / hate doing)": N1-13-verbos-ing.md
+      - "N1-14 — Conjunções básicas (and / but / because / so)": N1-14-conjuncoes-basicas.md
+      - "N1-15 — Phrasal Verbs I (os 20 mais comuns)": N1-15-phrasal-verbs-1.md
+  - "N2 · Pré-intermediário (B1)":
+      - "N2-01 — Present Perfect (have done)": N2-01-present-perfect.md
+      - "N2-02 — Present Perfect vs Past Simple": N2-02-present-perfect-vs-past-simple.md
+      - "N2-03 — For / since / already / yet / just / ever / never": N2-03-for-since-already-yet.md
+      - "N2-04 — Condicional Zero (Zero Conditional)": N2-04-condicional-zero.md
+      - "N2-05 — Primeira Condicional (First Conditional)": N2-05-primeira-condicional.md
+      - "N2-06 — Modais: should / must / have to / might": N2-06-modais-should-must-have-to.md
+      - "N2-07 — Verbos + gerúndio ou infinitivo (stop doing / stop to do)": N2-07-gerundio-ou-infinitivo.md
+      - "N2-08 — Used to (hábitos do passado)": N2-08-used-to.md
+      - "N2-09 — Relative clauses básicas (who / which / that)": N2-09-relative-clauses-basicas.md
+      - "N2-10 — Voz Passiva: Presente e Passado (Passive Voice)": N2-10-voz-passiva-presente-passado.md
+      - "N2-11 — Question Tags (isn't it? / don't you?)": N2-11-question-tags.md
+      - "N2-12 — Quantificadores avançados (few / little / enough / too)": N2-12-quantificadores-avancados.md
+      - "N2-13 — Phrasal Verbs II": N2-13-phrasal-verbs-2.md
+  - "N3 · Intermediário (B1+/B2)":
+      - "N3-01 — Segunda Condicional (Second Conditional)": N3-01-segunda-condicional.md
+      - "N3-02 — Terceira Condicional (Third Conditional)": N3-02-terceira-condicional.md
+      - "N3-03 — Mixed Conditionals (condicionais mistas)": N3-03-mixed-conditionals.md
+      - "N3-04 — Present Perfect Continuous (have been doing)": N3-04-present-perfect-continuous.md
+      - "N3-05 — Past Perfect (had done / had been doing)": N3-05-past-perfect.md
+      - "N3-06 — Reported Speech (she said that...)": N3-06-reported-speech.md
+      - "N3-07 — Voz Passiva: Todos os Tempos (Passive Voice: All Tenses)": N3-07-voz-passiva-todos-tempos.md
+      - "N3-08 — Relative Clauses Avançadas (whose / where / non-defining)": N3-08-relative-clauses-avancadas.md
+      - "N3-09 — Modais de dedução (must be / can't be / might have)": N3-09-modais-deducao.md
+      - "N3-10 — Wish / If only": N3-10-wish-if-only.md
+      - "N3-11 — Conectores discursivos (however / although / despite)": N3-11-conectores-discursivos.md
+      - "N3-12 — Futuro Contínuo e Futuro Perfeito (will be doing / will have done)": N3-12-futuro-continuo-perfeito.md
+      - "N3-13 — Gerúndio e Infinitivo Avançado (Gerunds & Infinitives)": N3-13-gerundio-infinitivo-avancado.md
+  - "N4 · Intermediário-alto (B2+)":
+      - "N4-01 — Causativa: have / get something done": N4-01-causativa-have-something-done.md
+      - "N4-02 — Inversão (Never have I... / Not only...)": N4-02-inversao.md
+      - "N4-03 — Cleft Sentences (What I need is...)": N4-03-cleft-sentences.md
+      - "N4-04 — Subjuntivo e Estruturas Formais (I suggest that he be...)": N4-04-subjuntivo-formal.md
+      - "N4-05 — Elipse e Substituição (so do I / neither do I)": N4-05-elipse-substituicao.md
+      - "N4-06 — Collocations e chunks (make vs do, heavy rain)": N4-06-collocations-chunks.md
+      - "N4-07 — Registro: formal vs informal": N4-07-registro-formal-informal.md
+      - "N4-08 — Hedging e modalidade fina (would tend to / arguably)": N4-08-hedging-modalidade.md
+  - "N5 · Avançado / IELTS (C1)":
+      - "N5-01 — Writing Acadêmico: Estrutura de Essay": N5-01-writing-academico-essay.md
+      - "N5-02 — IELTS Writing Task 1 (gráficos e cartas)": N5-02-ielts-writing-task-1.md
+      - "N5-03 — IELTS Writing Task 2 (Opinion Essay)": N5-03-ielts-writing-task-2.md
+      - "N5-04 — IELTS Speaking: as 3 partes": N5-04-ielts-speaking.md
+      - "N5-05 — IELTS Listening: estratégias": N5-05-ielts-listening.md
+      - "N5-06 — IELTS Reading: Skimming e Scanning": N5-06-ielts-reading.md
+      - "N5-07 — Idioms e Linguagem Natural": N5-07-idioms-linguagem-natural.md
+      - "N5-08 — Nuances finais: artigos avançados, aspecto, ênfase": N5-08-nuances-finais.md
