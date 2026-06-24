@@ -1,0 +1,93 @@
+/* ===== Marca ===== */
+:root {
+  --brand-teal: #0d9488;
+  --brand-teal-dark: #0e7490;
+  --brand-amber: #f59e0b;
+  --md-accent-fg-color: #0e7490;
+}
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #14b8a6;
+  --md-accent-fg-color: #2dd4bf;
+}
+
+/* tipografia mais legível para estudo */
+.md-typeset {
+  font-size: .82rem;
+  line-height: 1.7;
+}
+.md-typeset h1, .md-typeset h2 { font-weight: 800; letter-spacing: -.01em; }
+.md-typeset h2 {
+  margin-top: 2.4em;
+  padding-bottom: .25em;
+  border-bottom: 2px solid var(--md-default-fg-color--lightest);
+}
+
+/* ===== Hero (home) ===== */
+.hero {
+  text-align: center;
+  padding: 2.6rem 1rem 1.4rem;
+  background:
+    radial-gradient(1200px 360px at 50% -10%, color-mix(in srgb, var(--brand-teal) 18%, transparent), transparent 70%);
+  border-radius: 1rem;
+  margin-bottom: 1.5rem;
+}
+.hero h1 {
+  font-size: 2.5rem;
+  font-weight: 900;
+  line-height: 1.1;
+  margin: .2rem 0 .4rem;
+  background: linear-gradient(95deg, var(--brand-teal), var(--brand-teal-dark));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+.hero p { font-size: 1.04rem; color: var(--md-default-fg-color--light); max-width: 40rem; margin: .3rem auto 1.2rem; }
+.hero .md-button { margin: .25rem .3rem; border-radius: 2rem; font-weight: 700; }
+.hero .md-button--primary { background: var(--brand-teal); border-color: var(--brand-teal); }
+.hero .md-button--primary:hover { background: var(--brand-teal-dark); border-color: var(--brand-teal-dark); }
+
+/* ===== Grid cards ===== */
+.md-typeset .grid.cards > ul > li {
+  border-radius: .8rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  transition: border-color .2s, box-shadow .2s, transform .2s;
+}
+.md-typeset .grid.cards > ul > li:hover {
+  border-color: var(--brand-teal);
+  box-shadow: 0 .4rem 1.2rem color-mix(in srgb, var(--brand-teal) 16%, transparent);
+  transform: translateY(-2px);
+}
+
+/* selo de nível */
+.lvl {
+  display: inline-block;
+  font-weight: 800;
+  font-size: .68rem;
+  letter-spacing: .04em;
+  padding: .1rem .5rem;
+  border-radius: 1rem;
+  color: #fff;
+}
+.lvl-n0 { background: #0d9488; }
+.lvl-n1 { background: #0891b2; }
+.lvl-n2 { background: #6366f1; }
+.lvl-n3 { background: #8b5cf6; }
+.lvl-n4 { background: #d946ef; }
+.lvl-n5 { background: #f59e0b; }
+
+/* ===== Callouts (blockquote) — as lições usam muito ">" ===== */
+.md-typeset blockquote {
+  border-left: .2rem solid var(--brand-teal);
+  background: color-mix(in srgb, var(--brand-teal) 6%, transparent);
+  border-radius: 0 .4rem .4rem 0;
+  color: var(--md-default-fg-color);
+}
+
+/* tabelas mais limpas */
+.md-typeset table:not([class]) th {
+  background: color-mix(in srgb, var(--brand-teal) 12%, transparent);
+  font-weight: 800;
+}
+
+/* esconde o título redundante da home */
+.md-typeset .hero + h2 { margin-top: 1rem; }

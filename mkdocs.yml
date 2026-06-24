@@ -1,46 +1,67 @@
-site_name: Inglês para a Austrália — Plano de Estudos
-site_description: Currículo completo de inglês do zero ao IELTS (A0 → C1), com dependências entre temas.
+site_name: Inglês para a Austrália
+site_description: Currículo completo de inglês do zero ao IELTS (A0 → C1), em português, com dependências entre os temas.
 site_url: https://ingles.rtfinfo.com/
 site_author: rtfinfo
+copyright: Conteúdo de estudo · rtfinfo.com
 
 theme:
   name: material
   language: pt-BR
+  logo: assets/logo.svg
+  favicon: assets/logo.svg
+  icon:
+    repo: fontawesome/brands/github
+  font:
+    text: Nunito
+    code: JetBrains Mono
   features:
     - navigation.instant
+    - navigation.instant.progress
     - navigation.tracking
     - navigation.top
-    - navigation.indexes
+    - navigation.footer
     - toc.follow
     - search.suggest
     - search.highlight
+    - search.share
     - content.code.copy
+    - content.tooltips
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
-      accent: indigo
+      primary: teal
+      accent: teal
       toggle:
         icon: material/weather-night
         name: Modo escuro
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
-      accent: indigo
+      primary: teal
+      accent: teal
       toggle:
         icon: material/weather-sunny
         name: Modo claro
+
+extra_css:
+  - stylesheets/extra.css
 
 markdown_extensions:
   - admonition
   - attr_list
   - md_in_html
   - tables
+  - def_list
+  - footnotes
+  - abbr
   - toc:
       permalink: true
   - pymdownx.highlight
   - pymdownx.superfences
   - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
@@ -50,7 +71,8 @@ plugins:
       lang: pt
 
 nav:
-  - Início (mapa do currículo): index.md
+  - Início: index.md
+  - Mapa do currículo: mapa.md
   - "N0 · Fundação (A0–A1)":
       - "N0-01 — Alfabeto, sons e pronúncia básica": N0-01-alfabeto-sons-pronuncia.md
       - "N0-02 — Pronomes pessoais (I, you, he, she...)": N0-02-pronomes-pessoais.md
